@@ -1,0 +1,3 @@
+local missions = {};
+
+return missions;
