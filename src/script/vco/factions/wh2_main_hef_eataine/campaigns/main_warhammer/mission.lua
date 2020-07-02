@@ -1,7 +1,7 @@
 local mission = [[
     mission {
-        victory_type wh_main_victory_type_short;
-        key wh_main_short_victory;
+        victory_type wh_dlc03_victory_type_ultimate;
+        key wh_main_long_victory;
         issuer CLAN_ELDERS;
 
         primary_objectives_and_payload {
