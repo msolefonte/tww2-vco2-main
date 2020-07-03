@@ -4,67 +4,44 @@ local missions = {
 		{
 			victory_type vco_victory_type_short;
 			key wh_main_short_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
-					override_text mission_text_text_wh2_main_objective_override_tyrion_control;
-					province wh2_main_eataine;
-					province wh2_main_yvresse;
-					province wh2_main_saphery;
-					province wh2_main_cothique;
-					province wh2_main_avelorn;
-					province wh2_main_chrace;
-					province wh2_main_nagarythe;
-					province wh2_main_ellyrion;
-					province wh2_main_tiranoc;
-					province wh2_main_caledor;
-					province wh2_main_eagle_gate;
-					province wh2_main_griffon_gate;
-					province wh2_main_unicorn_gate;
-					province wh2_main_phoenix_gate;
-				}
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_def_naggarond;
-					faction wh2_main_def_cult_of_pleasure;
-					faction wh2_main_def_har_ganeth;
-					faction wh2_dlc11_def_the_blessed_dread;
-					confederation_valid;
-				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_hef_eataine;
-					total 2;
-					building_level wh2_main_special_shrine_of_asuryan_1_hef;
-					building_level wh2_main_special_lothern_port_3;
-				}
-				objective
+			key wh_main_short_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
                 {
-					override_text mission_text_text_mis_activity_archaon_spawned;
-                    type SCRIPTED;
-                    script_key archaon_spawned;
+                    type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+                    total 30;
                 }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
+                objective
+                {
+                    type EARN_X_AMOUNT_FROM_RAIDING;
+                    total 6000;
+                }
+                objective
+                {
+                    type DESTROY_FACTION;
+                    faction wh_main_emp_middenland;
 
-				//
+                    faction wh2_dlc13_wef_laurelorn_forest;
+                    faction wh_dlc05_wef_wood_elves;
+                    faction wh_dlc05_wef_argwylon;
+                    faction wh_dlc05_wef_wydrioth;
+                    faction wh_dlc05_wef_torgovann;
+                    confederation_valid;
+                }
+                objective
+                {
+                    type FIGHT_SET_PIECE_BATTLE;
+                    set_piece_battle wh_dlc03_qb_bst_the_final_battle;
+                }
 
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
     ]],
     [[
  		mission
@@ -72,401 +49,63 @@ local missions = {
 			victory_type vco_victory_type_long;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
-					override_text mission_text_text_wh2_main_objective_override_tyrion_control;
-					province wh2_main_eataine;
-					province wh2_main_yvresse;
-					province wh2_main_saphery;
-					province wh2_main_cothique;
-					province wh2_main_avelorn;
-					province wh2_main_chrace;
-					province wh2_main_nagarythe;
-					province wh2_main_ellyrion;
-					province wh2_main_tiranoc;
-					province wh2_main_caledor;
-					province wh2_main_eagle_gate;
-					province wh2_main_griffon_gate;
-					province wh2_main_unicorn_gate;
-					province wh2_main_phoenix_gate;
-				}
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_def_naggarond;
-					faction wh2_main_def_cult_of_pleasure;
-					faction wh2_main_def_har_ganeth;
-					faction wh2_dlc11_def_the_blessed_dread;
-					confederation_valid;
-				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_hef_eataine;
-					total 2;
-					building_level wh2_main_special_shrine_of_asuryan_1_hef;
-					building_level wh2_main_special_lothern_port_3;
-				}
-				objective
+            primary_objectives_and_payload
+            {
+                objective
                 {
-					override_text mission_text_text_mis_activity_archaon_spawned;
-                    type SCRIPTED;
-                    script_key archaon_spawned;
+                    type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+                    total 70;
                 }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
-
-				//
-
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
-    ]],
-    [[
- 		mission
-		{
-			victory_type vco_victory_type_ultimate;
-			key wh_main_long_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
-					override_text mission_text_text_wh2_main_objective_override_tyrion_control;
-					province wh2_main_eataine;
-					province wh2_main_yvresse;
-					province wh2_main_saphery;
-					province wh2_main_cothique;
-					province wh2_main_avelorn;
-					province wh2_main_chrace;
-					province wh2_main_nagarythe;
-					province wh2_main_ellyrion;
-					province wh2_main_tiranoc;
-					province wh2_main_caledor;
-					province wh2_main_eagle_gate;
-					province wh2_main_griffon_gate;
-					province wh2_main_unicorn_gate;
-					province wh2_main_phoenix_gate;
-				}
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_def_naggarond;
-					faction wh2_main_def_cult_of_pleasure;
-					faction wh2_main_def_har_ganeth;
-					faction wh2_dlc11_def_the_blessed_dread;
-					confederation_valid;
-				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_hef_eataine;
-					total 2;
-					building_level wh2_main_special_shrine_of_asuryan_1_hef;
-					building_level wh2_main_special_lothern_port_3;
-				}
-				objective
+                objective
                 {
-					override_text mission_text_text_mis_activity_archaon_spawned;
-                    type SCRIPTED;
-                    script_key archaon_spawned;
+                    type EARN_X_AMOUNT_FROM_RAIDING;
+                    total 20000;
                 }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
-
-				//
-
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
-    ]],
-    [[
- 		mission
-		{
-			victory_type vco_victory_type_military;
-			key wh_main_long_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
-					override_text mission_text_text_wh2_main_objective_override_tyrion_control;
-					province wh2_main_eataine;
-					province wh2_main_yvresse;
-					province wh2_main_saphery;
-					province wh2_main_cothique;
-					province wh2_main_avelorn;
-					province wh2_main_chrace;
-					province wh2_main_nagarythe;
-					province wh2_main_ellyrion;
-					province wh2_main_tiranoc;
-					province wh2_main_caledor;
-					province wh2_main_eagle_gate;
-					province wh2_main_griffon_gate;
-					province wh2_main_unicorn_gate;
-					province wh2_main_phoenix_gate;
-				}
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_def_naggarond;
-					faction wh2_main_def_cult_of_pleasure;
-					faction wh2_main_def_har_ganeth;
-					faction wh2_dlc11_def_the_blessed_dread;
-					confederation_valid;
-				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_hef_eataine;
-					total 2;
-					building_level wh2_main_special_shrine_of_asuryan_1_hef;
-					building_level wh2_main_special_lothern_port_3;
-				}
-				objective
+                objective
                 {
-					override_text mission_text_text_mis_activity_archaon_spawned;
-                    type SCRIPTED;
-                    script_key archaon_spawned;
+                    type DESTROY_FACTION;
+                    faction wh_main_emp_averland;
+                    faction wh_main_emp_empire;
+                    faction wh_main_emp_hochland;
+                    faction wh_main_emp_middenland;
+                    faction wh_main_emp_nordland;
+                    faction wh_main_emp_ostland;
+                    faction wh_main_emp_ostermark;
+                    faction wh_main_emp_stirland;
+                    faction wh_main_emp_talabecland;
+                    faction wh2_dlc13_emp_golden_order;
+                    faction wh_main_emp_wissenland;
+
+                    faction wh_main_teb_border_princes;
+                    faction wh_main_teb_estalia;
+                    faction wh_main_teb_tilea;
+
+                    faction wh_main_brt_artois;
+                    faction wh_main_brt_bastonne;
+                    faction wh_main_brt_bordeleaux;
+                    faction wh_main_brt_bretonnia;
+                    faction wh_main_brt_carcassonne;
+                    faction wh_main_brt_parravon;
+
+                    faction wh2_dlc13_wef_laurelorn_forest;
+                    faction wh_dlc05_wef_wood_elves;
+                    faction wh_dlc05_wef_argwylon;
+                    faction wh_dlc05_wef_wydrioth;
+                    faction wh_dlc05_wef_torgovann;
+                    confederation_valid;
                 }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
-
-				//
-
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
-    ]],
-    [[
- 		mission
-		{
-			victory_type vco_victory_type_economic;
-			key wh_main_long_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
-					override_text mission_text_text_wh2_main_objective_override_tyrion_control;
-					province wh2_main_eataine;
-					province wh2_main_yvresse;
-					province wh2_main_saphery;
-					province wh2_main_cothique;
-					province wh2_main_avelorn;
-					province wh2_main_chrace;
-					province wh2_main_nagarythe;
-					province wh2_main_ellyrion;
-					province wh2_main_tiranoc;
-					province wh2_main_caledor;
-					province wh2_main_eagle_gate;
-					province wh2_main_griffon_gate;
-					province wh2_main_unicorn_gate;
-					province wh2_main_phoenix_gate;
-				}
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_def_naggarond;
-					faction wh2_main_def_cult_of_pleasure;
-					faction wh2_main_def_har_ganeth;
-					faction wh2_dlc11_def_the_blessed_dread;
-					confederation_valid;
-				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_hef_eataine;
-					total 2;
-					building_level wh2_main_special_shrine_of_asuryan_1_hef;
-					building_level wh2_main_special_lothern_port_3;
-				}
-				objective
+                objective
                 {
-					override_text mission_text_text_mis_activity_archaon_spawned;
-                    type SCRIPTED;
-                    script_key archaon_spawned;
+                    type FIGHT_SET_PIECE_BATTLE;
+                    set_piece_battle wh_dlc03_qb_bst_the_final_battle;
                 }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
 
-				//
-
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
-    ]],
-    [[
- 		mission
-		{
-			victory_type vco_victory_type_cultural;
-			key wh_main_long_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
-					override_text mission_text_text_wh2_main_objective_override_tyrion_control;
-					province wh2_main_eataine;
-					province wh2_main_yvresse;
-					province wh2_main_saphery;
-					province wh2_main_cothique;
-					province wh2_main_avelorn;
-					province wh2_main_chrace;
-					province wh2_main_nagarythe;
-					province wh2_main_ellyrion;
-					province wh2_main_tiranoc;
-					province wh2_main_caledor;
-					province wh2_main_eagle_gate;
-					province wh2_main_griffon_gate;
-					province wh2_main_unicorn_gate;
-					province wh2_main_phoenix_gate;
-				}
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_def_naggarond;
-					faction wh2_main_def_cult_of_pleasure;
-					faction wh2_main_def_har_ganeth;
-					faction wh2_dlc11_def_the_blessed_dread;
-					confederation_valid;
-				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_hef_eataine;
-					total 2;
-					building_level wh2_main_special_shrine_of_asuryan_1_hef;
-					building_level wh2_main_special_lothern_port_3;
-				}
-				objective
+                payload
                 {
-					override_text mission_text_text_mis_activity_archaon_spawned;
-                    type SCRIPTED;
-                    script_key archaon_spawned;
+                    game_victory;
                 }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
-
-				//
-
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
-    ]],
-    [[
- 		mission
-		{
-			victory_type wh_dlc03_victory_type_ultimate;
-			key wh_main_long_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
-					override_text mission_text_text_wh2_main_objective_override_tyrion_control;
-					province wh2_main_eataine;
-					province wh2_main_yvresse;
-					province wh2_main_saphery;
-					province wh2_main_cothique;
-					province wh2_main_avelorn;
-					province wh2_main_chrace;
-					province wh2_main_nagarythe;
-					province wh2_main_ellyrion;
-					province wh2_main_tiranoc;
-					province wh2_main_caledor;
-					province wh2_main_eagle_gate;
-					province wh2_main_griffon_gate;
-					province wh2_main_unicorn_gate;
-					province wh2_main_phoenix_gate;
-				}
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_def_naggarond;
-					faction wh2_main_def_cult_of_pleasure;
-					faction wh2_main_def_har_ganeth;
-					faction wh2_dlc11_def_the_blessed_dread;
-					confederation_valid;
-				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_hef_eataine;
-					total 2;
-					building_level wh2_main_special_shrine_of_asuryan_1_hef;
-					building_level wh2_main_special_lothern_port_3;
-				}
-				objective
-                {
-					override_text mission_text_text_mis_activity_archaon_spawned;
-                    type SCRIPTED;
-                    script_key archaon_spawned;
-                }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
-
-				//
-
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
+            }
+        }
     ]]
 };
 
