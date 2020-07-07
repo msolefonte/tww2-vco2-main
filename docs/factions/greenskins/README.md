@@ -4,87 +4,90 @@
 
 * **Short Victory Conditions**:
 	* Conquer or assimilate all of the Greenskin tribes
-	    * Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs od The Bloody Handz, Red Eye, Red 
+	    * Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs of The Bloody Handz, Red Eye, Red 
 	    Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz
-	* Occupy/loot/raze/sack at least 25 different settlements
-	* Earn 10000 from raiding
+	* Occupy/loot/raze/sack at least 35 settlements
+	* Build the Black Orc Headquarters
+	* Win in battle at least 7 faction leaders
 * **Long Victory Conditions**:
 	* Conquer or assimilate all of the Greenskin tribes
-	    * Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs od The Bloody Handz, Red
-	    Eye, Red Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz
-	* Occupy/loot/raze/sack at least 50 different settlements
-	* Capture all of the Dwarf provinces
-	    * Karak Ziflin, Karak Norn, Karak Izor, Karak Hirn, Karag Dromar, Oakenhammer, Zhufbar, Karaz-a-Karak, 
-	    The Pillars of Grungni, Karak Kadrin, Barak Varr, Varenka Hills, Dringorackaz, Kradtommen, Kraka Drak,
-	    Khazid Bordkarag, Sjoktraken, Karak Azul
-	* Earn 20000 from raiding
+	    * Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs of The Bloody Handz, Red Eye, Red 
+	    Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz
+	* Occupy/loot/raze/sack at least 50 settlements
+	* Build the Black Orc Headquarters
+	* Win in battle at least 15 faction leaders
 	* Defeat Archaon
 
 ### Bonerattlaz
 
 * **Short Victory Conditions**:
 	* Destroy Osterark, Kislev and Karak Kadrin
-	* Occupy/loot/raze/sack at least 25 different settlements
+	* Occupy/loot/raze/sack at least 35 settlements
 	* Earn 10000 from raiding
 * **Long Victory Conditions**:
 	* Destroy Averland, Empire, Hochland, Middenland, Norland, Ostland, Ostermark, Stirland, Talabecland, The Golden 
 	Order, Wissenland, Kislev and Karak Kadrin
-	* Occupy/loot/raze/sack at least 50 different settlements
-	* Control Nagashizar
+	* Occupy/loot/raze/sack at least 50 settlements
+	* Control the Broken Teeth province
+	* Build the Great Halls of Nagashizzar
 	* Earn 20000 from raiding
 	* Defeat Archaon
 
 ### The Bloody Handz
 
 * **Short Victory Conditions**:
-	*  Conquer or assimilate all of the Greenskin tribes
-	    * Greenskins, Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs od The Bloody Handz, Red
-	    Eye, Red Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz
-	* Conquer provinces:
-	    * Eastern Badlands, Southern Badlands, Western Badlands
-	* Occupy/loot/raze/sack at least 25 different settlements
-	* Earn 10000 from raiding
+    * Control provinces:
+        * Southern Badlands, Western Badlands
+	* Loot or at sack settlements:
+	    * Akendorf, Al-Haikk, Copher, Fyrus, Lucini, Matorca, Miragliano, Myrmidens, Zandri, Zvorak  
+	* Destroy factions:
+	    * Border Princess, Tilea, Strygos Empire
+	* Control at least two of these regions:
+	    * Black Pyramid of Nagash, Black Tower of Arkhan, Skavenblight, Nagashizzar, Oak of Ages
+	* Occupy/loot/raze/sack at least 35 settlements
+	* Earn 200000 from raiding, sacking or looting
+	* Control 20 savage orcs
 * **Long Victory Conditions**:
-	*  Conquer or assimilate all of the Greenskin tribes
-	    * Greenskins, Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs od The Bloody Handz, Red
-	    Eye, Red Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz
-	* Conquer provinces:
-	    * Blighwater, Blood River Valley, Death Pass, Eastern Badlands, Southern Badlands, Western Badlands
-	* Occupy/loot/raze/sack at least 50 different settlements
-	* Earn 20000 from raiding
-	* Defeat Archaon
+    * Control provinces:
+        * Eastern Badlands, Southern Badlands, Western Badlands
+	* Loot or at sack settlements:
+	    * Akendorf, Al-Haikk, Copher, Fyrus, Lucini, Matorca, Miragliano, Myrmidens, Zandri, Zvorak  
+	* Destroy factions:
+	    * Border Princess, Estalia, Tilea, Clan Skryre, Khemri, Pirates of Sartosa, Strygos Empire
+	* Control at least four of these regions:
+	    * Black Pyramid of Nagash, Black Tower of Arkhan, Skavenblight, Nagashizzar, Oak of Ages
+	* Occupy/loot/raze/sack at least 50 settlements
+	* Earn 500000 from raiding, sacking or looting
+	* Control 30 savage orcs
 
 ### Crooked Moon
 
 * **Short Victory Conditions**:
-	* Control Karak Eight Peaks
-	* Destroy Belegar and Queek:
-	    * Karak Izor, Clan Mors
+	* Control Eastern Badlands
+	* Destroy factions
+	    * Clan Angrund, Clan Mors, Crooked Moon Mutinous Gits
+	* Own 40 Goblin units (All variants)
 * **Long Victory Conditions**:
-	* Control Karak Eight Peaks
-	* Destroy Belegar and Queek and Conquer or assimilate all of the Greenskin tribes
-	    * Greenskins, Black Venom, Bloody Spearz, Broken Nose, Necksnappers, Orcs od The Bloody Handz, Red Eye, Red 
-	    Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz, Dwarfs, Karak Izor, Clan Mors
-	* Occupy/loot/raze/sack at least 50 different settlements
-	* Capture all of the Dwarf provinces
-	    * Karak Ziflin, Karak Norn, Karak Izor, Karak Hirn, Karag Dromar, Oakenhammer, Zhufbar, Karaz-a-Karak, 
-	    The Pillars of Grungni, Karak Kadrin, Barak Varr, Varenka Hills, Dringorackaz, Kradtommen, Kraka Drak,
-	    Khazid Bordkarag, Sjoktraken, Karak Azul
-	* Defeat Archaon
+	* Control Eastern Badlands and Karaz-a-Karak
+	* Destroy factions
+	    * Clan Angrund, Dwarfs, Clan Mors, Crooked Moon Mutinous Gits
+	* Build the Karak Eight Peaks (Greenskin Stronghold) and the Karak Eight Peaks (Level 3)
+	* Own 80 Goblin units (All variants)
 
-### Boken Axe
+### Broken Axe
 
 * **Short Victory Conditions**:
-	* Complete 3 Missions
-	* Have at least 100 Waaagh
+	* Complete 3 Chapter Objectives
+	* Have at least 100 Waaagh!
+	* Earn 200000 from raiding, sacking or looting
 	* Destroy Yvresse
+	* Own 7 chariots
 * **Long Victory Conditions**:
-	* Complete 5 Missions
-	* Have at least 100 Waaagh
-	* Destroy factions
-	    * Cothique, Eataine, Yvresse, Bretonnia, Bordeleaux, Carcassonne
-	* Earn 25000 from raiding
-	* Own at least 15 of the following units
-	    * Giant, Rogue Idol, Rogue Idol (RoR), Arachnarock Spider, Venom Queen, Black Orcs, Krimson Killerz, Orc Boar
-	    Boy Big Uns, Broken Tusk, Goblin Rock Lobbert, Hammer of Gork
-	* Control al least 18 provinces
+	* Complete 5 Chapter Objectives
+	* Have at least 100 Waaagh!
+	* Loot or raze settlements:
+	    * Akendorf, Gaen Vale, Karak Kadrin, Lothern, Nuln, Marienburg, Middlenheim, Talabheim, Tor Yvresse, Tower of 
+	    Hoeth
+	* Earn 500000 from raiding, sacking or looting
+	* Destroy Yvresse
+	* Own 15 chariots
