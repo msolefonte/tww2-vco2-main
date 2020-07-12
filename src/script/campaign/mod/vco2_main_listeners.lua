@@ -33,21 +33,42 @@ function check_vco_skaven_clans_reputation_conditions(faction)
     if clans_matching_requisites >= 1 then
         cm:complete_scripted_mission_objective("wh_main_short_victory", "attain_clan_reputation_1", true);
         cm:complete_scripted_mission_objective("wh_main_long_victory", "attain_clan_reputation_1", true);
+        cm:set_scripted_mission_text("wh_main_short_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_1");
+        cm:set_scripted_mission_text("wh_main_long_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_1");
+        cm:set_scripted_mission_text("wh_main_short_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_2_1");
+        cm:set_scripted_mission_text("wh_main_long_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_2_1");
     end
 
     if clans_matching_requisites >= 2 then
         cm:complete_scripted_mission_objective("wh_main_short_victory", "attain_clan_reputation_2", true);
         cm:complete_scripted_mission_objective("wh_main_long_victory", "attain_clan_reputation_2", true);
+        cm:set_scripted_mission_text("wh_main_short_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_2");
+        cm:set_scripted_mission_text("wh_main_long_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_2");
     end
 end
 
-function check_vco_skaven_workshop_conditions(context)
-    local current_workshop_lvl_default = 1;
-    local current_workshop_lvl = cm:load_named_value("current_workshop_lvl", current_workshop_lvl_default, context);
+function check_vco_skaven_workshop_conditions()
+    if current_workshop_lvl == 2 then
+        cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
+        cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
+        cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_2");
+        cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_2");
+    end
+
+    if current_workshop_lvl == 3 then
+        cm:complete_scripted_mission_objective("wh_main_short_victory", "get_forbidden_workshop_level_3", true);
+        cm:complete_scripted_mission_objective("wh_main_long_victory", "get_forbidden_workshop_level_3", true);
+        cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3");
+        cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3");
+        cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_3");
+        cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_3");
+    end
 
     if current_workshop_lvl >= 4 then
         cm:complete_scripted_mission_objective("wh_main_short_victory", "get_forbidden_workshop_level_4", true);
         cm:complete_scripted_mission_objective("wh_main_long_victory", "get_forbidden_workshop_level_4", true);
+        cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4");
+        cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4");
     end
 end
 
@@ -90,7 +111,7 @@ function add_listeners()
             "FactionTurnEnd",
             true,
             function(context)
-                check_vco_skaven_workshop_conditions(context);
+                check_vco_skaven_workshop_conditions();
             end,
             true
         );

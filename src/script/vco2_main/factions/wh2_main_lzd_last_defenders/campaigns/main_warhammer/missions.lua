@@ -10,33 +10,29 @@ local missions = {
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
-					province wh2_main_southlands_jungle;
-					province wh2_main_kingdom_of_beasts;
+					total 5;
 					province wh2_main_crater_of_the_walking_dead;
+					province wh2_main_dragon_isles;
 					province wh2_main_heart_of_the_jungle;
-					province wh2_main_shifting_sands;
-					province wh2_main_ash_river;
-					province wh2_main_land_of_the_dervishes;
-					province wh2_main_great_desert_of_araby;
-					province wh2_main_land_of_assassins;
-					province wh2_main_great_mortis_delta;
+					province wh2_main_kingdom_of_beasts;
+					province wh2_main_southlands_jungle;
 				}
 				objective
 				{
 					type CONSTRUCT_N_OF_A_BUILDING;
 					faction wh2_main_lzd_last_defenders;
 					total 3;
-					building_level wh2_main_lzd_slann_1;
+					building_level wh2_main_lzd_energy_5;
 				}
 				objective
 				{
 					type DESTROY_FACTION;
+					faction wh2_main_skv_clan_eshin;
 					faction wh2_main_skv_clan_mors;
 
+					faction wh2_main_def_hag_graef;
+
 					faction wh2_dlc09_tmb_lybaras;
-					faction wh2_dlc09_tmb_khemri;
-					faction wh2_dlc09_tmb_followers_of_nagash;
 					confederation_valid;
 				}
 
@@ -58,17 +54,18 @@ local missions = {
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
-					province wh2_main_southlands_jungle;
-					province wh2_main_kingdom_of_beasts;
-					province wh2_main_crater_of_the_walking_dead;
-					province wh2_main_heart_of_the_jungle;
-					province wh2_main_shifting_sands;
+					total 11;
 					province wh2_main_ash_river;
-					province wh2_main_land_of_the_dervishes;
+					province wh2_main_crater_of_the_walking_dead;
+					province wh2_main_dragon_isles;
 					province wh2_main_great_desert_of_araby;
-					province wh2_main_land_of_assassins;
 					province wh2_main_great_mortis_delta;
+					province wh2_main_heart_of_the_jungle;
+					province wh2_main_kingdom_of_beasts;
+					province wh2_main_land_of_assassins;
+					province wh2_main_land_of_the_dervishes;
+					province wh2_main_shifting_sands;
+					province wh2_main_southlands_jungle;
 				}
 
 				objective
@@ -82,23 +79,26 @@ local missions = {
 				{
 					type CONSTRUCT_N_OF_A_BUILDING;
 					faction wh2_main_lzd_last_defenders;
-					total 3;
+					total 5;
 					building_level wh2_main_lzd_energy_5;
 				}
 				objective
 				{
 					type DESTROY_FACTION;
+					faction wh2_main_skv_clan_eshin;
 					faction wh2_main_skv_clan_mors;
 
+					faction wh2_main_def_hag_graef;
+
 					faction wh2_dlc09_tmb_lybaras;
-					faction wh2_dlc09_tmb_khemri;
-					faction wh2_dlc09_tmb_followers_of_nagash;
-
-					faction wh2_dlc11_cst_pirates_of_sartosa;
-					faction wh2_dlc11_cst_vampire_coast;
-
-					faction wh2_dlc11_def_the_blessed_dread;
 					confederation_valid;
+				}
+				objective
+				{
+					type LIMIT_FACTION_TO_REGIONS;
+					faction wh_main_chs_chaos;
+					faction wh_dlc03_bst_beastmen_chaos;
+					region wh_main_chaos_wastes;
 				}
 				objective
                 {

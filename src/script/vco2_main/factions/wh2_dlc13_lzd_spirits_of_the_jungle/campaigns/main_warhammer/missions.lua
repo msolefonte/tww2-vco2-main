@@ -23,13 +23,15 @@ local missions = {
 				objective
 				{
 					type DESTROY_FACTION;
-					faction wh_dlc08_nor_norsca;
+					faction wh2_dlc15_grn_bonerattlaz;
 
 					faction wh2_main_skv_clan_moulder;
 
-					faction wh_main_vmp_vampire_counts;
+					faction wh_dlc08_nor_norsca;
+					faction wh_dlc08_nor_wintertooth;
 
-					faction wh_main_grn_greenskins;
+					faction wh_main_vmp_vampire_counts;
+                    faction wh_main_vmp_schwartzhafen;
 					confederation_valid;
 				}
 				objective
@@ -44,6 +46,18 @@ local missions = {
 					faction wh2_dlc13_lzd_spirits_of_the_jungle;
 					total 1;
 					building_level wh2_dlc13_horde_lizardmen_slann_3;
+				}
+				objective
+				{
+					type OWN_N_UNITS;
+					total 7;
+					additive;
+					unit wh2_main_lzd_mon_kroxigors;
+					unit wh2_main_lzd_mon_kroxigors_nakai;
+					unit wh2_main_lzd_mon_kroxigors_blessed;
+					unit wh2_dlc13_lzd_mon_sacred_kroxigors_0;
+					unit wh2_dlc13_lzd_mon_sacred_kroxigors_0_nakai;
+					unit wh2_dlc13_lzd_mon_sacred_kroxigors_ror_0;
 				}
 
 				payload
@@ -72,24 +86,22 @@ local missions = {
                     building_level wh2_dlc13_lzd_port_nakai_quetzl;
                     building_level wh2_dlc13_lzd_port_nakai_xholankha;
 					total 70;
-
                 }
 				objective
 				{
 					type DESTROY_FACTION;
-					faction wh_dlc08_nor_norsca;
+					faction wh2_dlc15_grn_bonerattlaz;
 
 					faction wh2_main_skv_clan_moulder;
-					faction wh2_main_skv_clan_mors;
 					faction wh2_main_skv_clan_skyre;
 
-					faction wh_main_vmp_vampire_counts;
-
-					faction wh_main_grn_greenskins;
-
-					faction wh2_main_def_naggarond;
+					faction wh_dlc08_nor_norsca;
+					faction wh_dlc08_nor_wintertooth;
 
 					faction wh2_dlc13_emp_the_huntmarshals_expedition;
+
+					faction wh_main_vmp_vampire_counts;
+                    faction wh_main_vmp_schwartzhafen;
 					confederation_valid;
 				}
 				objective
@@ -107,11 +119,29 @@ local missions = {
 				}
 				objective
 				{
+					type OWN_N_UNITS;
+					total 15;
+					additive;
+					unit wh2_main_lzd_mon_kroxigors;
+					unit wh2_main_lzd_mon_kroxigors_nakai;
+					unit wh2_main_lzd_mon_kroxigors_blessed;
+					unit wh2_dlc13_lzd_mon_sacred_kroxigors_0;
+					unit wh2_dlc13_lzd_mon_sacred_kroxigors_0_nakai;
+					unit wh2_dlc13_lzd_mon_sacred_kroxigors_ror_0;
+				}
+				objective
+				{
 					type LIMIT_FACTION_TO_REGIONS;
 					faction wh_main_chs_chaos;
 					faction wh_dlc03_bst_beastmen_chaos;
 					region wh_main_chaos_wastes;
 				}
+				objective
+                {
+					override_text mission_text_text_mis_activity_archaon_spawned;
+                    type SCRIPTED;
+                    script_key archaon_spawned;
+                }
 				objective
 				{
 					type HAVE_CHARACTER_WOUNDED;

@@ -26,6 +26,19 @@ local missions = {
 					faction wh2_main_hef_yvresse;
 					confederation_valid;
 				}
+				objective
+				{
+					type OWN_N_UNITS;
+					total 7;
+					additive;
+					unit wh_main_grn_cav_goblin_wolf_chariot;
+					unit wh_dlc06_grn_cav_teef_robbers_0;
+					unit wh_main_grn_cav_orc_boar_chariot;
+					unit wh2_dlc15_grn_veh_snotling_pump_wagon_0;
+					unit wh2_dlc15_grn_veh_snotling_pump_wagon_flappas_0;
+					unit wh2_dlc15_grn_veh_snotling_pump_wagon_roller_0;
+					unit wh2_dlc15_grn_veh_snotling_pump_wagon_ror_0;
+				}
 
 				payload
 				{
@@ -58,41 +71,35 @@ local missions = {
 				objective
 				{
 					type DESTROY_FACTION;
-					faction wh2_main_hef_cothique;
-					faction wh2_main_hef_eataine;
 					faction wh2_main_hef_yvresse;
-
-					faction wh_main_brt_bretonnia;
-					faction wh_main_brt_bordeleaux;
-					faction wh_main_brt_carcassonne;
 					confederation_valid;
-				}
-				objective
+				}objective
 				{
-					type EARN_X_AMOUNT_FROM_RAIDING;
-					total 25000;
+					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					total 10;
+					region wh_main_eastern_border_princes_akendorf;
+					region wh2_main_avelorn_gaean_vale;
+                    region wh_main_peak_pass_karak_kadrin;
+					region wh2_main_eataine_lothern;
+					region wh_main_wissenland_nuln;
+					region wh_main_the_wasteland_marienburg;
+					region wh_main_middenland_middenheim;
+					region wh_main_talabecland_talabheim;
+					region wh2_main_yvresse_tor_yvresse;
+					region wh2_main_saphery_tower_of_hoeth;
 				}
 				objective
 				{
 					type OWN_N_UNITS;
 					total 15;
 					additive;
-					unit wh_main_grn_mon_giant;
-					unit wh2_dlc15_grn_mon_rogue_idol_0;
-					unit wh2_dlc15_grn_mon_rogue_idol_ror_0;
-					unit wh_main_grn_mon_arachnarok_spider_0;
-					unit wh_dlc06_grn_mon_venom_queen_0;
-					unit wh_main_grn_inf_black_orcs;
-					unit wh_dlc06_grn_inf_krimson_killerz_0;
-					unit wh_main_grn_cav_orc_boar_boy_big_uns;
-					unit wh_dlc06_grn_cav_broken_tusks_mob_0;
-					unit wh_main_grn_art_goblin_rock_lobber;
-					unit wh_dlc06_grn_art_hammer_of_gork_0;
-				}
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 18;
+					unit wh_main_grn_cav_goblin_wolf_chariot;
+					unit wh_dlc06_grn_cav_teef_robbers_0;
+					unit wh_main_grn_cav_orc_boar_chariot;
+					unit wh2_dlc15_grn_veh_snotling_pump_wagon_0;
+					unit wh2_dlc15_grn_veh_snotling_pump_wagon_flappas_0;
+					unit wh2_dlc15_grn_veh_snotling_pump_wagon_roller_0;
+					unit wh2_dlc15_grn_veh_snotling_pump_wagon_ror_0;
 				}
 
 				payload

@@ -8,40 +8,65 @@ local missions = {
 			primary_objectives_and_payload
 			{
 				objective
-				{
-					type DESTROY_FACTION;
-					faction wh_main_grn_greenskins;
-					faction wh_main_grn_black_venom;
-					faction wh_main_grn_bloody_spearz;
-					faction wh_main_grn_broken_nose;
-					faction wh_main_grn_crooked_moon;
-					faction wh_main_grn_necksnappers;
-					faction wh_main_grn_red_eye;
-					faction wh_main_grn_red_fangs;
-					faction wh_main_grn_scabby_eye;
-					faction wh_main_grn_skullsmasherz;
-					faction wh_main_grn_teef_snatchaz;
-					faction wh_main_grn_top_knotz;
-					confederation_valid;
-				}
-				objective
-				{
-					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
-					total 25;
-				}
-				objective
-				{
-					type EARN_X_AMOUNT_FROM_RAIDING;
-					total 10000;
-				}
-				objective
                 {
                     type CONTROL_N_PROVINCES_INCLUDING;
                     total 3;
                     province wh_main_southern_badlands;
                     province wh_main_western_badlands;
-                    province wh_main_eastern_badlands;
                 }
+				objective
+				{
+					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					total 10;
+					region wh_main_eastern_border_princes_akendorf;
+					region wh2_main_coast_of_araby_al_haikk;
+					region wh2_main_coast_of_araby_copher;
+					region wh2_main_coast_of_araby_fyrus;
+					region wh_main_tilea_luccini;
+					region wh_main_eastern_border_princes_matorca;
+					region wh_main_tilea_miragliano;
+					region wh_main_western_border_princes_myrmidens;
+					region wh2_main_land_of_the_dead_zandri;
+					region wh_main_western_border_princes_zvorak;
+				}
+				objective
+				{
+					type DESTROY_FACTION;
+                    faction wh_main_teb_border_princes;
+                    faction wh_main_teb_tilea;
+
+					faction wh2_main_vmp_strygos_empire;
+					confederation_valid;
+				}
+				objective
+				{
+					type CONTROL_N_REGIONS_FROM;
+					total 2;
+					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
+					region wh2_main_great_desert_of_araby_black_tower_of_arkhan;
+					region wh2_main_skavenblight_skavenblight;
+					region wh2_main_the_broken_teeth_nagashizar;
+					region wh_main_yn_edri_eternos_the_oak_of_ages;
+				}
+				objective
+				{
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
+					total 35;
+				}
+				objective
+				{
+					type OWN_N_UNITS;
+					total 20;
+					additive;
+					unit wh_main_grn_inf_savage_orcs;
+					unit wh_main_grn_inf_savage_orc_big_uns;
+					unit wh_main_grn_inf_savage_orc_arrer_boyz;
+					unit wh_main_grn_cav_savage_orc_boar_boyz;
+					unit wh_main_grn_cav_savage_orc_boar_boy_big_uns;
+					unit wh_main_grn_mon_giant;
+					unit wh2_dlc15_grn_mon_rogue_idol_0;
+					unit wh2_dlc15_grn_mon_rogue_idol_ror_0;
+				}
 
 				payload
 				{
@@ -59,37 +84,54 @@ local missions = {
 			primary_objectives_and_payload
 			{
 				objective
-				{
-					type DESTROY_FACTION;
-					faction wh_main_grn_greenskins;
-					faction wh_main_grn_black_venom;
-					faction wh_main_grn_bloody_spearz;
-					faction wh_main_grn_broken_nose;
-					faction wh_main_grn_crooked_moon;
-					faction wh_main_grn_necksnappers;
-					faction wh_main_grn_red_eye;
-					faction wh_main_grn_red_fangs;
-					faction wh_main_grn_scabby_eye;
-					faction wh_main_grn_skullsmasherz;
-					faction wh_main_grn_teef_snatchaz;
-					faction wh_main_grn_top_knotz;
-
-					faction wh_main_emp_empire;
-
-					faction wh_main_dwf_dwarfs;
-					confederation_valid;
-				}
-				objective
                 {
                     type CONTROL_N_PROVINCES_INCLUDING;
                     total 3;
-                    province wh_main_blightwater;
-                    province wh_main_blood_river_valley;
-                    province wh_main_death_pass;
                     province wh_main_eastern_badlands;
                     province wh_main_southern_badlands;
                     province wh_main_western_badlands;
                 }
+				objective
+				{
+					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					total 10;
+					region wh_main_eastern_border_princes_akendorf;
+					region wh2_main_coast_of_araby_al_haikk;
+					region wh2_main_coast_of_araby_copher;
+					region wh2_main_coast_of_araby_fyrus;
+					region wh_main_tilea_luccini;
+					region wh_main_eastern_border_princes_matorca;
+					region wh_main_tilea_miragliano;
+					region wh_main_western_border_princes_myrmidens;
+					region wh2_main_land_of_the_dead_zandri;
+					region wh_main_western_border_princes_zvorak;
+				}
+				objective
+				{
+					type DESTROY_FACTION;
+                    faction wh_main_teb_border_princes;
+                    faction wh_main_teb_estalia;
+                    faction wh_main_teb_tilea;
+
+                    faction wh2_main_skv_clan_skyre;
+
+					faction wh2_dlc09_tmb_khemri;
+
+					faction wh2_dlc11_cst_pirates_of_sartosa;
+
+					faction wh2_main_vmp_strygos_empire;
+					confederation_valid;
+				}
+				objective
+				{
+					type CONTROL_N_REGIONS_FROM;
+					total 4;
+					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
+					region wh2_main_great_desert_of_araby_black_tower_of_arkhan;
+					region wh2_main_skavenblight_skavenblight;
+					region wh2_main_the_broken_teeth_nagashizar;
+					region wh_main_yn_edri_eternos_the_oak_of_ages;
+				}
 				objective
 				{
 					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
@@ -97,20 +139,15 @@ local missions = {
 				}
 				objective
 				{
-					type EARN_X_AMOUNT_FROM_RAIDING;
-					total 20000;
-				}
-				objective
-                {
-					override_text mission_text_text_mis_activity_archaon_spawned;
-                    type SCRIPTED;
-                    script_key archaon_spawned;
-                }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
+					type OWN_N_UNITS;
+					total 30;
+					additive;
+					unit wh_main_grn_inf_savage_orcs;
+					unit wh_main_grn_inf_savage_orc_big_uns;
+					unit wh_main_grn_inf_savage_orc_arrer_boyz;
+					unit wh_main_grn_cav_savage_orc_boar_boyz;
+					unit wh_main_grn_cav_savage_orc_boar_boy_big_uns;
+					unit wh_main_grn_mon_giant;
 				}
 
 				payload

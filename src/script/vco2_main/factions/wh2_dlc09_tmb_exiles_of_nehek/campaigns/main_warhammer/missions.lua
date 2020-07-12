@@ -11,10 +11,10 @@ local missions = {
 				objective
 				{
 					type DESTROY_FACTION;
-					faction wh2_main_def_clar_karond;
-					faction wh2_main_def_ssildra_tor;
 					faction wh2_main_def_bleak_holds;
+					faction wh2_main_def_clar_karond;
 					faction wh2_main_def_cult_of_pleasure;
+					faction wh2_main_def_ssildra_tor;
 					confederation_valid;
 				}
 				objective
@@ -59,10 +59,10 @@ local missions = {
 				objective
 				{
 					type DESTROY_FACTION;
-					faction wh2_main_def_clar_karond;
-					faction wh2_main_def_ssildra_tor;
 					faction wh2_main_def_bleak_holds;
+					faction wh2_main_def_clar_karond;
 					faction wh2_main_def_cult_of_pleasure;
+					faction wh2_main_def_ssildra_tor;
 					confederation_valid;
 				}
 				objective

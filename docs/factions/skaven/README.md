@@ -56,18 +56,19 @@
 
 * **Short Victory Conditions**:
 	* Have at least 52% skaven corruption in the following provinces
-	    * Argwylon, Bordeleaux et Aquitaine, Carcassone et Brionne, Talsyn, Torgovann, Wydrioth, Yn Edri Eternos
+	    * Argwylon, Carcassone et Brionne, Estalia, Talsyn, Tilea, Torgovann, Wydrioth, Yn Edri Eternos
 	* Destroy factions
-	    * Argwylon, Wood Elves, Bordeleaux, Carcassone, Pirates of Sartosa
-	* Own 13 Doomwheels/Doom-Flayers/Ratling Guns/Warplock Jezzails
+	    * Argwylon, Wood Elves, Carcassone, Estalia, Tilea, Pirates of Sartosa
+    * Upgrade the Forbidden Workshop to the level 3
+	* Own 13 Doomwheels/Doom-Flayers/Ratling Guns/Warpfire ThrowerS/Warplock Jezzails/Warp-Grinders
 * **Long Victory Conditions**:
 	* Have at least 52% skaven corruption in the following provinces
-	    * Argwylon, Blood River Valley, Bordeleaux et Aquitaine, Carcassone et Brionne, Couronne et Languille, Talsyn, 
-	    The Silver Road, The Vaults, Torgovann, Wydrioth, Yn Edri Eternos
+	    * Argwylon, Blood River Valley, Bordeleaux et Aquitaine, Carcassone et Brionne, Couronne et Languille, 
+	    Estalia, Talsyn, Tilea, The Silver Road, The Vaults, Torgovann, Wydrioth, Yn Edri Eternos
 	* Destroy factions
-	    * Argwylon, Wood Elves, Bordeleaux, Bretonnia, Carcassone, Karak Izor, Pirates of Sartosa
-	* Get the Forbidden Workshop to Level 4
-	* Own 26 Doomwheels/Doom-Flayers/Ratling Guns/Warplock Jezzails
+	    * Argwylon, Wood Elves, Bordeleaux, Bretonnia, Carcassone, Estalia, Karak Izor, Tilea, Pirates of Sartosa
+	* Upgrade the Forbidden Workshop to the level 4
+	* Own 26 Doomwheels/Doom-Flayers/Ratling Guns/Warpfire ThrowerS/Warplock Jezzails/Warp-Grinders
 
 ### Clan Eshin
 

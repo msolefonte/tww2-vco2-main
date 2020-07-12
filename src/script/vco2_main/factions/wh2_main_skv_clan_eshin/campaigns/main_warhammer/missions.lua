@@ -33,7 +33,7 @@ local missions = {
 				}
 				objective
 				{
-					override_text mission_text_text_vco2_attain_clan_reputation_1;
+					override_text mission_text_text_vco2_attain_clan_reputation_1_0;
                     type SCRIPTED;
                     script_key attain_clan_reputation_1;
 				}
@@ -108,7 +108,7 @@ local missions = {
 				}
 				objective
 				{
-					override_text mission_text_text_vco2_attain_clan_reputation_2;
+					override_text mission_text_text_vco2_attain_clan_reputation_2_0;
                     type SCRIPTED;
                     script_key attain_clan_reputation_2;
 				}

@@ -15,17 +15,10 @@ local missions = {
 				}
 				objective
 				{
-					type OWN_N_UNITS;
-					total 5;
-					additive;
-					unit wh2_dlc09_tmb_cav_hexwraiths;
-				}
-				objective
-				{
-					type OWN_N_REGIONS_INCLUDING;
-					total 2;
-					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
-					region wh2_main_great_desert_of_araby_black_tower_of_arkhan;
+					type CONSTRUCT_N_BUILDINGS_INCLUDING;
+					faction wh2_dlc09_tmb_followers_of_nagash;
+					total 1;
+					building_level wh2_dlc09_special_black_tower_of_arkhan_other;
 				}
 				objective
 				{
@@ -39,6 +32,16 @@ local missions = {
 					building_level wh2_dlc09_special_pyramid_settra;
 					building_level wh2_dlc09_special_pyramid_tutankhanut;
 					building_level wh2_main_special_pyramid_of_nagash_other;
+				}
+				objective
+				{
+					type OWN_N_UNITS;
+					total 7;
+					additive;
+					unit wh2_dlc09_tmb_mon_dire_wolves;
+					unit wh2_dlc09_tmb_mon_fell_bats;
+					unit wh2_dlc09_tmb_inf_crypt_ghouls;
+					unit wh2_dlc09_tmb_cav_hexwraiths;
 				}
 
 				payload
@@ -66,17 +69,18 @@ local missions = {
 				}
 				objective
 				{
-					type OWN_N_UNITS;
-					total 5;
-					additive;
-					unit wh2_dlc09_tmb_cav_hexwraiths;
-				}
-				objective
-				{
 					type OWN_N_REGIONS_INCLUDING;
 					total 2;
 					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
-					region wh2_main_great_desert_of_araby_black_tower_of_arkhan;
+					region wh2_main_the_broken_teeth_nagashizar;
+				}
+				objective
+				{
+					type CONSTRUCT_N_BUILDINGS_INCLUDING;
+					faction wh2_dlc09_tmb_followers_of_nagash;
+					total 2;
+					building_level wh2_dlc09_special_black_tower_of_arkhan_other;
+					building_level wh2_dlc14_special_nagashizzar_other;
 				}
 				objective
 				{
@@ -90,6 +94,16 @@ local missions = {
 					building_level wh2_dlc09_special_pyramid_settra;
 					building_level wh2_dlc09_special_pyramid_tutankhanut;
 					building_level wh2_main_special_pyramid_of_nagash_other;
+				}
+				objective
+				{
+					type OWN_N_UNITS;
+					total 15;
+					additive;
+					unit wh2_dlc09_tmb_mon_dire_wolves;
+					unit wh2_dlc09_tmb_mon_fell_bats;
+					unit wh2_dlc09_tmb_inf_crypt_ghouls;
+					unit wh2_dlc09_tmb_cav_hexwraiths;
 				}
 
 				payload

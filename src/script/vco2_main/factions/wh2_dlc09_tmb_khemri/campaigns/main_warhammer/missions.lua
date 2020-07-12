@@ -7,18 +7,16 @@ local missions = {
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
+			    objective
+				{
+					type CONTROL_N_PROVINCES_INCLUDING;
+					total 10;
+				}
 				objective
 				{
 					type DESTROY_FACTION;
 					faction wh2_dlc09_tmb_followers_of_nagash;
 					confederation_valid;
-				}
-				objective
-				{
-					type OWN_N_UNITS;
-					total 3;
-					additive;
-					unit wh2_dlc09_tmb_veh_khemrian_warsphinx_0;
 				}
 				objective
 				{
@@ -32,6 +30,13 @@ local missions = {
 					faction wh2_dlc09_tmb_khemri;
 					total 1;
 					building_level wh2_dlc09_special_pyramid_settra;
+				}
+				objective
+				{
+					type OWN_N_UNITS;
+					total 3;
+					additive;
+					unit wh2_dlc09_tmb_veh_khemrian_warsphinx_0;
 				}
 
 				payload
@@ -49,20 +54,16 @@ local missions = {
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
+			    objective
+				{
+					type CONTROL_N_PROVINCES_INCLUDING;
+					total 20;
+				}
 				objective
 				{
 					type DESTROY_FACTION;
 					faction wh2_dlc09_tmb_followers_of_nagash;
 					confederation_valid;
-				}
-				objective
-				{
-					type OWN_N_UNITS;
-					total 10;
-					additive;
-					unit wh2_dlc09_tmb_veh_khemrian_warsphinx_0;
-					unit wh2_dlc09_tmb_mon_heirotitan_0;
-					unit wh2_dlc09_tmb_mon_necrosphinx_0;
 				}
 				objective
 				{
@@ -97,6 +98,16 @@ local missions = {
 					region wh2_main_charnel_valley_karag_orrud;
 					region wh2_main_devils_backbone_lahmia;
 					region wh2_main_crater_of_the_walking_dead_rasetra;
+				}
+				objective
+				{
+					type OWN_N_UNITS;
+					total 10;
+					additive;
+					unit wh2_dlc09_tmb_veh_khemrian_warsphinx_0;
+					unit wh2_dlc09_tmb_mon_heirotitan_0;
+					unit wh2_dlc09_tmb_mon_necrosphinx_0;
+					unit wh2_dlc09_tmb_mon_necrosphinx_ror;
 				}
 
 				payload

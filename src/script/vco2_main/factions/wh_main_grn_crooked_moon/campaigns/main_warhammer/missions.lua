@@ -9,11 +9,10 @@ local missions = {
 			{
 				objective
 				{
-					type CONTROL_N_REGIONS_INCLUDING;
-					total 1;
+					type CONTROL_N_PROVINCES_INCLUDING;
+                    total 1;
 					override_text mission_text_text_wh_dlc06_objective_override_greenskins_skarsnik;
-
-					region wh_main_eastern_badlands_karak_eight_peaks;
+                    province wh_main_eastern_badlands;
 				}
 				objective
 				{
@@ -21,7 +20,35 @@ local missions = {
 					faction wh_main_dwf_karak_izor;
 
 					faction wh2_main_skv_clan_mors;
+
+                    faction wh_main_grn_necksnappers;
 					confederation_valid;
+				}
+				objective
+				{
+					type OWN_N_UNITS;
+					total 40;
+					additive;
+					unit wh_main_grn_inf_goblin_spearmen;
+					unit wh_main_grn_inf_night_goblins;
+					unit wh_dlc06_grn_inf_da_warlords_boyz_0;
+					unit wh_main_grn_inf_night_goblin_fanatics;
+					unit wh_dlc06_grn_inf_da_eight_peaks_loonies_0;
+					unit wh_dlc06_grn_inf_nasty_skulkers_0;
+					unit wh_main_grn_inf_goblin_archers;
+					unit wh_main_grn_inf_night_goblin_archers;
+					unit wh_main_grn_inf_night_goblin_fanatics_1;
+					unit wh_main_grn_cav_goblin_wolf_riders_0;
+					unit wh_dlc06_grn_cav_moon_howlers_0;
+					unit wh_main_grn_cav_forest_goblin_spider_riders_0;
+					unit wh_dlc06_grn_cav_squig_hoppers_0;
+					unit wh_dlc06_grn_cav_durkits_squigs_0;
+					unit wh_main_grn_cav_goblin_wolf_riders_1;
+					unit wh_dlc06_grn_cav_mogrubbs_marauders_0;
+					unit wh_main_grn_cav_forest_goblin_spider_riders_1;
+					unit wh_dlc06_grn_cav_deff_creepers_0;
+					unit wh_main_grn_cav_goblin_wolf_chariot;
+					unit wh_dlc06_grn_cav_teef_robbers_0;
 				}
 
 				payload
@@ -41,75 +68,61 @@ local missions = {
 			{
 				objective
 				{
-					type CONTROL_N_REGIONS_INCLUDING;
-					total 1;
+					type CONTROL_N_PROVINCES_INCLUDING;
+                    total 1;
 					override_text mission_text_text_wh_dlc06_objective_override_greenskins_skarsnik;
-
-					region wh_main_eastern_badlands_karak_eight_peaks;
+                    province wh_main_eastern_badlands;
+				}
+				objective
+				{
+					type CONTROL_N_REGIONS_FROM;
+                    total 1;
+                    region wh_main_the_silver_road_karaz_a_karak;;
 				}
 				objective
 				{
 					type DESTROY_FACTION;
-					faction wh_main_grn_greenskins;
-					faction wh_main_grn_black_venom;
-					faction wh_main_grn_bloody_spearz;
-					faction wh_main_grn_broken_nose;
-					faction wh_main_grn_necksnappers;
-					faction wh_main_grn_orcs_of_the_bloody_hand;
-					faction wh_main_grn_red_eye;
-					faction wh_main_grn_red_fangs;
-					faction wh_main_grn_scabby_eye;
-					faction wh_main_grn_skullsmasherz;
-					faction wh_main_grn_teef_snatchaz;
-					faction wh_main_grn_top_knotz;
-
 					faction wh_main_dwf_dwarfs;
 					faction wh_main_dwf_karak_izor;
 
 					faction wh2_main_skv_clan_mors;
-					confederation_valid;
 
-				}
-				objective
-				{
-					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
-					total 50;
-				}
-				objective
-				{
-					type CONTROL_N_REGIONS_INCLUDING;
-					override_text mission_text_text_wh_main_objective_override_greenskins_dwarfholds;
-					total 18;
-					region wh_main_northern_grey_mountains_karak_ziflin;
-					region wh_main_southern_grey_mountains_karak_norn;
-					region wh_main_the_vaults_karak_izor;
-					region wh_main_black_mountains_karak_hirn;
-					region wh_main_zhufbar_karag_dromar;
-					region wh_main_zhufbar_oakenhammer;
-					region wh_main_zhufbar_zhufbar;
-					region wh_main_the_silver_road_karaz_a_karak;
-					region wh_main_the_silver_road_the_pillars_of_grungni;
-					region wh_main_peak_pass_karak_kadrin;
-					region wh_main_blood_river_valley_barak_varr;
-					region wh_main_blood_river_valley_varenka_hills;
-					region wh_main_eastern_badlands_dringorackaz;
-					region wh_main_blightwater_kradtommen;
-					region wh_main_gianthome_mountains_kraka_drak;
-					region wh_main_gianthome_mountains_khazid_bordkarag;
-					region wh_main_gianthome_mountains_sjoktraken;
-					region wh_main_desolation_of_nagash_karak_azul;
+                    faction wh_main_grn_necksnappers;
+					confederation_valid;
 				}
 				objective
                 {
-					override_text mission_text_text_mis_activity_archaon_spawned;
-                    type SCRIPTED;
-                    script_key archaon_spawned;
+                    type CONSTRUCT_N_BUILDINGS_INCLUDING;
+                    faction wh_main_grn_crooked_moon;
+                    total 2;
+                    building_level wh_main_special_settlement_eight_peaks_5_grn;
+                    building_level wh_dlc06_grn_eight_peaks_3;
                 }
 				objective
 				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
+					type OWN_N_UNITS;
+					total 80;
+					additive;
+					unit wh_main_grn_inf_goblin_spearmen;
+					unit wh_main_grn_inf_night_goblins;
+					unit wh_dlc06_grn_inf_da_warlords_boyz_0;
+					unit wh_main_grn_inf_night_goblin_fanatics;
+					unit wh_dlc06_grn_inf_da_eight_peaks_loonies_0;
+					unit wh_dlc06_grn_inf_nasty_skulkers_0;
+					unit wh_main_grn_inf_goblin_archers;
+					unit wh_main_grn_inf_night_goblin_archers;
+					unit wh_main_grn_inf_night_goblin_fanatics_1;
+					unit wh_main_grn_cav_goblin_wolf_riders_0;
+					unit wh_dlc06_grn_cav_moon_howlers_0;
+					unit wh_main_grn_cav_forest_goblin_spider_riders_0;
+					unit wh_dlc06_grn_cav_squig_hoppers_0;
+					unit wh_dlc06_grn_cav_durkits_squigs_0;
+					unit wh_main_grn_cav_goblin_wolf_riders_1;
+					unit wh_dlc06_grn_cav_mogrubbs_marauders_0;
+					unit wh_main_grn_cav_forest_goblin_spider_riders_1;
+					unit wh_dlc06_grn_cav_deff_creepers_0;
+					unit wh_main_grn_cav_goblin_wolf_chariot;
+					unit wh_dlc06_grn_cav_teef_robbers_0;
 				}
 
 				payload

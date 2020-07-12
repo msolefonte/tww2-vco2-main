@@ -3,69 +3,64 @@
 ### Khemri
 
 * **Short Victory Conditions**:
-	* Destroy Arkhan's factions
-	* Own al least 3 of the following units:
-	    * Khemrian Warsphinxs
+    * Control 10 provinces
+	* Destroy Followers of Nagash
 	* Capture the Black Pyramid of Nagash
 	* Construct the Great Pyramid of Settra
+	* Own 3 Khemrian Warsphinxs
 * **Long Victory Conditions**:
-	* Destroy Arkhan's factions
-	* Own al least 10 of the following units:
-	    * Khemrian Warsphinxs, Heirotitan, Necrosphinx
+    * Control 20 provinces
+	* Destroy Followers of Nagash
 	* Capture the Black Pyramid of Nagash
 	* Construct the 7 pyramids
 	* Conquer, ally with or assimilate regions:
-	    * Khemri, Palace of The Wizard Caliph, Block Towe of Arkhan, Al Haikk, Numas, Ka-Sabar, Galbaraz, Karak Orrud, 
+	    * Khemri, Palace of The Wizard Caliph, Block Tower of Arkhan, Al Haikk, Numas, Ka-Sabar, Galbaraz, Karak Orrud, 
 	    Lahmia, Rasetra
+	* Own 10 Khemrian Warsphinxs/Heirotitan/Necrosphinx
 
 ### Court of Lybaras
 
 * **Short Victory Conditions**:
-	* Destroy Vampire Counts factions:
+	* Destroy factions:
 	    * Necrarch Brotherhood, Strygos Empire, The Silver Host
-	* Own al least 7 of the following units:
-	    * Necropolis Knights, Sepulchral Stalkers
 	* Capture the Black Pyramid of Nagash
 	* Construct at least 1 pyramid
+	* Own 7 Necropolis Knights/Sepulchral Stalkers
 * **Long Victory Conditions**:
-	* Destroy all Vampire factions
-	    * Necrarch Brotherhood, Strygos Empire ,The Silver Host, Sylvannia, Von Carstein, The Drowned, Pirated of 
-	    Sartosa, Vampire Coast, Noctilus, The Barrow Legion, Mousillon, Rival Sylvanian Vamps
-	* Own al least 15 of the following units:
-	    * Necropolis Knights, Sepulchral Stalkers
+	* Destroy factions:
+	    * Necrarch Brotherhood, Mousillon, Strygos Empire, The Barrow Legion, The Silver Host, Vampire Counts, Von 
+	    Carstein, Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned
 	* Capture the Black Pyramid of Nagash
 	* Construct the 7 pyramids
+	* Own 15 Necropolis Knights/Sepulchral Stalkers
 
 ### Exiles of Nehek
 
 * **Short Victory Conditions**:
-	* Destroy local Dark Elf factions
-	    * Clar Karond, Ssildra Tor, Bleak Holds, Cult of Pleasure
-	* Gain Crafting Resources
+	* Destroy factions:
+	    * Bleak Holds, Clar Karond, Cult of Pleasure, Ssildra Tor
+	* Obtain access to the following resources:
 	    * Obsidian, Animals, Furs, Iron, Marbre, Lead, Timber
-	* Perform Ritual Mortuary Cult 10 times
+	* Perform 10 Crafting rituals
 	* Capture the Black Pyramid of Nagash
 * **Long Victory Conditions**:
-	* Destroy local Dark Elf factions
-	    * Clar Karond, Ssildra Tor, Bleak Holds, Cult of Pleasure
-	* Gain Crafting Resources
+	* Destroy factions>
+	    * Bleak Holds, Clar Karond, Cult of Pleasure, Ssildra Tor
+	* Obtain access to the following resources:
 	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Textiles, Lead, Spices, Timber, Wine
-	* Perform Ritual Mortuary Cult 20 times
+	* Perform 20 Crafting rituals
 	* Capture the Black Pyramid of Nagash
 
 ### Followers of Nagash
 
 * **Short Victory Conditions**:
-	* Destroy factions:
-	    * Khemri
-	* Own al least 5 of the following units:
-	    * Hexwraiths
-	* Capture the Black Pyramid of Nagash
+	* Destroy Khemri
+	* Build the Black Tower of Arkhan
 	* Construct at least 1 pyramid
+	* Own 7 Vampire Counts units
 * **Long Victory Conditions**:
-	* Destroy Tomb King Major factions:
-	    * Khemri, Lybaras, Exiles of Nehek
-	* Own al least 5 of the following units:
-	    * Hexwraiths
-	* Capture the Black Pyramid of Nagash
+	* Destroy Khemri, Lybaras and Exiles of Nehek
+	* Capture the Black Pyramid of Nagash and Nagashizzar
+	* Build the Black Tower of Arkhan and the Great Halls of Nagashizzar
 	* Construct the 7 pyramids
+	* Own 15 Vampire Counts units
