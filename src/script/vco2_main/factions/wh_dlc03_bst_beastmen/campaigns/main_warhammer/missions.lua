@@ -4,7 +4,6 @@ local missions = {
 		{
 			victory_type vco_victory_type_short;
 			key wh_main_short_victory;
-			key wh_main_short_victory;
             issuer CLAN_ELDERS;
             primary_objectives_and_payload
             {
