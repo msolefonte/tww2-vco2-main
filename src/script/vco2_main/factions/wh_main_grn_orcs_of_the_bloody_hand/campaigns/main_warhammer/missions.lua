@@ -55,6 +55,11 @@ local missions = {
 				}
 				objective
 				{
+					type EARN_X_AMOUNT_FROM_RAIDING;
+					total 15000;
+				}
+				objective
+				{
 					type OWN_N_UNITS;
 					total 20;
 					additive;
@@ -136,6 +141,11 @@ local missions = {
 				{
 					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
 					total 50;
+				}
+				objective
+				{
+					type EARN_X_AMOUNT_FROM_RAIDING;
+					total 30000;
 				}
 				objective
 				{

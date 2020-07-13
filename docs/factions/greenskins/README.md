@@ -2,20 +2,21 @@
 
 ### Grimgor's Ardboyz
 
-* TODO **Short Victory Conditions**:
+* **Short Victory Conditions**:
 	* Conquer or assimilate all of the Greenskin tribes
 	    * Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs of The Bloody Handz, Red Eye, Red 
 	    Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz
-	* Occupy/loot/raze/sack at least 35 settlements
-	* Build the Black Orc Headquarters
-	* TODO Win in battle at least 7 faction leaders
-* TODO **Long Victory Conditions**:
+	* Loot or sack at least 35 settlements including:
+	    * Karak Kadrin, Karaz-a-Karak
+ 	* Build the Black Orc Headquarters
+* **Long Victory Conditions**:
 	* Conquer or assimilate all of the Greenskin tribes
 	    * Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs of The Bloody Handz, Red Eye, Red 
 	    Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz
-	* Occupy/loot/raze/sack at least 50 settlements
+	* Occupy/loot/raze/sack at least 50 settlements including:
+	    * Altdorf, Castle Drakendorf, Hell Pit, Karak Kadrin, Karaz-a-Karak
+	* Control the Red Eye Mountain region
 	* Build the Black Orc Headquarters
-	* TODO Win in battle at least 15 faction leaders
 	* Defeat Archaon
 
 ### Bonerattlaz
@@ -35,7 +36,7 @@
 
 ### The Bloody Handz
 
-* TODO **Short Victory Conditions**:
+* **Short Victory Conditions**:
     * Control provinces:
         * Southern Badlands, Western Badlands
 	* Loot or at sack settlements:
@@ -45,9 +46,9 @@
 	* Control at least two of these regions:
 	    * Black Pyramid of Nagash, Black Tower of Arkhan, Skavenblight, Nagashizzar, Oak of Ages
 	* Occupy/loot/raze/sack at least 35 settlements
-	* TODO Earn 200000 from raiding, sacking or looting
+	* Earn 15000 from raiding
 	* Own 20 savage orcs/giants/rogue idols
-* TODO **Long Victory Conditions**:
+* **Long Victory Conditions**:
     * Control provinces:
         * Eastern Badlands, Southern Badlands, Western Badlands
 	* Loot or at sack settlements:
@@ -57,7 +58,7 @@
 	* Control at least four of these regions:
 	    * Black Pyramid of Nagash, Black Tower of Arkhan, Skavenblight, Nagashizzar, Oak of Ages
 	* Occupy/loot/raze/sack at least 50 settlements
-	* TODO Earn 500000 from raiding, sacking or looting
+	* Earn 30000 from raiding
 	* Own 30 savage orcs/giants/rogue idols
 
 ### Crooked Moon
@@ -77,18 +78,18 @@
 
 ### Broken Axe
 
-* TODO **Short Victory Conditions**:
+* **Short Victory Conditions**:
 	* Complete 3 Chapter Objectives
 	* Have at least 100 Waaagh!
-	* TODO Earn 200000 from raiding, sacking or looting
+	* Earn 15000 from raiding
 	* Destroy Yvresse
 	* Own 7 chariots
-* TODO **Long Victory Conditions**:
+* **Long Victory Conditions**:
 	* Complete 5 Chapter Objectives
 	* Have at least 100 Waaagh!
 	* Loot or raze settlements:
 	    * Akendorf, Gaean Vale, Karak Kadrin, Lothern, Nuln, Marienburg, Middenheim, Talabheim, Tor Yvresse, Tower of 
 	    Hoeth
-	* TODO Earn 500000 from raiding, sacking or looting
+	* Earn 30000 from raiding
 	* Destroy Yvresse
 	* Own 15 chariots

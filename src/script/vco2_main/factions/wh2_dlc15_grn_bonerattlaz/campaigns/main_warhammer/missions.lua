@@ -1,4 +1,4 @@
-local missions = { -- TODO FIXME LONG ONE DOES NOT WORK
+local missions = {
     [[
  		mission
 		{
@@ -71,7 +71,7 @@ local missions = { -- TODO FIXME LONG ONE DOES NOT WORK
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;
+					type CONTROL_N_REGIONS_INCLUDING;
 					total 1;
 					region wh2_main_the_broken_teeth;
 				}

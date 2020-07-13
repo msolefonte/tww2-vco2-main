@@ -16,9 +16,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
             - Military, Cultural and Economic victory are going to be available as extensions
     - Extended scripting support
         - More variety of objectives available
-        - Support for variable objectives depending on the faction leader
-- Skaven factions victory conditions completely redone
-- Lizardmen factions victory conditions completely redone
 - Greenskins factions victory conditions completely redone
+- Lizardmen factions victory conditions completely redone
+- Skaven factions victory conditions completely redone
+- Tomb Kings factions victory conditions completely redone
+- Warrios of Chaos victory conditions completely redone
 - Now Bordeleaux, Bretonnia and Carcassone only need 800 Chivalry to achieve a Short Victory
-- Now Bordeleaux, Bretonnia and Carcassone only need 800 Chivalry to achieve a Long Victory
+- Now Bordeleaux, Bretonnia and Carcassone only need 1600 Chivalry to achieve a Long Victory

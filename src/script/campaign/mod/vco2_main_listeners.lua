@@ -1,4 +1,4 @@
-function check_vco_bretonnia_chivalry_conditions(faction)
+function vco_check_bretonnia_chivalry(faction)
     local chivalry_amount = faction:total_food();
 
     if chivalry_amount >= 800 then
@@ -12,7 +12,7 @@ function check_vco_bretonnia_chivalry_conditions(faction)
     end
 end
 
-function check_vco_skaven_clans_reputation_conditions(faction)
+function vco_check_skaven_clan_eshin_clans_reputation(faction)
     local contract_clans = {"mors", "moulder", "pestilens", "skyre"}
     local vco_clan_reputation_requirement = 78;
 
@@ -47,7 +47,7 @@ function check_vco_skaven_clans_reputation_conditions(faction)
     end
 end
 
-function check_vco_skaven_workshop_conditions()
+function vco_check_skaven_clan_skyre_workshop()
     if current_workshop_lvl == 2 then
         cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
         cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
@@ -79,39 +79,63 @@ function add_listeners()
         core:add_listener(
             "vco_bretonnia_faction_turn_start",
             "FactionTurnStart",
-            true,
             function(context)
-                check_vco_bretonnia_chivalry_conditions(context:faction());
+                return context:faction():culture() == "wh_main_brt_bretonnia" and context:faction():name() == local_faction end,
+            function(context)
+                vco_check_bretonnia_chivalry(context:faction());
             end,
             true
         );
-		core:add_listener(
-			"vco_bretonnia_faction_turn_end",
-			"FactionTurnEnd",
-			true,
-			function(context)
-                check_vco_bretonnia_chivalry_conditions(context:faction());
+        core:add_listener(
+            "vco_bretonnia_faction_turn_end",
+            "FactionTurnEnd",
+            function(context)
+                return context:faction():culture() == "wh_main_brt_bretonnia" and context:faction():name() == local_faction end,
+            function(context)
+                vco_check_bretonnia_chivalry(context:faction());
             end,
-			true
-		);
+            true
+        );
 
         out("#### Adding Skaven Victory Conditions Overhaul Listeners ####");
         core:add_listener(
-            "vco_skaven_turn_start",
+            "vco_clan_eshin_faction_turn_start",
             "FactionTurnStart",
-            true,
             function(context)
-                check_vco_skaven_clans_reputation_conditions(context:faction());
-                check_vco_skaven_workshop_conditions(context);
+                return context:faction():name() == "wh2_main_skv_clan_eshin" and context:faction():name() == local_faction end,
+            function(context)
+                vco_check_skaven_clan_eshin_clans_reputation(context:faction());
             end,
             true
         );
         core:add_listener(
-            "vco_skaven_turn_end",
+            "vco_clan_eshin_faction_turn_end",
             "FactionTurnEnd",
-            true,
             function(context)
-                check_vco_skaven_workshop_conditions();
+                return context:faction():name() == "wh2_main_skv_clan_eshin" and context:faction():name() == local_faction end,
+            function(context)
+                vco_check_skaven_clan_eshin_clans_reputation(context:faction());
+            end,
+            true
+        );
+        core:add_listener(
+            "vco_clan_skyre_faction_turn_start",
+            "FactionTurnStart",
+            function(context)
+                return context:faction():name() == "wh2_main_skv_clan_skyre" and context:faction():name() == local_faction end,
+            function(context)
+                vco_check_skaven_clan_skyre_workshop(context:faction());
+            end,
+            true
+        );
+        core:add_listener(
+            "vco_clan_skyre_faction_turn_end",
+            "FactionTurnEnd",
+            function(context)
+                return context:faction():name() == "wh2_main_skv_clan_skyre" and context:faction():name() == local_faction
+            end,
+            function(context)
+                vco_check_skaven_clan_skyre_workshop(context:faction());
             end,
             true
         );

@@ -22,6 +22,11 @@ local missions = {
 				}
 				objective
 				{
+					type EARN_X_AMOUNT_FROM_RAIDING;
+					total 15000;
+				}
+				objective
+				{
 					type DESTROY_FACTION;
 					faction wh2_main_hef_yvresse;
 					confederation_valid;
@@ -67,6 +72,11 @@ local missions = {
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource grn_waaagh;
 					total 100;
+				}
+				objective
+				{
+					type EARN_X_AMOUNT_FROM_RAIDING;
+					total 30000;
 				}
 				objective
 				{
