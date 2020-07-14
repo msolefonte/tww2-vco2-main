@@ -1,0 +1,53 @@
+[img]https://i.imgur.com/fVVaDCS.gif[/img]
+
+[h2]Introduction[/h2]
+This mod introduces a major redone of the victory conditions of the Mortal Empires campaign. A lot of members of the community, including me, think that there is a poor job done in the default ones. This results in abandoned campaigns and poor differences between factions, which usually feel all the same in a lot of races.
+
+With this package, a major redone of all the vanilla factions (fifty four at the moment of the writing) has been introduced. It includes new features, new victory times and major differentiations between factions, always with a deep respect for the rich lore of Warhammer but without being to hardore: fun has been the main priority, lorefulness goes after it.
+
+It should be compatible with anything. Including unlockers and SFO. For any specific question, please read the FAQ.
+
+[h2]New Victory Conditions[/h2]
+
+[h3]Vanilla races[/h3]
+[list]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/beastmen/README.md]Beastmen[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/bretonnia/README.md]Bretonnia[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/dark-elves/README.md]Dark Elves[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/dwarfs/README.md]Dwarfs[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/empire/README.md]Empire[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/greenskins/README.md]Greenskins[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/high-elves/README.md]High Elves[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/lizardmen/README.md]Lizardmen[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/norsca/README.md]Norsca[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/skaven/README.md]Skaven[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/tomb-kings/README.md]Tomb Kings[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/vampire-coast/README.md]Vampire Coast[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/vampire-counts/README.md]Vampire Counts[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/warriors-of-chaos/README.md]Warriors of Chaos[/url]
+[*][url=https://github.com/msolefonte/tww2-vco2-main/tree/master/docs/factions/wood-elves/README.md]Wood Elves[/url]
+[/list]
+
+[h2]Frequently Asked Questions[/h2]
+A list of frequently asked questions can be found [url=https://www.github.com/msolefonte/tww2-vco2-framework/docs/faq.md]here[/url].
+
+[h2]Special Thanks[/h2]
+[list]
+
+[*]Special thanks to [b]cybvep[/b] for contributing with amazing and fresh ideas for new victory conditions. This mod would not have been possible without him.
+[*]Special thanks to [b]Vandy[/b] for its support during the development.
+[*]Special thanks to all the users that have supported the development economically.
+[*]Thanks to all the users that have participated in the beta releases, that have reported bugs and that have contributed with reports, feelings and new ideas.
+[*]Thanks to all the modders of the [b]Da Modding Den[/b] Discord for they knowledge and they experience.
+[/list]
+
+[quote]
+[h2]Support My Work[/h2]
+[img]https://i.imgur.com/fVVaDCS.gif[/img]
+You can like the mod and share it with your friends. The bigger the community, the faster this mod is going to grow and the more interest I am going to place into maintaining it. You can also, of course, create Pull Request at GitHub or contact me directly to introduce new features.
+
+Finally, if you want to support economically my job, feel free to donate via [url=https://www.patreon.com/wolfylpdc]Patreon[/url] or [url=https://paypal.me/echaravolar]PayPal[/url].
+
+[url=https://www.patreon.com/wolfylpdc][img]https://images.sftcdn.net/images/t_app-logo-l,f_auto,dpr_auto/p/18db3d97-101b-4416-aca9-3e5eeafbebec/3698961115/patreon-icon.png[/img][/url][url=https://paypal.me/echaravolar][img]https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/395cd2e2-9b31-11e6-b9af-00163ed833e7/678795089/paypal-icon.png[/img][/url]
+[/quote]
+

@@ -3,98 +3,90 @@
 ### Clan Mors
 
 * **Short Victory Conditions**:
-	* Own Karak Eight Peaks
-	* Have at least 50% skaven corruption in all owned provinces
-	* Have at least 50% skaven corruption in the following provinces
-	    * Peak Pass, Eastern Badlands, The Silver Road
+	* Control Eastern Badlands
+	* Have at least 52% skaven corruption in the following provinces
+	    * Eastern Badlands, Kingdom of Beasts, The Silver Road
 	* Destroy factions
-	    * Greenskins, Dwarfs, Last Defenders, Necksnappers
-	* Own at least 60 units
+	    * Crooken Moon, Crooked Moon Mutinous Gits, Clan Angrund
+	* Build the Occupied Karak Eight Peaks (Skaven Stronghold) and the Plundered Dwarfen Treasury
 * **Long Victory Conditions**:
-	* Own Karak Eight Peaks
-	* Have at least 50% skaven corruption in all owned provinces
-	* Have at least 50% skaven corruption in the following provinces
-	    * Peak Pass, Eastern Badlands, The Silver Road
+	* Control Eastern Badlands
+	* Have at least 52% skaven corruption in the following provinces
+	    * Eastern Badlands, Kingdom of Beasts, Land of the Dead, Southern Grey Mountains, The Silver Road, The Vaults, Western Badlands
 	* Destroy factions
-	    * Greenskins, Dwarfs, Last Defenders, Necksnappers, Crooked Moon, Orcs of The Bloody Handz, Karak Kadrin, Karak
-	    Izor, Khemri
-	* Own at least 100 units
+	    * Crooken Moon, Crooked Moon Mutinous Gits, Clan Angrund, Dwarfs
+	* Build the Occupied Karak Eight Peaks (Skaven Stronghold) and the Plundered Dwarfen Treasury
 
 ### Clan Pestilens
 
 * **Short Victory Conditions**:
-	* Have at least 50% skaven corruption in all owned provinces
-	* Have at least 50% skaven corruption in the following provinces
+	* Have at least 52% skaven corruption in the following provinces
 	    * Isthmus of Lustria, Northern Great Jungle, Southern Great Jungle
 	* Destroy factions
-	    * Order of Loremasters, The Blessed Dread, Vampire Coast
-	* Own at least 60 units
+	    * Order of Loremasters, The Blessed Dread, Vampire Coast, Cult of Sotek, Itza
+	* Construct 1 Plague Cauldron
+	* Construct 3 Plague Abbeys
 * **Long Victory Conditions**:
-	* Have at least 50% skaven corruption in all owned provinces
-	* Have at least 50% skaven corruption in the following provinces
+	* Have at least 52% skaven corruption in the following provinces
 	    * Isthmus of Lustria, Northern Great Jungle, Southern Great Jungle, Northern Jungle of Pahualaxa, Southern 
-	    Jungle of Pahualaxa, Jungles od Green Mists, The Creeping Jugle, Hualhuan Desert, Vampire Coast, Volcanic
+	    Jungle of Pahualaxa, Jungles of Green Mists, The Creeping Jugle, Hualhuan Desert, Vampire Coast, Volcanic
 	    Islands, Headhunters Jungle
 	* Destroy factions
-	    * Order of Loremasters, The Blessed Dread, Vampire Coast, The Drowned, Hexoatl
-	* Own at least 100 units
+	    * Order of Loremasters, The Blessed Dread, Vampire Coast, The Drowned, Cult of Sotek, Itza, Hexoatl
+	* Construct 5 Plague Cauldron
+	* Construct 8 Plague Abbeys
 
 ### Clan Rictus
 
 * **Short Victory Conditions**:
-	* Have at least 50% skaven corruption in the following provinces
-	    * The Clawed Coast, Iron Mountains, Isthmus of Lustria
+	* Have at least 52% skaven corruption in the following provinces
+	    * Iron Mountains, Isthmus of Lustria, The Clawed Coast
 	* Destroy factions
-	    * Hexoatl, Eataine
-	* Own at least 60 units
+	    * Hexoatl, Nagarythe 
+	* Own 26 Stormvermin
 * **Long Victory Conditions**:
-	* Have at least 50% skaven corruption in the following provinces
-	    * The Clawed Coast, Iron Mountains, Isthmus of Lustria, Reikland, THe Silver Road, Eastern Badlands, Couronne et
-	    L'Anguille, Eataine
+	* Have at least 52% skaven corruption in the following provinces
+	    * Eataine, Iron Mountains, Isthmus of Lustria, The Clawed Coast, The Wolf Lands
 	* Destroy factions
-	    * Hexoatl, Eataine, Empire, Dwarfs
-	* Own at least 100 units
+	    * Hexoatl, Eataine, Nagarythe
+    * Build the Rictus Great Clan-Hall
+	* Own 39 Stormvermin
 
 ### Clan Skryre
 
 * **Short Victory Conditions**:
-	* Have at least 50% skaven corruption in all owned provinces
-	* Have at least 50% skaven corruption in the following provinces
-	    * Talsyn, Yn Edri Eternos, Wydrioth, Argwylon, Carcassone et Brionne, Bordeleaux et Aquitaine
+	* Have at least 52% skaven corruption in the following provinces
+	    * Argwylon, Carcassone et Brionne, Estalia, Talsyn, Tilea, Torgovann, Wydrioth, Yn Edri Eternos
 	* Destroy factions
-	    * Wood Elves, Carcassone, Bordeleaux, Pirates of Sartosa
-	* Own at least 60 units
+	    * Argwylon, Wood Elves, Carcassone, Estalia, Tilea, Pirates of Sartosa
+    * Upgrade the Forbidden Workshop to the level 3
+	* Own 13 Doomwheels/Doom-Flayers/Ratling Guns/Warpfire ThrowerS/Warplock Jezzails/Warp-Grinders
 * **Long Victory Conditions**:
-	* Have at least 50% skaven corruption in all owned provinces
-	* Have at least 50% skaven corruption in the following provinces
-	    * Talsyn, Yn Edri Eternos, Wydrioth, Argwylon, Carcassone et Brionne, Bordeleaux et Aquitaine, Couronne et 
-	    Languille, Raikland, Zhufbar, The Silver Road, Blood River Valley, Western Sylvania, Eastern Sylvania
+	* Have at least 52% skaven corruption in the following provinces
+	    * Argwylon, Blood River Valley, Bordeleaux et Aquitaine, Carcassone et Brionne, Couronne et Languille, 
+	    Estalia, Talsyn, Tilea, The Silver Road, The Vaults, Torgovann, Wydrioth, Yn Edri Eternos
 	* Destroy factions
-	    * Wood Elves, Carcassone, Bordeleaux, Pirates of Sartosa, Empire, Bretonnia, Karak Izor, Vampire Counts
-	* Own at least 100 units
+	    * Argwylon, Wood Elves, Bordeleaux, Bretonnia, Carcassone, Estalia, Karak Izor, Tilea, Pirates of Sartosa
+	* Upgrade the Forbidden Workshop to the level 4
+	* Own 26 Doomwheels/Doom-Flayers/Ratling Guns/Warpfire ThrowerS/Warplock Jezzails/Warp-Grinders
 
 ### Clan Eshin
 
 * **Short Victory Conditions**:
-	* Perform the Vortex Ritual 4 times
-	* Complete 3 missions
-	* Perform the Delayed Ritual 2 times
-	* Perform 15 rituals
+	* Complete 3 Chapter Objectives
+	* Perform the Level 4 Scheme Shadowy Dealing 1 time
+	* Perform the Nightlord's Say-So 3 times
+	* Perform 13 Shadowy Dealings
+	* Attain 78 reputation with one clan
 	* Destroy factions
-	    * Greenskins, Dwarfs, Hag Graef, Last Defenders
-	* Construct at least 4 buildings of the following
-	    * Laboratory, Plague Abbey, Warp-Turbine Plant, Temple of the Horned Rat, Warpstone Reactor
-	* Own at least 15 units of the following
-	    * Hell Pit Abomination, Plague Monk, Doomwheel, Lightning Cannon
+	    * Dwarfs, Hag Graef, Knights of Caledor, Last Defenders
+	* Own 13 Death Runners/Eshin Triads/Gutter Runners/Night Runners
 * **Long Victory Conditions**:
-	* Perform the Vortex Ritual 4 times
-	* Complete 5 missions
-	* Perform the Delayed Ritual 4 times
-	* Perform 30 rituals
+	* Complete 5 Chapter Objectives
+	* Perform the Level 4 Scheme Shadowy Dealing 4 times
+	* Perform the Nightlord's Say-So 4 times
+	* Perform 26 Shadowy Dealings
+	* Attain 78 reputation with two clans
 	* Destroy factions
-	    * Greenskins, Dwarfs, Hag Graef, Last Defenders, Empire, Khemri, Bretonnia, Eataine, Hexoatl
-	* Construct at least 7 buildings of the following
-	    * Laboratory, Plague Abbey, Warp-Turbine Plant, Temple of the Horned Rat, Warpstone Reactor
-	* Own at least 30 units of the following
-	    * Hell Pit Abomination, Plague Monk, Doomwheel, Lightning Cannonç
-	* Control 18 provinces
+	    * Dwarfs, Greenskins, Hag Graef, Knights of Caledor, Last Defenders
+	* Own 26 Death Runners/Eshin Triads/Gutter Runners/Night Runners
