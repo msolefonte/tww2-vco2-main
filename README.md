@@ -12,7 +12,7 @@ abandoned campaigns and poor differences between factions, which usually feel al
 
 With this package, a major redone of all the vanilla factions (fifty four at the moment of the writing) has been 
 introduced. It includes new features, new victory times and major differentiations between factions, always with a deep 
-respect for the rich lore of Warhammer but without being to hardore: fun has been the main priority, lorefulness goes 
+respect for the rich lore of Warhammer but without being to hardcore: fun has been the main priority, lorefulness goes 
 after it.
 
 To use it you only have to subscribe to the mod in the Steam Workshop, as well as satisfying its dependencies. Using the 
