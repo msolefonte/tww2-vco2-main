@@ -50,6 +50,6 @@ This project is licensed under the Apache License, Version 2.0 - see the [LICENS
 fresh ideas for new victory conditions. This mod would not have been possible without him.
 * Special thanks to [Vandy](https://github.com/chadvandy) for its support during the development.
 * Special thanks to all the users that have supported the development economically.
-* Thanks to all the users that have participed in the beta releases, that have reported bugs and that have contributed
+* Thanks to all the users that have participated in the beta releases, that have reported bugs and that have contributed
 with reports, feelings and new ideas.
 * Thanks to all the modders of the **Da Modding Den** Discord for they knowledge and they experience.
