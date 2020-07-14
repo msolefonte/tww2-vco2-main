@@ -1,6 +1,6 @@
 # Victory Conditions Overhaul 2
 
-[Steam Workshop Mod Link](#)
+[Steam Workshop Mod Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815189)
 
 Victory Conditions Overhaul 2 mod for Total War: Warhammer 2.
 
