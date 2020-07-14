@@ -55,6 +55,7 @@
 
 * **Short Victory Conditions**:
 	* Destroy Khemri
+	* Capture the Black Pyramid of Nagash
 	* Build the Black Tower of Arkhan
 	* Construct at least 1 pyramid
 	* Own 7 Vampire Counts units
