@@ -30,8 +30,7 @@ local missions = {
                     faction wh_main_dwf_karak_izor;
 
                     faction wh_main_grn_necksnappers;
-
-					faction wh2_main_skv_clan_mors;
+					faction wh_main_grn_crooked_moon;
                     confederation_valid;
                 }
 				objective
@@ -86,8 +85,7 @@ local missions = {
                     faction wh_main_dwf_karak_izor;
 
                     faction wh_main_grn_necksnappers;
-
-					faction wh2_main_skv_clan_mors;
+					faction wh_main_grn_crooked_moon;
                     confederation_valid;
                 }
 				objective
