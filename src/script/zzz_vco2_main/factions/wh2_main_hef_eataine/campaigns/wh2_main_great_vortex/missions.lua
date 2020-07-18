@@ -1,3 +1,0 @@
-local missions = {};
-
-return missions;

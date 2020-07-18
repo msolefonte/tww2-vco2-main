@@ -23,3 +23,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Warrios of Chaos victory conditions completely redone
 - Now Bordeleaux, Bretonnia and Carcassone only need 800 Chivalry to achieve a Short Victory
 - Now Bordeleaux, Bretonnia and Carcassone only need 1600 Chivalry to achieve a Long Victory
+
+## [2.0.1] Minor Fix - 18.07.2020
+
+- Now Followers of Nagash have to control the Black Pyramid of Nagash to achieve a Short Victory
+- Fixed a bug where Clan Mors had to destroy Clan Mors to achieve a victory

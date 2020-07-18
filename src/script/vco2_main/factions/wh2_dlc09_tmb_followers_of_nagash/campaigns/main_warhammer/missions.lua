@@ -15,6 +15,12 @@ local missions = {
 				}
 				objective
 				{
+					type OWN_N_REGIONS_INCLUDING;
+					total 1;
+					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
+				}
+				objective
+				{
 					type CONSTRUCT_N_BUILDINGS_INCLUDING;
 					faction wh2_dlc09_tmb_followers_of_nagash;
 					total 1;
