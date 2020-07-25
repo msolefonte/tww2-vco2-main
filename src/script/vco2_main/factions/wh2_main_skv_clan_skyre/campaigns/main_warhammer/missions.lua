@@ -45,7 +45,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 13;
-					additive;
 					unit wh2_dlc12_skv_veh_doom_flayer_0;
 					unit wh2_dlc12_skv_veh_doom_flayer_ror_0;
 					unit wh2_dlc12_skv_veh_doom_flayer_ror_tech_lab_0;
@@ -125,7 +124,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 26;
-					additive;
 					unit wh2_dlc12_skv_veh_doom_flayer_0;
 					unit wh2_dlc12_skv_veh_doom_flayer_ror_0;
 					unit wh2_dlc12_skv_veh_doom_flayer_ror_tech_lab_0;

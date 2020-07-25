@@ -18,9 +18,10 @@
 	* Build the Altdorf Landmark and the Von Carstein Court Hall
 * **Long Victory Conditions**:
     * Conquer, ally with or assimilate all provinces of the Empire and Sylvannia
-    * Control Mousillon
+    * Control Southern Oblast and Fort Soll
+    * Control Mousillon 
 	* Destroy factions:
-	    * The Empire, Sylvania, Wintertooth, World Walkers
+	    * Clan Moulder, Couronne, The Empire, Sylvania
 	* Build the Altdorf Landmark and the Von Carstein Court Hall
     * Defeat the Chaos Invasion
     * Defeat Archaon

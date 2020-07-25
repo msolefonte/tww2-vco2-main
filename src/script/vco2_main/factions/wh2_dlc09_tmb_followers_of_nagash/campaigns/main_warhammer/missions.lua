@@ -43,7 +43,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 7;
-					additive;
 					unit wh2_dlc09_tmb_mon_dire_wolves;
 					unit wh2_dlc09_tmb_mon_fell_bats;
 					unit wh2_dlc09_tmb_inf_crypt_ghouls;
@@ -105,7 +104,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 15;
-					additive;
 					unit wh2_dlc09_tmb_mon_dire_wolves;
 					unit wh2_dlc09_tmb_mon_fell_bats;
 					unit wh2_dlc09_tmb_inf_crypt_ghouls;

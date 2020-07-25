@@ -12,7 +12,6 @@
 	* Construct 3 Star Chambers
 	* Build the Stellar Pyramids of the Southern Skies
 	* Build 4 Temple-Nexus
-	* Get a level 20 Slann Mage-Priest
 	* Own 7 Temple Guards
 * **Long Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Lustria
@@ -23,7 +22,6 @@
 	* Construct The Chamber of Visions
 	* Build the Stellar Pyramids of the Southern Skies
 	* Build 7 Temple-Nexus
-	* Get 3 level 20 Slann Mage-Priest
 	* Own 15 Temple Guards
 	* Defeat the Chaos Invasion
 	* Defeat Archaon

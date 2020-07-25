@@ -31,16 +31,19 @@
 * **Short Victory Conditions**:
 	* Destroy factions:
 	    * Nagarythe, Exiles of Nehek, Clan Rictus
-	* Own 3 Black Arks
+	* Build the Sanctum of Quintex
+	* Build 4 Courts of the Dark Prince
+    * Get 1 Sorceress to lvl 20
 	* Capture 10,000 battle captives
 * **Long Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Ulthuan:
 	    * Eataine, Yvresse, Saphery, Cothique, Avelorn, Chrace, Nagarythe, Ellyrion, Tiranoc, Caledor, Eagle Gate, 
 	    Griffon Gate, Unicorn Gate, Phoenix Gate
-	* Construct the Dark Convent of Sorcery
-	* Own 5 Black Arks
+	* Build the Dark Convent of Sorcery and the Sanctum of Quintex
+	* Build 7 Courts of the Dark Prince
 	* Destroy factions:
 	    * Averlorn, Nagarythe, Exiles of Nehek, Clan Rictus, Hexoatl, The Drowned, Eataine, Har Ganeth
+    * Get 3 Sorceress to lvl 20
 	* Capture 25000 battle captives
 
 ### The Blessed Dread
@@ -48,7 +51,7 @@
 * **Short Victory Conditions**:
 	* Destroy factions:
 	    * Vampire Coast, Order of Loremasters, Clan Pestilenes
-	* Construct 2 of the following special buildings:
+	* Construct 1 of the following special buildings:
 	    * Fiery Pits of Sacrifice, Slave Traders' Palaces, The Black Tower of Malekith, Vandalised Court of the 
 	    Everqueen, The Maelstrom (Raging), Sanctum of Quintex, Shrine of Widowmaker
     * Capture 20000 battle captives
@@ -57,7 +60,7 @@
 * **Long Victory Conditions**:
 	* Destroy factions:
 	    * Vampire Coast, Order of Loremasters, Clan Pestilenes, Eataine, Avelorn, Noctilus, Nagarythe
-	* Construct 5 of the following special buildings:
+	* Construct 3 of the following special buildings:
 	    * Fiery Pits of Sacrifice, Slave Traders' Palaces, The Black Tower of Malekith, Vandalised Court of the 
 	    Everqueen, The Maelstrom (Raging), Sanctum of Quintex, Shrine of Widowmaker
     * Capture 40000 battle captives

@@ -18,7 +18,6 @@ local missions = {
 				{
 					type CAPTURE_X_BATTLE_CAPTIVES;
 					total 15000;
-					additive;
 				}
 				objective
 				{
@@ -38,7 +37,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 15;
-					additive;
 					unit wh2_main_def_inf_har_ganeth_executioners_0;
 					unit wh2_main_def_mon_black_dragon;
 					unit wh2_main_def_cav_cold_one_knights_1;
@@ -75,7 +73,6 @@ local missions = {
 				{
 					type CAPTURE_X_BATTLE_CAPTIVES;
 					total 30000;
-					additive;
 				}
 				objective
 				{
@@ -98,7 +95,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 30;
-					additive;
 					unit wh2_main_def_inf_har_ganeth_executioners_0;
 					unit wh2_main_def_mon_black_dragon;
 					unit wh2_main_def_cav_cold_one_knights_1;

@@ -41,7 +41,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 20;
-					additive;
 					unit wh2_main_lzd_inf_saurus_spearmen_0;
 					unit wh2_main_lzd_inf_saurus_warriors_0;
 					unit wh2_main_lzd_inf_saurus_spearmen_1;
@@ -110,7 +109,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 30;
-					additive;
 					unit wh2_main_lzd_inf_saurus_spearmen_0;
 					unit wh2_main_lzd_inf_saurus_warriors_0;
 					unit wh2_main_lzd_inf_saurus_spearmen_1;
@@ -137,11 +135,6 @@ local missions = {
 					type HAVE_CHARACTER_WOUNDED;
 					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
 					start_pos_character 2140782858;
-				}
-
-				payload
-				{
-					game_victory;
 				}
 
 				payload

@@ -1,3 +1,22 @@
+function vco_add_beastmen_final_battle_listener()
+	if not cm:get_saved_value("bst_final_battle_quest") then
+		core:add_listener(
+			"Beastmen_Final_Battle",
+			"FactionTurnStart",
+			function(context)
+				local faction = context:faction();
+
+				return faction:is_human() and faction:name() == "wh_dlc03_bst_beastmen" and are_all_beastmen_final_battle_factions_dead();
+			end,
+			function()
+				cm:trigger_mission("wh_dlc03_bst_beastmen", "wh_dlc03_qb_bst_the_final_battle", true);
+				cm:set_saved_value("bst_final_battle_quest", true);
+			end,
+			false
+		);
+	end;
+end;
+
 function vco_check_bretonnia_chivalry(faction)
     local chivalry_amount = faction:total_food();
 
@@ -75,6 +94,23 @@ end
 function add_listeners()
     out("#### Adding Victory Conditions Overhaul Listeners ####");
     if cm:is_multiplayer() == false then
+        out("#### Adding Beastmen Victory Conditions Overhaul Listeners ####");
+        if not cm:get_saved_value("bst_final_battle_quest") then
+            core:add_listener(
+                "vco_beastmen_turn_50_start",
+                "FactionTurnStart",
+                function(context)
+                    local faction = context:faction();
+                    return faction:is_human() and faction:name() == "wh_dlc03_bst_beastmen" and cm:turn_number() >= 50;
+                end,
+                function()
+                    cm:trigger_mission("wh_dlc03_bst_beastmen", "wh_dlc03_qb_bst_the_final_battle", true);
+                    cm:set_saved_value("bst_final_battle_quest", true);
+                end,
+                false
+            );
+        end;
+
         out("#### Adding Bretonnia Victory Conditions Overhaul Listeners ####");
         core:add_listener(
             "vco_bretonnia_faction_turn_start",

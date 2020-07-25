@@ -27,16 +27,8 @@ local missions = {
 				}
 				objective
 				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_hef_nagarythe;
-					total 1;
-					building_level wh2_main_special_anlec_citadel_hef;
-				}
-				objective
-				{
 					type OWN_N_UNITS;
 					total 2;
-					additive;
 					unit wh2_main_hef_mon_moon_dragon;
 				}
 
@@ -86,7 +78,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 3;
-					additive;
 					unit wh2_main_hef_mon_moon_dragon;
 				}
 

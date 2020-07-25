@@ -28,7 +28,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 26;
-					additive;
 					unit wh2_main_skv_inf_stormvermin_0;
 					unit wh2_main_skv_inf_stormvermin_1;
 					unit wh2_dlc12_skv_inf_stormvermin_ror_0;
@@ -81,7 +80,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 39;
-					additive;
 					unit wh2_main_skv_inf_stormvermin_0;
 					unit wh2_main_skv_inf_stormvermin_1;
 					unit wh2_dlc12_skv_inf_stormvermin_ror_0;

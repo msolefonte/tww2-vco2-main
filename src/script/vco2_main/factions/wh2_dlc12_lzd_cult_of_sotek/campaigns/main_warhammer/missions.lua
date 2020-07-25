@@ -54,7 +54,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 40;
-					additive;
 					unit wh2_main_lzd_inf_skink_cohort_0;
 					unit wh2_dlc12_lzd_inf_skink_red_crested_0;
 					unit wh2_dlc12_lzd_inf_skink_red_crested_ror_0;
@@ -142,7 +141,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 60;
-					additive;
 					unit wh2_main_lzd_inf_skink_cohort_0;
 					unit wh2_dlc12_lzd_inf_skink_red_crested_0;
 					unit wh2_dlc12_lzd_inf_skink_red_crested_ror_0;
@@ -176,11 +174,6 @@ local missions = {
 					type HAVE_CHARACTER_WOUNDED;
 					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
 					start_pos_character 2140782858;
-				}
-
-				payload
-				{
-					game_victory;
 				}
 
 				payload

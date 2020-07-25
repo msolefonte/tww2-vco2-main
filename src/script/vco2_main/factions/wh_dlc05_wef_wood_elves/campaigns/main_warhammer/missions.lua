@@ -31,10 +31,12 @@ local missions = {
 				objective
 				{
                     type DESTROY_FACTION;
+                    faction wh2_main_skv_clan_skyre;
                     faction wh2_main_skv_clan_spittel;
 
-					faction wh2_dlc11_vmp_the_barrow_legion;
-					faction wh_main_vmp_mousillon;
+					faction wh_main_grn_crooked_moon;
+
+					faction wh2_dlc11_cst_pirates_of_sartosa;
 					confederation_valid;
 				}
                 objective
@@ -52,17 +54,16 @@ local missions = {
 				objective
 				{
 					type OWN_N_UNITS;
-					total 40;
+					total 60;
 				}
 				objective
 				{
 					type OWN_N_UNITS;
-					total 10;
-					additive;
-					unit wh_dlc05_wef_inf_dryads_0;
-					unit wh_dlc05_wef_mon_treekin_0;
-					unit wh_dlc05_wef_mon_treeman_0;
-					unit wh_pro04_wef_mon_treekin_ror_0;
+					total 7;
+					unit wh_dlc05_wef_cav_sisters_thorn_0;
+					unit wh_dlc05_wef_cav_wild_riders_0;
+					unit wh_dlc05_wef_cav_wild_riders_1;
+					unit wh_pro04_wef_cav_wild_riders_ror_0;
 				}
 
 				payload
@@ -75,7 +76,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_long;
+			victory_type vco_victory_type_ultimate;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -90,7 +91,7 @@ local missions = {
 					province wh_main_wydrioth;
 					province wh_main_yn_edri_eternos;
 					province wh2_main_laurelorn_forest;
-					province wh2_main_avelorn;
+					province wh2_main_heart_of_the_jungle;
 				}
 				objective
 				{
@@ -110,9 +111,8 @@ local missions = {
                     faction wh2_main_skv_clan_spittel;
 
 					faction wh_main_grn_crooked_moon;
-
-					faction wh_dlc08_nor_norsca;
-					faction wh_dlc08_nor_wintertooth;
+                    faction wh_main_grn_greenskins;
+					faction wh_main_grn_orcs_of_the_bloody_hand;
 
 					faction wh2_dlc11_vmp_the_barrow_legion;
 					faction wh_main_vmp_mousillon;
@@ -135,16 +135,16 @@ local missions = {
 				objective
 				{
 					type OWN_N_UNITS;
-					total 80;
+					total 100;
 				}
 				objective
 				{
 					type OWN_N_UNITS;
-					total 16;
-					additive;
+					total 10;
 					unit wh_dlc05_wef_cav_sisters_thorn_0;
 					unit wh_dlc05_wef_cav_wild_riders_0;
 					unit wh_dlc05_wef_cav_wild_riders_1;
+					unit wh_pro04_wef_cav_wild_riders_ror_0;
 				}
 				objective
                 {

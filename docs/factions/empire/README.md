@@ -23,15 +23,15 @@
     * Control Solland and Fort Soll
     * Reconquer Sylvannia
     * Destroy factions
-        * Black Venom, Crooked Moon, The Bloody Handz, Clan Skyre, Pirates of Sartosa
+        * Black Venom, Crooked Moon, Clan Skyre, Clan Spittel, Pirates of Sartosa
     * Build the Nuln Gunnery School
 * **Long Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of the Empire
-    * Control Fort Soll
+    * Control Fort Soll, Black Mountains, Eastern Border Princes and Western Border Princes
     * Reconquer Sylvannia
     * Destroy factions
-        * Black Venom, Broken Nose, Crooked Moon, Greenskins, The Bloody Handz, Clan Kreepus, Clan Skyre, Pirates of 
-        Sartosa, Sylvannia, Von Carstein
+        * Black Venom, Broken Nose, Crooked Moon, Greenskins, The Bloody Handz, Clan Kreepus, Clan Skyre, Clan Spittel, 
+        Pirates of Sartosa, Sylvannia, Von Carstein
     * Build the Nuln Gunnery School
     * Defeat the Chaos Invasion
     * Defeat Archaon

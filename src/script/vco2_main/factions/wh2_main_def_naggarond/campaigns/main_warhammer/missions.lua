@@ -11,7 +11,6 @@ local missions = {
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
 					total 10;
-					override_text mission_text_text_wh2_main_objective_override_malekith_control;
 					province wh2_main_ironfrost_glacier;
 					province wh2_main_the_chill_road;
 					province wh2_main_the_road_of_skulls;
@@ -72,7 +71,6 @@ local missions = {
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
 					total 10;
-					override_text mission_text_text_wh2_main_objective_override_malekith_control;
 					province wh2_main_ironfrost_glacier;
 					province wh2_main_the_chill_road;
 					province wh2_main_the_road_of_skulls;

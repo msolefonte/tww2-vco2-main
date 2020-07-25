@@ -11,7 +11,7 @@
     * Complete the final battle
     * Own at least 60 units
     * Own at least 7 sisters of the thorn and/or wild riders (shielded/unshielded)
-* **Long Victory Conditions**:
+* **Ultimate Victory Conditions**:
     * Control Athel Loren, the Laurelorn Forest and the Oreon's Camp
     * Athel Loren has to be at least 80% untained
     * Destroy factions:
@@ -34,7 +34,7 @@
     * Complete the final battle
     * Own at least 40 units
     * Own at least 10 tree units
-* **Long Victory Conditions**:
+* **Ultimate Victory Conditions**:
     * Control Athel Loren, the Laurelorn Forest and Avelorn
     * Athel Loren has to be at least 80% untained
     * Destroy factions:

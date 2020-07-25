@@ -4,8 +4,8 @@
 
 * **Short Victory Conditions**:
 	* Conquer or assimilate all of the Greenskin tribes
-	    * Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs of The Bloody Handz, Red Eye, Red 
-	    Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz
+	    * Black Venom, Bloody Spearz, Necksnappers, Orcs of The Bloody Handz, Red Eye, Red Fangs, Scabby Eye, Teef 
+	    Snatchaz, Top Knotz
 	* Loot or sack at least 35 settlements including:
 	    * Karak Kadrin, Karaz-a-Karak
  	* Build the Black Orc Headquarters
@@ -30,7 +30,6 @@
 	Order, Wissenland, Kislev and Karak Kadrin
 	* Occupy/loot/raze/sack at least 50 settlements
 	* Control the Broken Teeth province
-	* Build the Great Halls of Nagashizzar
 	* Earn 20000 from raiding
 	* Defeat Archaon
 
@@ -39,8 +38,10 @@
 * **Short Victory Conditions**:
     * Control provinces:
         * Southern Badlands, Western Badlands
+    * Have at least 80% Untained in the following provinces:
+        * Southern Badlands, Western Badlands
 	* Loot or at sack settlements:
-	    * Akendorf, Al-Haikk, Copher, Fyrus, Luccini, Matorca, Miragliano, Myrmidens, Zandri, Zvorak  
+	    * Akendorf, Luccini, Matorca, Miragliano, Myrmidens, Sartosa, Zandri, Zvorak  
 	* Destroy factions:
 	    * Border Princess, Tilea, Strygos Empire
 	* Control at least two of these regions:
@@ -51,8 +52,10 @@
 * **Long Victory Conditions**:
     * Control provinces:
         * Eastern Badlands, Southern Badlands, Western Badlands
+    * Have at least 80% Untained in the following provinces:
+        * Eastern Badlands, Southern Badlands, Western Badlands
 	* Loot or at sack settlements:
-	    * Akendorf, Al-Haikk, Copher, Fyrus, Lucini, Matorca, Miragliano, Myrmidens, Zandri, Zvorak  
+	    * Akendorf, Al-Haikk, Copher, Fyrus, Lucini, Matorca, Miragliano, Myrmidens, Sartosa, Zandri, Zvorak  
 	* Destroy factions:
 	    * Border Princess, Estalia, Tilea, Clan Skryre, Khemri, Pirates of Sartosa, Strygos Empire
 	* Control at least four of these regions:
@@ -81,6 +84,8 @@
 * **Short Victory Conditions**:
 	* Complete 3 Chapter Objectives
 	* Have at least 100 Waaagh!
+	* Loot or raze settlements:
+	    * Lothern, Tor Yvresse, Tower of Hoeth
 	* Earn 15000 from raiding
 	* Destroy Yvresse
 	* Own 7 chariots

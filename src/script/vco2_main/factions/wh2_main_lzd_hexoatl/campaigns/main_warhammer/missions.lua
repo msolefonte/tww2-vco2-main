@@ -10,7 +10,7 @@ local missions = {
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 14;
+					total 2;
 					province wh2_main_isthmus_of_lustria;
 					province wh2_main_northern_jungle_of_pahualaxa;
 				}
@@ -51,18 +51,10 @@ local missions = {
 					total 4;
 					building_level wh2_main_lzd_settlement_major_5;
 				}
-                objective
-				{
-					type ACHIEVE_CHARACTER_RANK;
-					total 1;
-					total2 20;
-					agent wizard;
-				}
 				objective
 				{
 					type OWN_N_UNITS;
 					total 7;
-					additive;
 					unit wh2_main_lzd_inf_temple_guards;
 					unit wh2_main_lzd_inf_temple_guards_nakai;
 					unit wh2_main_lzd_inf_temple_guards_blessed;
@@ -157,18 +149,10 @@ local missions = {
 					total 7;
 					building_level wh2_main_lzd_settlement_major_5;
 				}
-                objective
-				{
-					type ACHIEVE_CHARACTER_RANK;
-					total 3;
-					total2 20;
-					agent wizard;
-				}
 				objective
 				{
 					type OWN_N_UNITS;
 					total 15;
-					additive;
 					unit wh2_main_lzd_inf_temple_guards;
 					unit wh2_main_lzd_inf_temple_guards_nakai;
 					unit wh2_main_lzd_inf_temple_guards_blessed;
