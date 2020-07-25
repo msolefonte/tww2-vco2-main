@@ -47,7 +47,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 3;
-					additive;
 					unit wh2_dlc15_hef_inf_mistwalkers_faithbearers_0;
 					unit wh2_dlc15_hef_inf_mistwalkers_griffon_knights_0;
 					unit wh2_dlc15_hef_inf_mistwalkers_sentinels_0;
@@ -125,7 +124,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 5;
-					additive;
 					unit wh2_dlc15_hef_inf_mistwalkers_faithbearers_0;
 					unit wh2_dlc15_hef_inf_mistwalkers_griffon_knights_0;
 					unit wh2_dlc15_hef_inf_mistwalkers_sentinels_0;

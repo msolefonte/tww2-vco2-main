@@ -19,9 +19,24 @@ local missions = {
 				}
 				objective
 				{
-					type HAVE_N_AGENTS_OF_TYPE;
-					total 3;
-					agent_subtype wh2_main_def_black_ark;
+					type CONSTRUCT_N_BUILDINGS_INCLUDING;
+					faction wh2_main_def_cult_of_pleasure;
+					total 1;
+					building_level wh2_main_special_quintex_2;
+				}
+				objective
+				{
+					type CONSTRUCT_N_OF_A_BUILDING;
+					faction wh2_main_def_cult_of_pleasure;
+					total 4;
+					building_level wh2_main_def_pleasure_cult_5;
+				}
+				objective
+				{
+					type ACHIEVE_CHARACTER_RANK;
+					total 1;
+					total2 20;
+					agent wizard;
 				}
 				objective
 				{
@@ -66,9 +81,18 @@ local missions = {
 				}
 				objective
 				{
-					type HAVE_N_AGENTS_OF_TYPE;
-					total 5;
-					agent_subtype wh2_main_def_black_ark;
+					type CONSTRUCT_N_BUILDINGS_INCLUDING;
+					faction wh2_main_def_cult_of_pleasure;
+					total 2;
+					building_level wh2_main_special_quintex_2;
+					building_level wh2_main_special_ghrond_convent_of_sorcery_2;
+				}
+				objective
+				{
+					type CONSTRUCT_N_OF_A_BUILDING;
+					faction wh2_main_def_cult_of_pleasure;
+					total 7;
+					building_level wh2_main_def_pleasure_cult_5;
 				}
 				objective
 				{
@@ -89,15 +113,15 @@ local missions = {
 				}
 				objective
 				{
-					type CAPTURE_X_BATTLE_CAPTIVES;
-					total 25000;
+					type ACHIEVE_CHARACTER_RANK;
+					total 3;
+					total2 20;
+					agent wizard;
 				}
 				objective
 				{
-					type CONSTRUCT_N_OF_A_BUILDING;
-					faction wh2_main_def_cult_of_pleasure;
-					total 1;
-					building_level wh2_main_special_ghrond_convent_of_sorcery_2;
+					type CAPTURE_X_BATTLE_CAPTIVES;
+					total 25000;
 				}
 
 				payload

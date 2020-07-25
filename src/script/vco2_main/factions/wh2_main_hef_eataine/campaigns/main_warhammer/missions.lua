@@ -29,10 +29,9 @@ local missions = {
 				}
 				objective
 				{
-					type DESTROY_FACTION;
-					faction wh2_main_def_naggarond;
-					faction wh2_main_def_cult_of_pleasure;
-					confederation_valid;
+					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					total 1;
+					region wh2_main_iron_mountains_naggarond;
 				}
 				objective
 				{

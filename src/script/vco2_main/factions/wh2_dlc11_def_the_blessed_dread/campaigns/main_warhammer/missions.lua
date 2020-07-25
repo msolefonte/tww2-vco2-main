@@ -21,7 +21,7 @@ local missions = {
 				{
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_dlc11_def_the_blessed_dread;
-					total 2;
+					total 1;
 					building_level wh2_main_special_har_ganeth_temple_of_khaine_1;
 					building_level wh2_main_special_karond_kar_slavers;
 					building_level wh2_main_special_naggarond_witch_king_def;
@@ -45,7 +45,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 20;
-					additive;
 					unit wh2_main_def_inf_black_ark_corsairs_0;
 					unit wh2_main_def_inf_black_ark_corsairs_1;
 				}
@@ -83,7 +82,7 @@ local missions = {
 				{
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_dlc11_def_the_blessed_dread;
-					total 5;
+					total 3;
 					building_level wh2_main_special_har_ganeth_temple_of_khaine_1;
 					building_level wh2_main_special_karond_kar_slavers;
 					building_level wh2_main_special_naggarond_witch_king_def;
@@ -109,7 +108,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 30;
-					additive;
 					unit wh2_main_def_inf_black_ark_corsairs_0;
 					unit wh2_main_def_inf_black_ark_corsairs_1;
 				}

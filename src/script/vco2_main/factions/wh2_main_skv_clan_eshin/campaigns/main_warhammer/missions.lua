@@ -53,7 +53,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 13;
-					additive;
 					unit wh2_main_skv_inf_death_runners_0;
 					unit wh2_dlc14_skv_inf_death_runners_ror_0;
 					unit wh2_dlc14_skv_inf_eshin_triads_0;
@@ -143,7 +142,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 26;
-					additive;
 					unit wh2_main_skv_inf_death_runners_0;
 					unit wh2_dlc14_skv_inf_death_runners_ror_0;
 					unit wh2_dlc14_skv_inf_eshin_triads_0;

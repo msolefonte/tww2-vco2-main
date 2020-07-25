@@ -12,7 +12,6 @@ local missions = {
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
 					total 15000;
-					additive;
 				}
 				objective
 				{
@@ -74,7 +73,6 @@ local missions = {
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
 					total 25000;
-					additive;
 				}
 				objective
 				{

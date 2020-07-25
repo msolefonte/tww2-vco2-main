@@ -35,7 +35,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 3;
-					additive;
 					unit wh2_dlc09_tmb_veh_khemrian_warsphinx_0;
 				}
 
@@ -103,7 +102,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 10;
-					additive;
 					unit wh2_dlc09_tmb_veh_khemrian_warsphinx_0;
 					unit wh2_dlc09_tmb_mon_heirotitan_0;
 					unit wh2_dlc09_tmb_mon_necrosphinx_0;

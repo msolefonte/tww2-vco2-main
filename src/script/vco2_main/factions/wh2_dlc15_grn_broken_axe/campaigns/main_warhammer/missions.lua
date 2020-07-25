@@ -22,6 +22,14 @@ local missions = {
 				}
 				objective
 				{
+					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					total 3;
+					region wh2_main_eataine_lothern;
+					region wh2_main_yvresse_tor_yvresse;
+					region wh2_main_saphery_tower_of_hoeth;
+				}
+				objective
+				{
 					type EARN_X_AMOUNT_FROM_RAIDING;
 					total 15000;
 				}
@@ -35,7 +43,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 7;
-					additive;
 					unit wh_main_grn_cav_goblin_wolf_chariot;
 					unit wh_dlc06_grn_cav_teef_robbers_0;
 					unit wh_main_grn_cav_orc_boar_chariot;
@@ -75,16 +82,6 @@ local missions = {
 				}
 				objective
 				{
-					type EARN_X_AMOUNT_FROM_RAIDING;
-					total 30000;
-				}
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_hef_yvresse;
-					confederation_valid;
-				}objective
-				{
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 10;
 					region wh_main_eastern_border_princes_akendorf;
@@ -100,9 +97,19 @@ local missions = {
 				}
 				objective
 				{
+					type EARN_X_AMOUNT_FROM_RAIDING;
+					total 30000;
+				}
+				objective
+				{
+					type DESTROY_FACTION;
+					faction wh2_main_hef_yvresse;
+					confederation_valid;
+				}
+				objective
+				{
 					type OWN_N_UNITS;
 					total 15;
-					additive;
 					unit wh_main_grn_cav_goblin_wolf_chariot;
 					unit wh_dlc06_grn_cav_teef_robbers_0;
 					unit wh_main_grn_cav_orc_boar_chariot;

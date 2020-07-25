@@ -27,9 +27,9 @@ local missions = {
 					type DESTROY_FACTION;
 					faction wh_main_grn_black_venom;
 					faction wh_main_grn_crooked_moon;
-					faction wh_main_grn_orcs_of_the_bloody_hand;
 
                     faction wh2_main_skv_clan_skyre;
+                    faction wh2_main_skv_clan_spittel;
 
                     faction wh2_dlc11_cst_pirates_of_sartosa;
 					confederation_valid;
@@ -78,6 +78,15 @@ local missions = {
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
+					total 4;
+					province wh2_main_fort_soll;
+					province wh_main_black_mountains;
+					province wh_main_eastern_border_princes;
+					province wh_main_western_border_princes;
+				}
+				objective
+				{
+					type CONTROL_N_PROVINCES_INCLUDING;
 					total 2;
 					override_text mission_text_text_wh_main_objective_override_empire_sylvania;
 					province wh_main_eastern_sylvania;
@@ -94,6 +103,7 @@ local missions = {
 
                     faction wh2_dlc15_skv_clan_kreepus;
                     faction wh2_main_skv_clan_skyre;
+                    faction wh2_main_skv_clan_spittel;
 
                     faction wh2_dlc11_cst_pirates_of_sartosa;
 

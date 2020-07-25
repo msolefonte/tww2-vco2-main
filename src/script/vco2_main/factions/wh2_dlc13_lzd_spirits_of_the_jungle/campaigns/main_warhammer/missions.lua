@@ -51,7 +51,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 7;
-					additive;
 					unit wh2_main_lzd_mon_kroxigors;
 					unit wh2_main_lzd_mon_kroxigors_nakai;
 					unit wh2_main_lzd_mon_kroxigors_blessed;
@@ -121,7 +120,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 15;
-					additive;
 					unit wh2_main_lzd_mon_kroxigors;
 					unit wh2_main_lzd_mon_kroxigors_nakai;
 					unit wh2_main_lzd_mon_kroxigors_blessed;

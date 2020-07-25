@@ -79,6 +79,13 @@ local missions = {
 				}
 				objective
 				{
+					type CONTROL_N_PROVINCES_INCLUDING;
+					total 2;
+					province wh_main_southern_oblast;
+					province wh2_main_fort_soll;
+				}
+				objective
+				{
 					type CONTROL_N_REGIONS_INCLUDING;
 					total 1;
 					region wh_main_lyonesse_mousillon;
@@ -86,12 +93,13 @@ local missions = {
 				objective
 				{
 					type DESTROY_FACTION;
+					faction wh2_main_skv_clan_moulder;
+
+					faction wh_main_brt_bretonnia;
+
 					faction wh_main_emp_empire;
 
 					faction wh_main_vmp_vampire_counts;
-
-					faction wh_dlc08_nor_norsca;
-					faction wh_dlc08_nor_wintertooth;
 					confederation_valid;
 				}
 				objective

@@ -47,7 +47,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 10;
-					additive;
 					unit wh2_main_def_inf_witch_elves_0;
 					unit wh2_dlc10_def_inf_sisters_of_slaughter;
 					unit wh2_main_def_inf_har_ganeth_executioners_0;
@@ -124,7 +123,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 20;
-					additive;
 					unit wh2_main_def_inf_witch_elves_0;
 					unit wh2_dlc10_def_inf_sisters_of_slaughter;
 					unit wh2_main_def_inf_har_ganeth_executioners_0;

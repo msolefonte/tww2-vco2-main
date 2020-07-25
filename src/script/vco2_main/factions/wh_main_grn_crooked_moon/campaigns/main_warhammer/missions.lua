@@ -28,7 +28,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 40;
-					additive;
 					unit wh_main_grn_inf_goblin_spearmen;
 					unit wh_main_grn_inf_night_goblins;
 					unit wh_dlc06_grn_inf_da_warlords_boyz_0;
@@ -102,7 +101,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 80;
-					additive;
 					unit wh_main_grn_inf_goblin_spearmen;
 					unit wh_main_grn_inf_night_goblins;
 					unit wh_dlc06_grn_inf_da_warlords_boyz_0;

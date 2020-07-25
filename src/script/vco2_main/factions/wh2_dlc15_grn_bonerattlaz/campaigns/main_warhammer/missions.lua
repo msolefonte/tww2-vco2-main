@@ -73,14 +73,7 @@ local missions = {
 				{
 					type CONTROL_N_REGIONS_INCLUDING;
 					total 1;
-					region wh2_main_the_broken_teeth;
-				}
-				objective
-				{
-					type CONSTRUCT_N_OF_A_BUILDING;
-					faction wh2_dlc15_grn_bonerattlaz;
-					total 1;
-					building_level wh2_dlc14_special_nagashizzar_other;
+					region wh2_main_the_broken_teeth_nagashizar;
 				}
 				objective
 				{

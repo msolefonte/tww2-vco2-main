@@ -33,13 +33,6 @@ local missions = {
 					type CONSTRUCT_N_OF_A_BUILDING;
 					faction wh2_main_hef_order_of_loremasters;
 					total 1;
-					building_level wh2_main_special_tower_of_hoeth_2;
-				}
-				objective
-				{
-					type CONSTRUCT_N_OF_A_BUILDING;
-					faction wh2_main_hef_order_of_loremasters;
-					total 1;
 					building_level wh2_main_hef_mages_3;
 				}
 

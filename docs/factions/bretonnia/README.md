@@ -8,7 +8,7 @@
 	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon 
 	* Destroy factions: 
 	    * Mousillon, The Barrow Legion, World Walkers, Wintertooth, Vanaheimlings
-* **Long Victory Conditions**:
+* **Ultimate Victory Conditions**:
 	* Attain 2000 Chivalry
 	* Conquer provinces:
 	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon 
@@ -24,7 +24,7 @@
 	* Attain 2000 Chivalry
 	* Destroy factions:
 	    * Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, All Pirate Rogue Armies
-* **Long Victory Conditions**:
+* **Ultimate Victory Conditions**:
 	* Attain 2000 Chivalry
 	* Destroy factions:
 	    * Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, The Blessed Dread, All Pirate Rogue Armies
@@ -39,7 +39,7 @@
     * Get a level 20 damsel
 	* Destroy factions:
 	    - Clan Skryre, Clan Spittel, Skullmasherz, Crooked Moon, Mousillon, The Barrow Legion
-* **Long Victory Conditions**:
+* **Ultimate Victory Conditions**:
 	* Attain 2000 Chivalry
 	* Get 3 level 20 damsels
 	* Destroy factions:
@@ -51,7 +51,7 @@
 
 ### Chevaliers de Lyonesse
 
-* **Long Victory Conditions**:
+* **Ultimate Victory Conditions**:
 	* Attain 2000 Chivalry
 	* Destroy factions:
 	    * Dune Kingdoms, Followers of Nagash, Khemri, Numas, Rakaph Dynasty, The Sentinels, Necrarch Brotherhood

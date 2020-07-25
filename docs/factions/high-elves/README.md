@@ -4,8 +4,7 @@
 
 * **Short Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Ulthuan
-	* Destroy factions:
-	    * Cult of Pleasure, Naggarond
+	* Raze or sack Naggarond
 	* Construct the Sacred Flame of Asuryan and the Gates of Lothern
 * **Long Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Ulthuan
@@ -19,7 +18,6 @@
 * **Short Victory Conditions**:
 	* Hold 12 settlements
 	* Control the Saphery province
-	* Construct the White Tower of Hoeth
 	* Construct a Tower of Mages
 	* Destroy factions:
 	    * The Blessed Dread, Vampire Coast, Clan Pestilens
@@ -39,7 +37,6 @@
 	    * Nagarythe, Iron Mountains, Titan Peaks, The Road of Skulls, Doom Glades
 	* Destroy factions
 	    * Bleak Holds, Naggarond, Clar Karond
-	* Construct the Black Citadel of Anlec
 	* Own 2 Moon Dragons
 * **Long Victory Conditions**:
 	* Conquer four of the following provinces
@@ -68,7 +65,7 @@
 * **Short Victory Conditions**:
 	* Complete 3 Missions
 	* Control provinces:
-	    * Western Badlands, Gnoblar Country, Dragon Isles, The Wolf Lands, Caledor
+	    * Gnoblar Country, Dragon Isles, The Wolf Lands, Caledor
 	* Destroy factions
 	    * Clan Eshin, Greenskins, Hag Graef
 	* Construct 3 of the following buildings:
@@ -81,7 +78,7 @@
 	* Complete 5 Missions
 	* Conquer, ally with or assimilate all provinces of Ulthuan
 	* Control provinces:
-	    * Western Badlands, Gnoblar Country, Dragon Isles, The Wolf Lands, Caledor
+	    * Gnoblar Country, Dragon Isles, The Wolf Lands, Caledor
 	* Destroy factions
 	    * Clan Eshin, Greenskins, Hag Graef, Clan Mors
 	* Construct 8 of the following buildings:

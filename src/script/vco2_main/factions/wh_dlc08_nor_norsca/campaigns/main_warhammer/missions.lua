@@ -34,7 +34,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 7;
-					additive;
 					unit wh_dlc08_nor_mon_skinwolves_0;
 					unit wh_dlc08_nor_mon_skinwolves_1;
 					unit wh_dlc08_nor_mon_war_mammoth_0;

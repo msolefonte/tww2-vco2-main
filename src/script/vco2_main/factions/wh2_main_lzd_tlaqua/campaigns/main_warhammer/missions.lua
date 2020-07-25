@@ -34,7 +34,7 @@ local missions = {
 				objective
 				{
 					type CONSTRUCT_N_OF_A_BUILDING;
-					faction wh2_main_lzd_tlaqua;
+					faction wh2_main_lzd_lizardmen;
 					total 3;
 					building_level wh2_dlc12_lzd_terradons_2;
 				}
@@ -42,7 +42,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 7;
-					additive;
 					unit wh2_dlc12_lzd_cav_ripperdactyl_riders_0;
 					unit wh2_dlc12_lzd_cav_ripperdactyl_riders_ror_0;
 					unit wh2_main_lzd_cav_terradon_riders_0;
@@ -81,13 +80,6 @@ local missions = {
 				}
 				objective
 				{
-					type CONSTRUCT_N_OF_A_BUILDING;
-					faction wh2_main_lzd_tlaqua;
-					total 5;
-					building_level wh2_main_lzd_slann_1;
-				}
-				objective
-				{
 					type DESTROY_FACTION;
 					faction wh2_main_skv_clan_mors;
 					faction wh2_main_skv_clan_skyre;
@@ -104,7 +96,7 @@ local missions = {
 				objective
 				{
 					type CONSTRUCT_N_OF_A_BUILDING;
-					faction wh2_main_lzd_tlaqua;
+					faction wh2_main_lzd_lizardmen;
 					total 5;
 					building_level wh2_dlc12_lzd_terradons_2;
 				}
@@ -112,7 +104,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 15;
-					additive;
 					unit wh2_dlc12_lzd_cav_ripperdactyl_riders_0;
 					unit wh2_dlc12_lzd_cav_ripperdactyl_riders_ror_0;
 					unit wh2_main_lzd_cav_terradon_riders_0;

@@ -17,8 +17,7 @@ local missions = {
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 5;
-					province wh_main_western_badlands;
+					total 4;
 					province wh2_main_gnoblar_country;
 					province wh2_main_dragon_isles;
 					province wh2_main_the_wolf_lands;
@@ -52,7 +51,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 5;
-					additive;
 					unit wh2_main_hef_mon_sun_dragon;
 					unit wh2_dlc10_hef_inf_the_silverpelts_ror_0;
 					unit wh2_main_hef_inf_phoenix_guard;
@@ -90,7 +88,7 @@ local missions = {
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 18;
+					total 17;
 					province wh2_main_eataine;
 					province wh2_main_yvresse;
 					province wh2_main_saphery;
@@ -105,7 +103,6 @@ local missions = {
 					province wh2_main_griffon_gate;
 					province wh2_main_unicorn_gate;
 					province wh2_main_phoenix_gate;
-					province wh_main_western_badlands;
 					province wh2_main_gnoblar_country;
 					province wh2_main_dragon_isles;
 					province wh2_main_the_wolf_lands;
@@ -139,7 +136,6 @@ local missions = {
 				{
 					type OWN_N_UNITS;
 					total 15;
-					additive;
 					unit wh2_main_hef_mon_sun_dragon;
 					unit wh2_dlc10_hef_inf_the_silverpelts_ror_0;
 					unit wh2_main_hef_inf_phoenix_guard;
