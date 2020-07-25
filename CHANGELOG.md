@@ -53,7 +53,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Razing or looting Sartosa is not required to achieve a victory
     - Razing or looting Copher, Fyrus and Al Haikk is no longer required to achive a Short Victory
     - Having at least 80% Untained in Southern Badlands and Western Badlands is now required to achieve a Short Victory
-    - Having at least 80% Untained in Easter Badlands, Southern Badlands and Western Badlands is now required to achieve a Short Victory
+    - Having at least 80% Untained in Easter Badlands, Southern Badlands and Western Badlands is now required to achieve a Long Victory
 - Redone of Vor Carstein's Long Victory conditions
     - Destroying World Walkers and Wintertooth is no longer required
     - Destroying Clan Moulder and Couronne is now required
