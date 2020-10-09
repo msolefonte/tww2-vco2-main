@@ -26,6 +26,8 @@ local missions = {
 					type DESTROY_FACTION;
 					faction wh2_dlc11_def_the_blessed_dread;
 
+					faction wh_main_brt_bordeleaux;
+
 					faction wh2_dlc11_cst_pirates_of_sartosa;
 					faction wh2_dlc11_cst_vampire_coast;
 					faction wh2_dlc11_cst_the_drowned;

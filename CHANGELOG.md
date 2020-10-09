@@ -74,3 +74,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Solved a bug where Itza long victory conditions remained vanilla
     - Fixed a bug where Beastmen final battle never happened
     - Solved a bug where some unit requirements numbers where weird and different from the docs
+    
+## [2.1.1] Minor Update - TBD
+
+
+- Controlling Northern Grey Mountains is no longer required by Karak Kadrin to achieve a Short Victory
+- Instances of Sack/Raze specific locations have been turned into Occupy/Loot/Raze/Sack for non horde factions in order to prevent weird situations where you had to attack your own settlements
+- TBD Fixed bugs / Minor changes
+    - TBD Lyonesse Ultimate Victory conditions remained vanilla
+    - TBD Clan Rictus victory conditions were a mix of vanilla and modded
+    - Destroying Borderleaux was missing from Noctilus Short Victory conditions
+    - TBD Fall of Man Beastmen quest battle popped randomly and multiple times

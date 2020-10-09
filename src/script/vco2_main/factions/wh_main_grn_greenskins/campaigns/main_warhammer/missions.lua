@@ -23,7 +23,7 @@ local missions = {
 				}
 				objective
 				{
-					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
 					total 35;
                     region wh_main_peak_pass_karak_kadrin;
                     region wh_main_the_silver_road_karaz_a_karak;
@@ -70,7 +70,7 @@ local missions = {
 				}
 				objective
 				{
-					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
 					total 50;
 					region wh_main_reikland_altdorf;
 					region wh_main_eastern_sylvania_castle_drakenhof;

@@ -22,7 +22,7 @@ local missions = {
 				}
 				objective
 				{
-					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
 					total 3;
 					region wh2_main_eataine_lothern;
 					region wh2_main_yvresse_tor_yvresse;
@@ -82,7 +82,7 @@ local missions = {
 				}
 				objective
 				{
-					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
 					total 10;
 					region wh_main_eastern_border_princes_akendorf;
 					region wh2_main_avelorn_gaean_vale;
