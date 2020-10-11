@@ -95,21 +95,26 @@ function add_listeners()
     out("#### Adding Victory Conditions Overhaul Listeners ####");
     if cm:is_multiplayer() == false then
         out("#### Adding Beastmen Victory Conditions Overhaul Listeners ####");
-        if not cm:get_saved_value("bst_final_battle_quest") then
-            core:add_listener(
-                "vco_beastmen_turn_50_start",
-                "FactionTurnStart",
-                function(context)
-                    local faction = context:faction();
-                    return faction:is_human() and faction:name() == "wh_dlc03_bst_beastmen" and cm:turn_number() >= 50;
-                end,
-                function()
+        cm:set_saved_value("vco_bst_final_battle_quest", false);
+        core:add_listener(
+            "vco_beastmen_turn_50_start",
+            "FactionTurnStart",
+            function(context)
+                local faction = context:faction();
+                return faction:is_human() and faction:name() == "wh_dlc03_bst_beastmen" and cm:turn_number() == 50;
+            end,
+            function()
+                -- Duplicated because I do not exactly know how this work:
+                -- - Key bst_final_battle_quest is vanilla and should be false by default
+                -- - Key vco_bst_final_battle_quest is custom, but I do not know if value is correctly saved
+                if not (cm:get_saved_value("bst_final_battle_quest") and cm:get_saved_value("vco_bst_final_battle_quest")) then
                     cm:trigger_mission("wh_dlc03_bst_beastmen", "wh_dlc03_qb_bst_the_final_battle", true);
                     cm:set_saved_value("bst_final_battle_quest", true);
-                end,
-                false
-            );
-        end;
+                    cm:set_saved_value("vco_bst_final_battle_quest", true);
+                end
+            end,
+            false
+        );
 
         out("#### Adding Bretonnia Victory Conditions Overhaul Listeners ####");
         core:add_listener(

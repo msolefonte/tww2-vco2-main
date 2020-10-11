@@ -29,7 +29,7 @@ local missions = {
 				}
 				objective
 				{
-					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
+					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 1;
 					region wh2_main_iron_mountains_naggarond;
 				}
