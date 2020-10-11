@@ -41,7 +41,6 @@ local missions = {
                     province wh_main_zhufbar;
                     province wh_main_rib_peaks;
                     province wh_main_gianthome_mountains;
-                    province wh_main_northern_grey_mountains;
                 }
                 objective
                 {

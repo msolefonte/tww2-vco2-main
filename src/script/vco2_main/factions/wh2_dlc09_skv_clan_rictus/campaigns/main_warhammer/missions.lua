@@ -21,7 +21,7 @@ local missions = {
 					type DESTROY_FACTION;
 					faction wh2_main_lzd_hexoatl;
 
-					province wh2_main_nagarythe;
+					faction wh2_main_hef_nagarythe;
 					confederation_valid;
 				}
 				objective
@@ -66,7 +66,7 @@ local missions = {
 					faction wh2_main_lzd_hexoatl;
 
 					faction wh2_main_hef_eataine;
-					province wh2_main_nagarythe;
+					faction wh2_main_hef_nagarythe;
 					confederation_valid;
 				}
                 objective

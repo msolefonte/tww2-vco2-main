@@ -51,7 +51,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Controlling Black Arks objectives have been removed
 - Redone of The Bloody Handz
     - Razing or looting Sartosa is not required to achieve a victory
-    - Razing or looting Copher, Fyrus and Al Haikk is no longer required to achive a Short Victory
+    - Razing or looting Copher, Fyrus and Al Haikk is no longer required to achieve a Short Victory
     - Having at least 80% Untained in Southern Badlands and Western Badlands is now required to achieve a Short Victory
     - Having at least 80% Untained in Easter Badlands, Southern Badlands and Western Badlands is now required to achieve a Long Victory
 - Redone of Vor Carstein's Long Victory conditions
@@ -74,3 +74,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Solved a bug where Itza long victory conditions remained vanilla
     - Fixed a bug where Beastmen final battle never happened
     - Solved a bug where some unit requirements numbers where weird and different from the docs
+    
+## [2.1.1] Minor Update - 10.11.2020
+
+- Controlling Northern Grey Mountains is no longer required by Karak Kadrin to achieve a Short Victory
+- Fixed bugs / Minor changes
+    - Lyonesse Ultimate Victory conditions remained vanilla
+    - Clan Rictus victory conditions were a mix of vanilla and modded
+    - Destroying Borderleaux was missing from The Dreadfleet Short Victory conditions
+    - Fall of Man Beastmen quest battle popped randomly and multiple times
+- Sad reports
+    - It is not possible to turn instances of Sack/Raze specific locations into Occupy/Loot/Raze/Sack for non horde 
+    factions in order to prevent weird situations where you had to attack your own settlements. The key 
+    OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS_INCLUDING does not exist.
