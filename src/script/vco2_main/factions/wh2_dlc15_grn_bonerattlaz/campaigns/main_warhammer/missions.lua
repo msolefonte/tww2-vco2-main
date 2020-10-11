@@ -20,7 +20,7 @@ local missions = {
 				}
 				objective
 				{
-					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
 					total 35;
 				}
 				objective
@@ -66,7 +66,7 @@ local missions = {
 				}
 				objective
 				{
-					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
 					total 50;
 				}
 				objective

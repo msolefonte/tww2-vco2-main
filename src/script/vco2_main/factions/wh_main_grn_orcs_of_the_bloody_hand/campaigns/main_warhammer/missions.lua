@@ -24,7 +24,7 @@ local missions = {
 				}
 				objective
 				{
-					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 10;
 					region wh_main_eastern_border_princes_akendorf;
 					region wh_main_tilea_luccini;
@@ -56,7 +56,7 @@ local missions = {
 				}
 				objective
 				{
-					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
 					total 35;
 				}
 				objective
@@ -112,7 +112,7 @@ local missions = {
 				}
 				objective
 				{
-					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 10;
 					region wh_main_eastern_border_princes_akendorf;
 					region wh2_main_coast_of_araby_al_haikk;
@@ -154,7 +154,7 @@ local missions = {
 				}
 				objective
 				{
-					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
 					total 50;
 				}
 				objective
