@@ -37,8 +37,7 @@ local missions = {
                 {
                     type CONSTRUCT_N_BUILDINGS_INCLUDING;
                     faction wh_main_emp_empire;
-                    total 2;
-                    building_level wh_main_special_great_temple_of_ulric;
+                    total 1;
                     building_level wh2_main_special_altdorf_imperial_palace;
                 }
 

@@ -83,7 +83,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Clan Rictus victory conditions were a mix of vanilla and modded
     - Destroying Borderleaux was missing from The Dreadfleet Short Victory conditions
     - Fall of Man Beastmen quest battle popped randomly and multiple times
-- Sad reports
+- Sad reports 
     - It is not possible to turn instances of Sack/Raze specific locations into Occupy/Loot/Raze/Sack for non horde 
     factions in order to prevent weird situations where you had to attack your own settlements. The key 
-    OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS_INCLUDING does not exist.
+    OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS_INCLUDING does not exist
+    
+## [2.2.0] Minor Update - 5.12.2020
+
+- Add support for The Twisted & The Twilight DLC
+- Fix a bug with the Bonerattlaz faction
+- Removed building the Great Temple of Ulric from Reiskland Short Victory conditions
+- NOTE:
+    - Support for the new factions/Wood Elves rework has not been added. I do not own the DLC.
