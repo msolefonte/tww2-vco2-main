@@ -11,9 +11,8 @@
 	    * Karak Hirn: Karak Hirn, Mighdal Vongalbarak
 	    * Karak Izor: Karak Izor
 	    * Karak Kadrin: Karak Kadrin
-	    * Karak Norn: Karak Norn, Grimhold
-	    * Karak Ziflin: Karak Ziflin, Blackstone Post
 	    * Zhufbar: Karag Dromar, Oakenhammer, Zhufbar
+	* Build the Throne Hall of the High King
 * **Long Victory Conditions**:
 	* Clear the book of grudges
 	* Unite the Dwarfholds under your rule
@@ -31,6 +30,7 @@
 	    * Karak Ungor, Mount Gunbad, Karak Drazh, Ekrund, Karak Eight Peaks, Karak Azgal, Galbaraz
 	* Destroy factions
 	    * Greenskins, Clan Mors, Clan Skrye, Clan Mordkin, Clan Eshin, Clan Moulder
+	* Build the Throne Hall of the High King
 	* Defeat the Chaos Invasion
 	* Defeat Archaon
 
