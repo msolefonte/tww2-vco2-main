@@ -96,7 +96,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - NOTE:
     - Support for the new factions/Wood Elves rework has not been added. I do not own the DLC
     
-# [2.3.0] The Hammer and The Viper update - 16.12.2020
+## [2.3.0] The Hammer and The Viper update - 16.12.2020
 
 - Major redone has been introduced to the Court of Lybaras faction
     - Constructing a Pyramid has been removed from the Short Victory
