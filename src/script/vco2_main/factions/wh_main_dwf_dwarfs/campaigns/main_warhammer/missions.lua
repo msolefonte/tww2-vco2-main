@@ -36,16 +36,17 @@ local missions = {
 
                     region wh_main_peak_pass_karak_kadrin;
 
-                    region wh_main_southern_grey_mountains_karak_norn;
-                    region wh_main_southern_grey_mountains_grimhold;
-
-                    region wh_main_northern_grey_mountains_karak_ziflin;
-                    region wh_main_northern_grey_mountains_blackstone_post;
-
                     region wh_main_zhufbar_karag_dromar;
                     region wh_main_zhufbar_oakenhammer;
                     region wh_main_zhufbar_zhufbar;
                 }
+                objective
+				{
+					type CONSTRUCT_N_BUILDINGS_INCLUDING;
+					faction wh_main_dwf_dwarfs;
+					total 1;
+					building_level wh_main_special_high_king_throne_hall;
+				}
 
                 payload
                 {
@@ -130,6 +131,13 @@ local missions = {
 					faction wh2_main_skv_clan_moulder;
                     confederation_valid;
                 }
+                objective
+				{
+					type CONSTRUCT_N_BUILDINGS_INCLUDING;
+					faction wh_main_dwf_dwarfs;
+					total 1;
+					building_level wh_main_special_high_king_throne_hall;
+				}
                 objective
                 {
                     type LIMIT_FACTION_TO_REGIONS;

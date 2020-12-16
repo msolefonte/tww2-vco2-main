@@ -24,12 +24,19 @@
 	* Destroy factions:
 	    * Necrarch Brotherhood, Strygos Empire, The Silver Host
 	* Capture the Black Pyramid of Nagash
-	* Construct at least 1 pyramid
+	* Control provinces:
+	    * Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone
+	* Have at least 80% untained in the following provinces:
+	    * Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone, Southlands Jungle, Kingdom of Beasts
 	* Own 7 Necropolis Knights/Sepulchral Stalkers
 * **Long Victory Conditions**:
 	* Destroy factions:
-	    * Necrarch Brotherhood, Mousillon, Strygos Empire, The Barrow Legion, The Silver Host, Vampire Counts, Von 
-	    Carstein, Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned
+	    * Followers of Nagash, Necrarch Brotherhood, Mousillon, Strygos Empire, The Barrow Legion, The Silver Host, 
+	    Vampire Counts, Von Carstein, Pirates of Sartosa
+	* Control provinces:
+	    * Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone
+	* Have at least 80% untained in the following provinces:
+	    * Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone, Southlands Jungle, Kingdom of Beasts
 	* Capture the Black Pyramid of Nagash
 	* Construct the 7 pyramids
 	* Own 15 Necropolis Knights/Sepulchral Stalkers
@@ -44,7 +51,7 @@
 	* Perform 10 Crafting rituals
 	* Capture the Black Pyramid of Nagash
 * **Long Victory Conditions**:
-	* Destroy factions>
+	* Destroy factions:
 	    * Bleak Holds, Clar Karond, Cult of Pleasure, Ssildra Tor
 	* Obtain access to the following resources:
 	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Textiles, Lead, Spices, Timber, Wine

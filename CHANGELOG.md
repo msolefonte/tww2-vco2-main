@@ -94,4 +94,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix a bug with the Bonerattlaz faction
 - Removed building the Great Temple of Ulric from Reiskland Short Victory conditions
 - NOTE:
-    - Support for the new factions/Wood Elves rework has not been added. I do not own the DLC.
+    - Support for the new factions/Wood Elves rework has not been added. I do not own the DLC
+    
+# [2.3.0] The Hammer and The Viper update - 16.12.2020
+
+- Major redone has been introduced to the Court of Lybaras faction
+    - Constructing a Pyramid has been removed from the Short Victory
+    - Controlling Broken Teeth, Crater of the Walking Dead, Doom Glades and Devil's Backbone is now a requirement
+    - Maintaining 80% untained in Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone, 
+    Southlands Jungle, Kingdom of Beasts is now a requirement
+    - Destroying Followers of Nagash is now required to achieve a Long Victory
+    - Destroying The Awakened, The Dradfleet and The Drowned is no longer required
+    - The aim is to keep it more focused in corruption/skavens an less on pyramids/empires to not overlap with other 
+    Tomb Kings factions. Lustria has been removed completely
+- Redone introduced to the Karaz-a-Karak faction
+    - Controlling Northern Great Mountains and Southern Great Mountains is no longer required to achieve a short victory
+    - Building the Throne Hall of the High King is now required to achieve both types of victory
+    - The aim is to keep the Dwarfs more local and defensive. The removed regions are too far away for a short victory

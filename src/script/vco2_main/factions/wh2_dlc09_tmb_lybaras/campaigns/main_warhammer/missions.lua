@@ -23,16 +23,24 @@ local missions = {
 				}
 				objective
 				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_dlc09_tmb_lybaras;
-					total 1;
-					building_level wh2_dlc09_special_pyramid_alcadizaar;
-					building_level wh2_dlc09_special_pyramid_amenemhetum;
-					building_level wh2_dlc09_special_pyramid_khatep;
-					building_level wh2_dlc09_special_pyramid_phar;
-					building_level wh2_dlc09_special_pyramid_settra;
-					building_level wh2_dlc09_special_pyramid_tutankhanut;
-					building_level wh2_main_special_pyramid_of_nagash_other;
+					type CONTROL_N_PROVINCES_INCLUDING;
+					total 4;
+					province wh2_main_the_broken_teeth;
+					province wh2_main_crater_of_the_walking_dead;
+					province wh2_main_doom_glades;
+					province wh2_main_devils_backbone;
+				}
+				objective
+				{
+					type AT_LEAST_X_RELIGION_IN_PROVINCES;
+					province wh2_main_the_broken_teeth;
+					province wh2_main_crater_of_the_walking_dead;
+					province wh2_main_doom_glades;
+					province wh2_main_devils_backbone;
+					province wh2_main_southlands_jungle;
+					province wh2_main_kingdom_of_beasts;
+					total 80;
+					religion wh_main_religion_untainted;
 				}
 				objective
 				{
@@ -63,6 +71,8 @@ local missions = {
 				objective
 				{
 					type DESTROY_FACTION;
+					faction wh2_dlc09_tmb_followers_of_nagash;
+
 					faction wh2_main_vmp_necrarch_brotherhood;
 					faction wh_main_vmp_mousillon;
 					faction wh2_main_vmp_strygos_empire;
@@ -72,9 +82,6 @@ local missions = {
 					faction wh_main_vmp_schwartzhafen;
 
 					faction wh2_dlc11_cst_pirates_of_sartosa;
-					faction wh2_dlc11_cst_vampire_coast;
-					faction wh2_dlc11_cst_noctilus;
-					faction wh2_dlc11_cst_the_drowned;
 					confederation_valid;
 				}
 				objective
@@ -82,6 +89,27 @@ local missions = {
 					type OWN_N_REGIONS_INCLUDING;
 					total 1;
 					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
+				}
+				objective
+				{
+					type CONTROL_N_PROVINCES_INCLUDING;
+					total 4;
+					province wh2_main_the_broken_teeth;
+					province wh2_main_crater_of_the_walking_dead;
+					province wh2_main_doom_glades;
+					province wh2_main_devils_backbone;
+				}
+				objective
+				{
+					type AT_LEAST_X_RELIGION_IN_PROVINCES;
+					province wh2_main_the_broken_teeth;
+					province wh2_main_crater_of_the_walking_dead;
+					province wh2_main_doom_glades;
+					province wh2_main_devils_backbone;
+					province wh2_main_southlands_jungle;
+					province wh2_main_kingdom_of_beasts;
+					total 80;
+					religion wh_main_religion_untainted;
 				}
 				objective
 				{
