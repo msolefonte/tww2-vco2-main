@@ -89,18 +89,18 @@ local missions = {
 					total 3;
 					building_level wh2_main_hef_mages_3;
 				}
-				objective
+                objective
                 {
 					override_text mission_text_text_mis_activity_archaon_spawned;
                     type SCRIPTED;
                     script_key archaon_spawned;
                 }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
+				//objective
+				//{
+				//	type HAVE_CHARACTER_WOUNDED;
+				//	override_text mission_text_text_wh_main_objective_override_archaon_wounded;
+				//	start_pos_character 2140782858;
+				//}
 
 				payload
 				{

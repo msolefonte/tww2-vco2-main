@@ -15,7 +15,6 @@
         Tribe, Naglfarlings Tribe, Skaeling, Vanaheimlings, Varg, Wintertooth, World Walkers
     * Build the Imperial Palace in Altdorf
     * Defeat the Chaos Invasion
-    * Defeat Archaon
 
 ## The Golden Order
 
@@ -34,7 +33,6 @@
         Pirates of Sartosa, Sylvannia, Von Carstein
     * Build the Nuln Gunnery School
     * Defeat the Chaos Invasion
-    * Defeat Archaon
 
 ## The Huntsmarshal's Expedition
 
@@ -48,5 +46,4 @@
     * Destroy factions
         * Hexoatl, Itza, Clan Pestilens, Vampire Coast, The Dreadfleet, The Blessed Dread, Spirit of The Jungle
     * Have at least 100 Acclaim
-    * Defeat Archaon
 

@@ -5,30 +5,28 @@
 * **Short Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Ulthuan
 	* Raze or sack Naggarond
-	* Construct the Sacred Flame of Asuryan and the Gates of Lothern
+	* Build the Sacred Flame of Asuryan and the Gates of Lothern
 * **Long Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Ulthuan
 	* Destroy factions:
 	    * Cult of Pleasure, Her Haneth, Naggarond, The Blessed Dread
-	* Construct the Sacred Flame of Asuryan and the Gates of Lothern
-	* Defeat Archaon
+	* Build the Sacred Flame of Asuryan and the Gates of Lothern
 
 ### Order of Loremasters
 
 * **Short Victory Conditions**:
 	* Hold 12 settlements
 	* Control the Saphery province
-	* Construct a Tower of Mages
+	* Build a Tower of Mages
 	* Destroy factions:
 	    * The Blessed Dread, Vampire Coast, Clan Pestilens
 * **Long Victory Conditions**:
 	* Hold 20 settlements
 	* Control the Saphery province
-	* Construct the White Tower of Hoeth
-	* Construct 3 Tower of Mages
+	* Build the White Tower of Hoeth
+	* Build 3 Tower of Mages
 	* Destroy factions:
 	    * Followers of Nagash, Noctilus, Vampire Coast, The Blessed Dread, Clan Pestilens
-	* Defeat Archaon
 
 ### Nagarythe 
 
@@ -43,7 +41,7 @@
 	    * Nagarythe, Iron Mountains, Titan Peaks, The Road of Skulls, Doom Glades
 	* Destroy factions
 	    * Bleak Holds, Cult of Pleasure, Clar Karond, Naggarond, Har Ganeth
-	* Construct the Black Citadel of Anlec
+	* Build the Black Citadel of Anlec
 	* Own 3 Moon Dragons
 
 ### Avelorn
@@ -52,25 +50,28 @@
 	* Conquer, ally with or assimilate all provinces of Ulthuan
 	* Destroy factions:
 	    * Har Ganeth, Scourge of Khaine
-	* Construct the Avelorn Landmark
+	* Build the Avelorn Landmark
 * **Long Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Ulthuan
 	* Destroy factions:
 	    * Har Ganeth, Scourge of Khaine, Norsca, Winterthoot
-	* Construct the Avelorn Landmark
-	* Defeat Archaon
+	* Build the Avelorn Landmark
 
 ### Knights of Caledor
+
+Purified Graves, Black Crag
 
 * **Short Victory Conditions**:
 	* Complete 3 Missions
 	* Control provinces:
-	    * Gnoblar Country, Dragon Isles, The Wolf Lands, Caledor
+	    * Caledor, Dragon Isles, Gnoblar Country, Plain of Bones, The Wolf Lands 
 	* Destroy factions
-	    * Clan Eshin, Greenskins, Hag Graef
-	* Construct 3 of the following buildings:
+	    * Clan Eshin, Hag Graef
+	* Raze or sack Black Crag
+	* Build 3 of the following buildings:
 	    * Tower of Mages, Sanctuary of Asuryan, Dragon Keep, Ithilmar Smith, Handmaidens, Warded Walls, Amphitheatre,
 	    Seaport 
+	* Build the Purified Graves of the Dragons
     * Own at least 5 of the following units:
         * Sun Dragon, Silverpelts (RoR), Phoenix Guard, Dragon Princes, Star Dragon, Fireborn (RoR), Keepers of the 
         flame (RoR), Sisters of Avelorn, Court Guards (RoR), White Lions of Chrace
@@ -78,12 +79,13 @@
 	* Complete 5 Missions
 	* Conquer, ally with or assimilate all provinces of Ulthuan
 	* Control provinces:
-	    * Gnoblar Country, Dragon Isles, The Wolf Lands, Caledor
+	    * Caledor, Dragon Isles, Gnoblar Country, Plain of Bones, The Wolf Lands 
 	* Destroy factions
 	    * Clan Eshin, Greenskins, Hag Graef, Clan Mors
-	* Construct 8 of the following buildings:
+	* Build 8 of the following buildings:
 	    * Tower of Mages, Sanctuary of Asuryan, Dragon Keep, Ithilmar Smith, Handmaidens, Warded Walls, Amphitheatre,
 	    Seaport 
+	* Build the Purified Graves of the Dragons and the Hall of Dragons
     * Own at least 15 of the following units:
         * Sun Dragon, Silverpelts (RoR), Phoenix Guard, Dragon Princes, Star Dragon, Fireborn (RoR), Keepers of the 
         flame (RoR), Sisters of Avelorn, Court Guards (RoR), White Lions of Chrace
@@ -97,7 +99,7 @@
 	* Destroy faction
 	    * Broken Axe
 	* Have at least 100 Yvresse's defence level
-	* Construct the Warden's Tower
+	* Build the Warden's Tower
 	* Own 3 of the following units
 	    * Faithbearers, Griffon Knights, Sentinels, Skyhawks, Spireguard
 * **Long Victory Conditions**:
@@ -108,6 +110,6 @@
 	* Destroy factions
 	    * Broken Axe, Naggarond, Greenskins,The Bloody Handz
 	* Have at least 100 Yvresse's defence level
-	* Construct the Warden's Tower
+	* Build the Warden's Tower
 	* Own 5 of the following units
 	    * Faithbearers, Griffon Knights, Sentinels, Skyhawks, Spireguard

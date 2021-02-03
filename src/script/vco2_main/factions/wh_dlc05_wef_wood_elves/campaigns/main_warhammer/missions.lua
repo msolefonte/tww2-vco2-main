@@ -28,17 +28,6 @@ local missions = {
 					total 80;
 					religion wh_main_religion_untainted;
 				}
-				objective
-				{
-                    type DESTROY_FACTION;
-                    faction wh2_main_skv_clan_skyre;
-                    faction wh2_main_skv_clan_spittel;
-
-					faction wh_main_grn_crooked_moon;
-
-					faction wh2_dlc11_cst_pirates_of_sartosa;
-					confederation_valid;
-				}
                 objective
 				{
 					type CONSTRUCT_N_BUILDINGS_INCLUDING;
@@ -50,6 +39,12 @@ local missions = {
 				{
 					type FIGHT_SET_PIECE_BATTLE;
 					set_piece_battle wh_dlc05_qb_wef_grand_defense_of_the_oak;
+				}
+				objective
+				{
+					type PERFORM_RITUAL;
+					ritual_category WORLDROOTS_HEALING;
+					total 3;
 				}
 				objective
 				{
@@ -76,7 +71,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_ultimate;
+			victory_type vco_victory_type_long;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -104,22 +99,6 @@ local missions = {
 					total 80;
 					religion wh_main_religion_untainted;
 				}
-				objective
-				{
-                    type DESTROY_FACTION;
-                    faction wh2_main_skv_clan_skyre;
-                    faction wh2_main_skv_clan_spittel;
-
-					faction wh_main_grn_crooked_moon;
-                    faction wh_main_grn_greenskins;
-					faction wh_main_grn_orcs_of_the_bloody_hand;
-
-					faction wh2_dlc11_vmp_the_barrow_legion;
-					faction wh_main_vmp_mousillon;
-
-					faction wh2_dlc11_cst_pirates_of_sartosa;
-					confederation_valid;
-				}
                 objective
 				{
 					type CONSTRUCT_N_BUILDINGS_INCLUDING;
@@ -131,6 +110,18 @@ local missions = {
 				{
 					type FIGHT_SET_PIECE_BATTLE;
 					set_piece_battle wh_dlc05_qb_wef_grand_defense_of_the_oak;
+				}
+				objective
+                {
+					override_text mission_text_text_mis_activity_athel_healed;
+                    type SCRIPTED;
+                    script_key athel_healed;
+                }
+				objective
+				{
+					type PERFORM_RITUAL;
+					ritual_category WORLDROOTS_HEALING;
+					total 8;
 				}
 				objective
 				{
@@ -152,12 +143,12 @@ local missions = {
                     type SCRIPTED;
                     script_key archaon_spawned;
                 }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
+				//objective
+				//{
+				//	type HAVE_CHARACTER_WOUNDED;
+				//	override_text mission_text_text_wh_main_objective_override_archaon_wounded;
+				//	start_pos_character 2140782858;
+				//}
 
 				payload
 				{

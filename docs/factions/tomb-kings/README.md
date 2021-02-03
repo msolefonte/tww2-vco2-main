@@ -25,18 +25,18 @@
 	    * Necrarch Brotherhood, Strygos Empire, The Silver Host
 	* Capture the Black Pyramid of Nagash
 	* Control provinces:
-	    * Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone
-	* Have at least 80% untained in the following provinces:
-	    * Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone, Southlands Jungle, Kingdom of Beasts
+	    * Broken Teeth, Crater of the Walking Dead, Devil's Backbone
+	* Have at least 80% untainted in the following provinces:
+	    * Broken Teeth, Crater of the Walking Dead, Devil's Backbone, Southlands Jungle, Kingdom of Beasts
 	* Own 7 Necropolis Knights/Sepulchral Stalkers
 * **Long Victory Conditions**:
 	* Destroy factions:
 	    * Followers of Nagash, Necrarch Brotherhood, Mousillon, Strygos Empire, The Barrow Legion, The Silver Host, 
 	    Vampire Counts, Von Carstein, Pirates of Sartosa
 	* Control provinces:
-	    * Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone
-	* Have at least 80% untained in the following provinces:
-	    * Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone, Southlands Jungle, Kingdom of Beasts
+	    * Broken Teeth, Crater of the Walking Dead, Devil's Backbone
+	* Have at least 80% untainted in the following provinces:
+	    * Broken Teeth, Crater of the Walking Dead, Devil's Backbone, Southlands Jungle, Kingdom of Beasts
 	* Capture the Black Pyramid of Nagash
 	* Construct the 7 pyramids
 	* Own 15 Necropolis Knights/Sepulchral Stalkers

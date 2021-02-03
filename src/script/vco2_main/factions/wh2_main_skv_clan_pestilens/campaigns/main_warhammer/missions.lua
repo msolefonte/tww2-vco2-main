@@ -29,21 +29,6 @@ local missions = {
 					faction wh2_main_lzd_itza;
 					confederation_valid;
 				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_skv_clan_pestilens;
-					total 1;
-					building_level wh2_dlc14_under_empire_annexation_plague_cauldron_1;
-					building_level wh2_dlc14_under_empire_annexation_plague_cauldron_2;
-			    }
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_skv_clan_pestilens;
-					total 3;
-					building_level wh2_main_skv_plagues_3;
-			    }
 
 				payload
 				{
@@ -92,21 +77,6 @@ local missions = {
 					faction wh2_main_lzd_hexoatl;
 					confederation_valid;
 				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_skv_clan_pestilens;
-					total 5;
-					building_level wh2_dlc14_under_empire_annexation_plague_cauldron_1;
-					building_level wh2_dlc14_under_empire_annexation_plague_cauldron_2;
-			    }
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_main_skv_clan_pestilens;
-					total 8;
-					building_level wh2_main_skv_plagues_3;
-			    }
 
 				payload
 				{

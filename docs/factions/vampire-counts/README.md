@@ -24,7 +24,6 @@
 	    * Clan Moulder, Couronne, The Empire, Sylvania
 	* Build the Altdorf Landmark and the Von Carstein Court Hall
     * Defeat the Chaos Invasion
-    * Defeat Archaon
 
 ### The Barrow Legion
 

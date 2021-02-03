@@ -9,9 +9,9 @@ local missions = {
 			{
 				objective
 				{
-					override_text mission_text_text_mis_activity_attain_chivalry_1000;
+					override_text mission_text_text_mis_activity_attain_chivalry_chivalrous;
                     type SCRIPTED;
-                    script_key attain_chivalry_2000;
+                    script_key attain_chivalry_1600;
 				}
                 objective
 				{

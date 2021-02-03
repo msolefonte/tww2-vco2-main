@@ -17,7 +17,6 @@
 	    * Altdorf, Castle Drakendorf, Hell Pit, Karak Kadrin, Karaz-a-Karak
 	* Control the Red Eye Mountain region
 	* Build the Black Orc Headquarters
-	* Defeat Archaon
 
 ### Bonerattlaz
 
@@ -31,14 +30,13 @@
 	* Occupy/loot/raze/sack at least 50 settlements
 	* Control the Broken Teeth province
 	* Earn 20000 from raiding
-	* Defeat Archaon
 
 ### The Bloody Handz
 
 * **Short Victory Conditions**:
     * Control provinces:
         * Southern Badlands, Western Badlands
-    * Have at least 80% Untained in the following provinces:
+    * Have at least 80% Untainted in the following provinces:
         * Southern Badlands, Western Badlands
 	* Loot or at sack settlements:
 	    * Akendorf, Luccini, Matorca, Miragliano, Myrmidens, Sartosa, Zandri, Zvorak  
@@ -52,7 +50,7 @@
 * **Long Victory Conditions**:
     * Control provinces:
         * Eastern Badlands, Southern Badlands, Western Badlands
-    * Have at least 80% Untained in the following provinces:
+    * Have at least 80% Untainted in the following provinces:
         * Eastern Badlands, Southern Badlands, Western Badlands
 	* Loot or at sack settlements:
 	    * Akendorf, Al-Haikk, Copher, Fyrus, Lucini, Matorca, Miragliano, Myrmidens, Sartosa, Zandri, Zvorak  

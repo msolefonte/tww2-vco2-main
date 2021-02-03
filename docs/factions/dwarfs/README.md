@@ -32,7 +32,6 @@
 	    * Greenskins, Clan Mors, Clan Skrye, Clan Mordkin, Clan Eshin, Clan Moulder
 	* Build the Throne Hall of the High King
 	* Defeat the Chaos Invasion
-	* Defeat Archaon
 
 ### Karak Kadrin
 
@@ -55,7 +54,6 @@
 	* Own at least 7 slayers
 	* Own at least 100 units
 	* Defeat the Chaos Invasion
-	* Defeat Archaon
 
 ### Clan Angrund
 
@@ -84,4 +82,3 @@
 	* Recapture all of the fallen Dwarf holds
 	    * Karak Ungor, Mount Gunbad, Karak Drazh, Ekrund, Karak Azgal, Galbaraz
 	* Defeat the Chaos Invasion
-	* Defeat Archaon

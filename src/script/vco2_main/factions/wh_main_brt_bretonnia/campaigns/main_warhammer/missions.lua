@@ -102,12 +102,12 @@ local missions = {
                     type SCRIPTED;
                     script_key archaon_spawned;
                 }
-				objective
-				{
-					type HAVE_CHARACTER_WOUNDED;
-					override_text mission_text_text_wh_main_objective_override_archaon_wounded;
-					start_pos_character 2140782858;
-				}
+				//objective
+				//{
+				//	type HAVE_CHARACTER_WOUNDED;
+				//	override_text mission_text_text_wh_main_objective_override_archaon_wounded;
+				//	start_pos_character 2140782858;
+				//}
 
 				payload
 				{

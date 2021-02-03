@@ -27,7 +27,6 @@ local missions = {
 					total 4;
 					province wh2_main_the_broken_teeth;
 					province wh2_main_crater_of_the_walking_dead;
-					province wh2_main_doom_glades;
 					province wh2_main_devils_backbone;
 				}
 				objective
@@ -35,7 +34,6 @@ local missions = {
 					type AT_LEAST_X_RELIGION_IN_PROVINCES;
 					province wh2_main_the_broken_teeth;
 					province wh2_main_crater_of_the_walking_dead;
-					province wh2_main_doom_glades;
 					province wh2_main_devils_backbone;
 					province wh2_main_southlands_jungle;
 					province wh2_main_kingdom_of_beasts;
@@ -96,7 +94,6 @@ local missions = {
 					total 4;
 					province wh2_main_the_broken_teeth;
 					province wh2_main_crater_of_the_walking_dead;
-					province wh2_main_doom_glades;
 					province wh2_main_devils_backbone;
 				}
 				objective
@@ -104,7 +101,6 @@ local missions = {
 					type AT_LEAST_X_RELIGION_IN_PROVINCES;
 					province wh2_main_the_broken_teeth;
 					province wh2_main_crater_of_the_walking_dead;
-					province wh2_main_doom_glades;
 					province wh2_main_devils_backbone;
 					province wh2_main_southlands_jungle;
 					province wh2_main_kingdom_of_beasts;

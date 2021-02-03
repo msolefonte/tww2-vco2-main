@@ -52,8 +52,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Redone of The Bloody Handz
     - Razing or looting Sartosa is not required to achieve a victory
     - Razing or looting Copher, Fyrus and Al Haikk is no longer required to achieve a Short Victory
-    - Having at least 80% Untained in Southern Badlands and Western Badlands is now required to achieve a Short Victory
-    - Having at least 80% Untained in Easter Badlands, Southern Badlands and Western Badlands is now required to achieve a Long Victory
+    - Having at least 80% Untainted in Southern Badlands and Western Badlands is now required to achieve a Short Victory
+    - Having at least 80% Untainted in Easter Badlands, Southern Badlands and Western Badlands is now required to achieve a Long Victory
 - Redone of Vor Carstein's Long Victory conditions
     - Destroying World Walkers and Wintertooth is no longer required
     - Destroying Clan Moulder and Couronne is now required
@@ -101,7 +101,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Major redone has been introduced to the Court of Lybaras faction
     - Constructing a Pyramid has been removed from the Short Victory
     - Controlling Broken Teeth, Crater of the Walking Dead, Doom Glades and Devil's Backbone is now a requirement
-    - Maintaining 80% untained in Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone, 
+    - Maintaining 80% untainted in Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone, 
     Southlands Jungle, Kingdom of Beasts is now a requirement
     - Destroying Followers of Nagash is now required to achieve a Long Victory
     - Destroying The Awakened, The Dradfleet and The Drowned is no longer required
@@ -111,3 +111,38 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Controlling Northern Great Mountains and Southern Great Mountains is no longer required to achieve a short victory
     - Building the Throne Hall of the High King is now required to achieve both types of victory
     - The aim is to keep the Dwarfs more local and defensive. The removed regions are too far away for a short victory
+    
+## [2.4.0] The Woods and The Dragons update - 03.02.2021
+
+- Redone added to Knights of Caledor
+    - Controlling Plains of Bones is now required to achieve a victory
+    - Building the Purified Graves of the Dragons to achieve a victory
+    - Destroying Green Skins is no longer required to achieve a Short Victory
+    - TBD Raze or sack Black Crag is now required to achieve a Short Victory
+    - Building the Hall of Dragons is now required to achieve a Long Victory
+- Minor redone introduced to Talsyn
+    - Destroying factions is no longer required to obtain a victory
+    - Performing 3 Rituals of Rebirth is now required to achieve a Short Victory
+    - Performing 8 Rituals of Rebirth is now required to achieve a Long Victory
+- Redone added to Argwylon
+    - Destroying or confederating Wargrove of Woe is now required to achieve a victory
+    - Performing 3 Rituals of Rebirth is now required to achieve a Short Victory
+    - Performing 5 Rituals of Rebirth is now required to achieve a Long Victory
+    - Controlling Gryphon Wood and Forest of Gloom is now required to achieve a Long Victory
+    - Fixed a bug where non-tree units where required to achieve a Long Victory
+- Introduced objectives for the Wargrove of Woe
+    - Controlling Athel Loren is required to achieve a victory
+    - Destroying Talsyn, Argwylon, Wydrioth and Torgovann is required to achieve a victory
+    - Completing the final battle is required to achieve a victory
+    - Performing 3 Rituals of Rebirth is required to achieve a Short Victory
+    - Performing 5 Rituals of Rebirth is required to achieve a Long Victory
+    - Destroying Laurelorn Forest, Heralds of Ariel, Bowmen of Oreon and Avelorn is required to achieve a Long Victory
+- All Bretonnian factions have had modified the to require 800 Chivalry to obtain a Short Victory and 1600 to achieve a Long/Ultimate victory
+    - Repanse de Lyonesse is the only faction with no Short Victory
+- Fixed a bug where Court of Lybaras had to control/maintain untainted the Doom Glades 
+    - The province was placed in some requirements in the place of Doom Glade, a region in the Crater of the Walking Dead
+- Fixed some grammatical mistakes in the docs
+- Building Plague Abbeys and Plague Cauldrons requirements have been removed from Clan Pestilens because, due to a motor bug, they were never triggered
+- Wounding Archaon has been removed from all factions, as it can never be achieved if Chaos Invasion is no
+- Known bugs:
+    - In some cases, the new conditions do not appear till triggered with the "Victory Objectives" button

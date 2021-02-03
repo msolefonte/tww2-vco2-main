@@ -17,21 +17,26 @@ local missions = {
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 4;
-					province wh2_main_gnoblar_country;
-					province wh2_main_dragon_isles;
-					province wh2_main_the_wolf_lands;
+					total 5;
 					province wh2_main_caledor;
+					province wh2_main_dragon_isles;
+					province wh2_main_gnoblar_country;
+					province wh2_main_the_plain_of_bones;
+					province wh2_main_the_wolf_lands;
 				}
 				objective
 				{
 					type DESTROY_FACTION;
 					faction wh2_main_skv_clan_eshin;
 
-					faction wh_main_grn_greenskins;
-
 					faction wh2_main_def_hag_graef;
 					confederation_valid;
+				}
+				objective
+				{
+					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
+					total 1;
+					region wh_main_death_pass_karak_drazh;
 				}
 				objective
 				{
@@ -47,6 +52,13 @@ local missions = {
 					building_level wh2_main_hef_port_3;
 					faction wh2_main_hef_caledor;
 				}
+				objective
+                {
+                    type CONSTRUCT_N_BUILDINGS_INCLUDING;
+                    faction wh2_dlc15_hef_imrik;
+                    total 1;
+                    building_level wh2_dlc15_special_graves_of_the_dragons_2_hef;
+                }
 				objective
 				{
 					type OWN_N_UNITS;
@@ -88,7 +100,7 @@ local missions = {
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 17;
+					total 18;
 					province wh2_main_eataine;
 					province wh2_main_yvresse;
 					province wh2_main_saphery;
@@ -106,6 +118,7 @@ local missions = {
 					province wh2_main_gnoblar_country;
 					province wh2_main_dragon_isles;
 					province wh2_main_the_wolf_lands;
+					province wh2_main_the_plain_of_bones;
 				}
 				objective
 				{
@@ -132,6 +145,14 @@ local missions = {
 					building_level wh2_main_hef_port_3;
 					faction wh2_main_hef_caledor;
 				}
+				objective
+                {
+                    type CONSTRUCT_N_BUILDINGS_INCLUDING;
+                    faction wh2_dlc15_hef_imrik;
+                    total 2;
+                    building_level wh2_dlc15_special_graves_of_the_dragons_2_hef;
+                    building_level wh2_main_special_hall_of_dragons;
+                }
 				objective
 				{
 					type OWN_N_UNITS;

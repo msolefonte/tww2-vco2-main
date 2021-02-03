@@ -5,7 +5,7 @@
 * **Short Victory Conditions**:
 	* Conquer provinces:
 	    * Isthmus of Lustria, Northern Jungles of Pahualaxa
-    * Have at least 80% Untained in the following provinces
+    * Have at least 80% Untainted in the following provinces
 	    * Isthmus of Lustria, Northern Jungles of Pahualaxa
 	* Destroy factions
 	    * Cult of Pleasure, The Drowned
@@ -15,7 +15,7 @@
 	* Own 7 Temple Guards
 * **Long Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Lustria
-	* Have at least 80% Untained in all the provinces of Lustria
+	* Have at least 80% Untainted in all the provinces of Lustria
 	* Destroy factions
 	    * Cult of Pleasure, The Blessed Dread, Clan Pestilens, The Awakened, The Dreadfleet, The Drowned 
 	* Construct 5 Star Chambers
@@ -24,7 +24,6 @@
 	* Build 7 Temple-Nexus
 	* Own 15 Temple Guards
 	* Defeat the Chaos Invasion
-	* Defeat Archaon
 
 ### Last Defenders
 
@@ -42,7 +41,6 @@
 	* Destroy factions:
 	    * Clan Eshin, Clan Mors, Hag Graef, Lybaras
     * Defeat the Chaos Invasion
-	* Defeat Archaon
 
 ### Tlaqua
 
@@ -63,12 +61,11 @@
 	* Build 5 Ripperdactyl Hatcheries
 	* Own 15 Terradons/Ripperdactyls
 	* Defeat the Chaos Invasion
-	* Defeat Archaon
 
 ### Cult of Sotek
 
 * **Short Victory Conditions**:
-	* Have at least 80% Untained in all the provinces of Lustria
+	* Have at least 80% Untainted in all the provinces of Lustria
 	* Construct 3 Crimson Pyramids of Sotek
 	* Destroy factions
 	    * Clan Fester, Clan Gnaw, Clan Mange, Clan Pestiles, The Awakened, The Dreadfleet, The Huntsmarshal's 
@@ -76,7 +73,7 @@
 	* Capture 10000 battle captives
 	* Own 40 Skink units (All variants)
 * **Long Victory Conditions**:
-	* Have at least 80% Untained in all the provinces of Lustria
+	* Have at least 80% Untainted in all the provinces of Lustria
 	* Construct 5 Crimson Pyramids of Sotek
 	* Construct the Cult of Sotek Snake Pit
 	* Destroy factions
@@ -85,7 +82,6 @@
 	* Capture 20000 battle captives
 	* Own 60 Skink units (All variants)
 	* Defeat the Chaos Invasion
-	* Defeat Archaon
 
 ### Itza
 
@@ -102,7 +98,6 @@
 	* Construct the Vaults of the Old Ones and The Emerald Pools
 	* Own 30 Saurus units (All variants)
 	* Defeat the Chaos Invasion
-	* Defeat Archaon
 
 ### Spirit of the Jungle
 
@@ -122,4 +117,3 @@
 	* Construct one Exalted Star Chamber
 	* Own 15 Kroxigors
 	* Defeat the Chaos Invasion
-	* Defeat Archaon

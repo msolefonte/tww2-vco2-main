@@ -24,8 +24,6 @@
 	    * Isthmus of Lustria, Northern Great Jungle, Southern Great Jungle
 	* Destroy factions
 	    * Order of Loremasters, The Blessed Dread, Vampire Coast, Cult of Sotek, Itza
-	* Construct 1 Plague Cauldron
-	* Construct 3 Plague Abbeys
 * **Long Victory Conditions**:
 	* Have at least 52% skaven corruption in the following provinces
 	    * Isthmus of Lustria, Northern Great Jungle, Southern Great Jungle, Northern Jungle of Pahualaxa, Southern 
@@ -33,8 +31,6 @@
 	    Islands, Headhunters Jungle
 	* Destroy factions
 	    * Order of Loremasters, The Blessed Dread, Vampire Coast, The Drowned, Cult of Sotek, Itza, Hexoatl
-	* Construct 5 Plague Cauldron
-	* Construct 8 Plague Abbeys
 
 ### Clan Rictus
 
