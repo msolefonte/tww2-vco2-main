@@ -24,7 +24,7 @@ local missions = {
 					type CONSTRUCT_N_BUILDINGS_INCLUDING;
 					faction wh2_dlc09_tmb_followers_of_nagash;
 					total 1;
-					building_level wh2_dlc09_special_black_tower_of_arkhan_other;
+					building_level wh2_dlc09_special_black_tower_of_arkhan;
 				}
 				objective
 				{
@@ -84,8 +84,8 @@ local missions = {
 					type CONSTRUCT_N_BUILDINGS_INCLUDING;
 					faction wh2_dlc09_tmb_followers_of_nagash;
 					total 2;
-					building_level wh2_dlc09_special_black_tower_of_arkhan_other;
-					building_level wh2_dlc14_special_nagashizzar_other;
+					building_level wh2_dlc09_special_black_tower_of_arkhan;
+					building_level wh2_dlc14_special_nagashizzar_arkhan;
 				}
 				objective
 				{
