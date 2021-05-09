@@ -39,40 +39,27 @@ local missions = {
 					region wh_main_death_pass_karak_drazh;
 				}
 				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					total 3;
-					building_level wh2_main_hef_mages_3;
-					building_level wh2_main_hef_worship_3;
-					building_level wh2_main_hef_dragons_2;
-					building_level wh2_main_hef_smith_2;
-					building_level wh2_dlc10_hef_handmaidens;
-					building_level wh2_main_hef_defence_major_3;
-					building_level wh2_main_hef_order_5;
-					building_level wh2_main_hef_port_3;
-					faction wh2_main_hef_caledor;
-				}
-				objective
                 {
                     type CONSTRUCT_N_BUILDINGS_INCLUDING;
                     faction wh2_dlc15_hef_imrik;
-                    total 1;
+                    total 2;
                     building_level wh2_dlc15_special_graves_of_the_dragons_2_hef;
+                    building_level wh2_main_hef_dragons_2;
                 }
 				objective
 				{
 					type OWN_N_UNITS;
 					total 5;
-					unit wh2_main_hef_mon_sun_dragon;
-					unit wh2_dlc10_hef_inf_the_silverpelts_ror_0;
-					unit wh2_main_hef_inf_phoenix_guard;
-					unit wh2_main_hef_cav_dragon_princes;
-					unit wh2_main_hef_mon_star_dragon;
+                	unit wh2_main_hef_cav_dragon_princes;
 					unit wh2_dlc10_hef_cav_the_fireborn_ror_0;
-					unit wh2_dlc10_hef_inf_keepers_of_the_flame_ror_0;
-					unit wh2_dlc10_hef_inf_sisters_of_avelorn_0;
-					unit wh2_dlc10_hef_inf_everqueens_court_guards_ror_0;
-					unit wh2_main_hef_inf_white_lions_of_chrace_0;
+					unit wh2_main_hef_mon_sun_dragon;
+                    unit wh2_main_hef_mon_moon_dragon;
+					unit wh2_main_hef_mon_star_dragon;
+                    unit wh2_dlc15_hef_mon_sun_dragon_imrik;
+                    unit wh2_dlc15_hef_mon_moon_dragon_imrik;
+                    unit wh2_dlc15_hef_mon_star_dragon_imrik;
+                    unit wh2_dlc15_hef_mon_forest_dragon_imrik;
+                    unit wh2_dlc15_hef_mon_black_dragon_imrik;
 				}
 
 				payload
@@ -131,42 +118,29 @@ local missions = {
 					faction wh2_main_def_hag_graef;
 					confederation_valid;
 				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					total 8;
-					building_level wh2_main_hef_mages_3;
-					building_level wh2_main_hef_worship_3;
-					building_level wh2_main_hef_dragons_2;
-					building_level wh2_main_hef_smith_2;
-					building_level wh2_dlc10_hef_handmaidens;
-					building_level wh2_main_hef_defence_major_3;
-					building_level wh2_main_hef_order_5;
-					building_level wh2_main_hef_port_3;
-					faction wh2_main_hef_caledor;
-				}
-				objective
+                objective
                 {
                     type CONSTRUCT_N_BUILDINGS_INCLUDING;
                     faction wh2_dlc15_hef_imrik;
-                    total 2;
+                    total 3;
                     building_level wh2_dlc15_special_graves_of_the_dragons_2_hef;
+                    building_level wh2_main_hef_dragons_2;
                     building_level wh2_main_special_hall_of_dragons;
                 }
 				objective
 				{
 					type OWN_N_UNITS;
 					total 15;
-					unit wh2_main_hef_mon_sun_dragon;
-					unit wh2_dlc10_hef_inf_the_silverpelts_ror_0;
-					unit wh2_main_hef_inf_phoenix_guard;
-					unit wh2_main_hef_cav_dragon_princes;
-					unit wh2_main_hef_mon_star_dragon;
+                	unit wh2_main_hef_cav_dragon_princes;
 					unit wh2_dlc10_hef_cav_the_fireborn_ror_0;
-					unit wh2_dlc10_hef_inf_keepers_of_the_flame_ror_0;
-					unit wh2_dlc10_hef_inf_sisters_of_avelorn_0;
-					unit wh2_dlc10_hef_inf_everqueens_court_guards_ror_0;
-					unit wh2_main_hef_inf_white_lions_of_chrace_0;
+					unit wh2_main_hef_mon_sun_dragon;
+                    unit wh2_main_hef_mon_moon_dragon;
+					unit wh2_main_hef_mon_star_dragon;
+                    unit wh2_dlc15_hef_mon_sun_dragon_imrik;
+                    unit wh2_dlc15_hef_mon_moon_dragon_imrik;
+                    unit wh2_dlc15_hef_mon_star_dragon_imrik;
+                    unit wh2_dlc15_hef_mon_forest_dragon_imrik;
+                    unit wh2_dlc15_hef_mon_black_dragon_imrik;
 				}
 				objective
 				{
