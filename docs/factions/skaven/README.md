@@ -55,7 +55,7 @@
 	    * Argwylon, Carcassone et Brionne, Estalia, Talsyn, Tilea, Torgovann, Wydrioth, Yn Edri Eternos
 	* Destroy factions
 	    * Argwylon, Wood Elves, Carcassone, Estalia, Tilea, Pirates of Sartosa
-    * Upgrade the Forbidden Workshop to the level 3
+    * Upgrade the Forbidden Workshop to the level 4
 	* Own 13 Doomwheels/Doom-Flayers/Ratling Guns/Warpfire ThrowerS/Warplock Jezzails/Warp-Grinders
 * **Long Victory Conditions**:
 	* Have at least 52% skaven corruption in the following provinces
