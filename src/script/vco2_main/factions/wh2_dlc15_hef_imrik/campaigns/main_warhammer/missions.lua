@@ -17,7 +17,7 @@ local missions = {
                 objective
                 {
                     type CONTROL_N_PROVINCES_INCLUDING;
-                    total 4;
+                    total 5;
                     province wh2_main_caledor;
                     province wh2_main_dragon_isles;
                     province wh2_main_gnoblar_country;
@@ -49,7 +49,7 @@ local missions = {
                 objective
                 {
                     type OWN_N_UNITS;
-                    total 5;
+                    total 4;
                     unit wh2_main_hef_cav_dragon_princes;
                     unit wh2_dlc10_hef_cav_the_fireborn_ror_0;
                     unit wh2_main_hef_mon_sun_dragon;
