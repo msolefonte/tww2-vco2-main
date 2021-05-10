@@ -37,9 +37,9 @@ local missions = {
 				}
 				objective
                 {
-                    override_text mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_1;
+                    override_text mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_1;
                     type SCRIPTED;
-                    script_key get_forbidden_workshop_level_4;
+                    script_key get_forbidden_workshop_level_3;
                 }
 				objective
 				{
