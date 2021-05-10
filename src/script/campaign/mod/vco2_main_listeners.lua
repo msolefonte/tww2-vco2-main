@@ -67,14 +67,14 @@ function vco_check_skaven_clan_eshin_clans_reputation(faction)
 end
 
 function vco_check_skaven_clan_skyre_workshop()
-    if current_workshop_lvl == 2 then
+    if current_workshop_lvl >= 2 then
         cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
         cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
         cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_2");
         cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_2");
     end
 
-    if current_workshop_lvl == 3 then
+    if current_workshop_lvl >= 3 then
         cm:complete_scripted_mission_objective("wh_main_short_victory", "get_forbidden_workshop_level_3", true);
         cm:complete_scripted_mission_objective("wh_main_long_victory", "get_forbidden_workshop_level_3", true);
         cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3");
