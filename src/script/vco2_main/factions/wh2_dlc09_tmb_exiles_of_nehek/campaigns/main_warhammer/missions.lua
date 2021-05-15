@@ -36,9 +36,11 @@ local missions = {
 				}
 				objective
 				{
-					type OWN_N_REGIONS_INCLUDING;
+					type CONSTRUCT_N_BUILDINGS_FROM;
+					faction wh2_dlc09_tmb_exiles_of_nehek;
 					total 1;
-					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
+					building_level wh2_dlc09_tmb_port_2;
+					building_level wh2_dlc09_tmb_port_3;
 				}
 
 				payload
@@ -94,6 +96,14 @@ local missions = {
 					type OWN_N_REGIONS_INCLUDING;
 					total 1;
 					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
+				}
+				objective
+				{
+					type CONSTRUCT_N_BUILDINGS_FROM;
+					faction wh2_dlc09_tmb_exiles_of_nehek;
+					total 3;
+					building_level wh2_dlc09_tmb_port_2;
+					building_level wh2_dlc09_tmb_port_3;
 				}
 
 				payload

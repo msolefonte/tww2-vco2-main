@@ -64,7 +64,6 @@ local missions = {
 					type DESTROY_FACTION;
 					faction wh2_main_lzd_hexoatl;
 
-					faction wh2_main_hef_eataine;
 					faction wh2_main_hef_nagarythe;
 					confederation_valid;
 				}

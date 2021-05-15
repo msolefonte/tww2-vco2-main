@@ -44,7 +44,7 @@
 	* Have at least 39% skaven corruption in the following provinces
 	    * Eataine, Iron Mountains, Isthmus of Lustria, The Clawed Coast, The Wolf Lands
 	* Destroy factions
-	    * Hexoatl, Eataine, Nagarythe
+	    * Hexoatl, Nagarythe
     * Build the Rictus Great Clan-Hall
 	* Own 39 Stormvermin
 
