@@ -69,7 +69,7 @@ Purified Graves, Black Crag
 	    * Clan Eshin, Hag Graef
 	* Raze or sack Black Crag
 	* Build the Purified Graves of the Dragons and a Dragon Keep
-    * Own at least 5 of the following units:
+    * Own at least 4 of the following units:
         * Sun Dragon, Moon Dragon, Star Dragon, Dragon Princes, Fireborn (RoR), Gordinar, Champion of the Flame, Ymwrath the Eternal, Lamoureux the Frozen Breath, Bruwor Protector of Life, Shackolot the Calamity
 * **Long Victory Conditions**:
 	* Complete 5 Missions
@@ -79,7 +79,7 @@ Purified Graves, Black Crag
 	* Destroy factions
 	    * Clan Eshin, Greenskins, Hag Graef, Clan Mors
 	* Build the Purified Graves of the Dragons, a Dragon Keep, and the Hall of Dragons
-    * Own at least 15 of the following units:
+    * Own at least 8 of the following units:
         * Sun Dragon, Moon Dragon, Star Dragon, Dragon Princes, Fireborn (RoR), Gordinar, Champion of the Flame, Ymwrath the Eternal, Lamoureux the Frozen Breath, Bruwor Protector of Life, Shackolot the Calamity
 
 ### Yvresse

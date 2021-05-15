@@ -146,3 +146,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Wounding Archaon has been removed from all factions, as it can never be achieved if Chaos Invasion is no
 - Known bugs:
     - In some cases, the new conditions do not appear till triggered with the "Victory Objectives" button
+
+## [2.4.1] Minor Update - TBA
+
+- Updated Knights of Caledor victory conditions
+    - Required buildings to achieve a Short Victory have been reduced to Purified Graves of the Dragons and a Dragon Keep
+    - Required buildings to achieve a Long Victory have been reduced to Purified Graves of the Dragons, a Dragon Keep, and the Hall of Dragons
+    - All required units have been changed to dragons 
+- Fixed a bug that caused Clan Skyre Short Campaign to be unachievable
+- Fixed a bug where Followers of Nagash had to create non-existent buildings 
+- Special thanks to **BoyNamedHsu** for his help with this update
