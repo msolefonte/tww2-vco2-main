@@ -15,7 +15,7 @@
 * **Short Victory Conditions**:
     * Conquer, ally with or assimilate all provinces of the Empire and Sylvannia
 	* Destroy The Empire and Sylvania
-	* Build the Altdorf Landmark and the Von Carstein Court Hall
+	* Build the Von Carstein Court Hall
 * **Long Victory Conditions**:
     * Conquer, ally with or assimilate all provinces of the Empire and Sylvannia
     * Control Southern Oblast and Fort Soll
