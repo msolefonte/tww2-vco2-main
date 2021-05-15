@@ -18,7 +18,7 @@ local missions = {
 					province wh_main_torgovann;
 					province wh_main_wydrioth;
 					province wh_main_yn_edri_eternos;
-					total 52;
+					total 39;
 					religion wh2_main_religion_skaven;
 				}
 				objective
@@ -93,7 +93,7 @@ local missions = {
 					province wh_main_torgovann;
 					province wh_main_wydrioth;
 					province wh_main_yn_edri_eternos;
-					total 52;
+					total 39;
 					religion wh2_main_religion_skaven;
 				}
 				objective

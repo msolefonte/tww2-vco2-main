@@ -4,14 +4,14 @@
 
 * **Short Victory Conditions**:
 	* Control Eastern Badlands
-	* Have at least 52% skaven corruption in the following provinces
+	* Have at least 39% skaven corruption in the following provinces
 	    * Eastern Badlands, Kingdom of Beasts, The Silver Road
 	* Destroy factions
 	    * Crooken Moon, Crooked Moon Mutinous Gits, Clan Angrund
 	* Build the Occupied Karak Eight Peaks (Skaven Stronghold) and the Plundered Dwarfen Treasury
 * **Long Victory Conditions**:
 	* Control Eastern Badlands
-	* Have at least 52% skaven corruption in the following provinces
+	* Have at least 39% skaven corruption in the following provinces
 	    * Eastern Badlands, Kingdom of Beasts, Land of the Dead, Southern Grey Mountains, The Silver Road, The Vaults, Western Badlands
 	* Destroy factions
 	    * Crooken Moon, Crooked Moon Mutinous Gits, Clan Angrund, Dwarfs
@@ -35,13 +35,13 @@
 ### Clan Rictus
 
 * **Short Victory Conditions**:
-	* Have at least 52% skaven corruption in the following provinces
-	    * Iron Mountains, Isthmus of Lustria, The Clawed Coast
+	* Have at least 39% skaven corruption in the following provinces
+	    * Iron Mountains, The Clawed Coast
 	* Destroy factions
 	    * Hexoatl, Nagarythe 
 	* Own 26 Stormvermin
 * **Long Victory Conditions**:
-	* Have at least 52% skaven corruption in the following provinces
+	* Have at least 39% skaven corruption in the following provinces
 	    * Eataine, Iron Mountains, Isthmus of Lustria, The Clawed Coast, The Wolf Lands
 	* Destroy factions
 	    * Hexoatl, Eataine, Nagarythe
@@ -51,14 +51,14 @@
 ### Clan Skryre
 
 * **Short Victory Conditions**:
-	* Have at least 52% skaven corruption in the following provinces
+	* Have at least 39% skaven corruption in the following provinces
 	    * Argwylon, Carcassone et Brionne, Estalia, Talsyn, Tilea, Torgovann, Wydrioth, Yn Edri Eternos
 	* Destroy factions
 	    * Argwylon, Wood Elves, Carcassone, Estalia, Tilea, Pirates of Sartosa
     * Upgrade the Forbidden Workshop to the level 3
 	* Own 13 Doomwheels/Doom-Flayers/Ratling Guns/Warpfire ThrowerS/Warplock Jezzails/Warp-Grinders
 * **Long Victory Conditions**:
-	* Have at least 52% skaven corruption in the following provinces
+	* Have at least 39% skaven corruption in the following provinces
 	    * Argwylon, Blood River Valley, Bordeleaux et Aquitaine, Carcassone et Brionne, Couronne et Languille, 
 	    Estalia, Talsyn, Tilea, The Silver Road, The Vaults, Torgovann, Wydrioth, Yn Edri Eternos
 	* Destroy factions
