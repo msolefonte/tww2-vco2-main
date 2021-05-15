@@ -31,6 +31,8 @@ local missions = {
 					faction wh_main_vmp_mousillon;
 					faction wh2_dlc11_vmp_the_barrow_legion;
 
+					faction wh2_twa03_def_rakarth;
+
 					faction wh_dlc08_nor_norsca;
 					faction wh_dlc08_nor_wintertooth;
                     faction wh_dlc08_nor_vanaheimlings;
@@ -77,6 +79,8 @@ local missions = {
 					faction wh_main_vmp_schwartzhafen;
 					faction wh2_dlc11_vmp_the_barrow_legion;
 					faction wh_main_vmp_vampire_counts;
+
+					faction wh2_twa03_def_rakarth;
 
 					faction wh_dlc08_nor_norsca;
 					faction wh_dlc08_nor_wintertooth;
