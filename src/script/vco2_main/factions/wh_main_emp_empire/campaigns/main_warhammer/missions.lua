@@ -102,6 +102,8 @@ local missions = {
 
                     faction wh2_dlc11_cst_pirates_of_sartosa;
 
+                    faction wh2_twa03_def_rakarth;
+
                     faction wh_dlc08_nor_goromadny_tribe;
                     faction wh_dlc08_nor_helspire_tribe;
                     faction wh_dlc08_nor_naglfarlings;

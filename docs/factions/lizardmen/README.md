@@ -11,7 +11,7 @@
 	    * Cult of Pleasure, The Drowned
 	* Construct 3 Star Chambers
 	* Build the Stellar Pyramids of the Southern Skies
-	* Build 4 Temple-Nexus
+	* Build 4 Temple Cities or Temple-Nexus
 	* Own 7 Temple Guards
 * **Long Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Lustria
@@ -30,7 +30,7 @@
 * **Short Victory Conditions**:
 	* Conquer, ally with or assimilate provinces:
 	    * Crater of The Walking Dead, Dragon Isles, Heart of the Jungle, Kingdom of Beasts, Southlands Jungle
-	* Construct 3 Geomantic Locus
+	* Construct 3 Geomantic Spires or Geomantic Locus
 	* Destroy factions:
 	    * Clan Eshin, Clan Mors, Hag Graef, Lybaras
 * **Long Victory Conditions**:
@@ -74,7 +74,7 @@
 	* Own 40 Skink units (All variants)
 * **Long Victory Conditions**:
 	* Have at least 80% Untainted in all the provinces of Lustria
-	* Construct 5 Crimson Pyramids of Sotek
+	* Construct 5 Blood Shrines of Sotek or Crimson Pyramids of Sotek 
 	* Construct the Cult of Sotek Snake Pit
 	* Destroy factions
 	    * Clan Fester, Clan Gnaw, Clan Mange, Clan Pestiles, Clan Rictus, The Awakened, The Dreadfleet, The 

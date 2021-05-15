@@ -112,3 +112,23 @@
 	* Own at least 30 of the following units:
 	    * Ganeth Executioners, Black Dragon, Cold One Knights, Bloodwrack Shrine, War Hydra, Chill of Sontar, Bloodwrack 
 	    Medusa, Blades of the Blood Queen
+
+### The Thousand Maws
+
+* **Short Victory Conditions**:
+	* Occupy/loot/raze/sack at least 20 different settlements
+	* Control at least four major ports and cities
+	* Defeat Couronne and Marienburg
+	* Build the Restored Port of Nagronath
+	* Own at least 10 of the following units:
+	    * Black Dragon, Stegadon, Bloodwrack Medusa, Carnosaur, Kharibdyss, War Hydra, Mammooth
+	* Capture 8000 Battle Captives
+* **Long Victory Conditions**:
+    * Occupy/loot/raze/sack at least 40 different settlements
+	* Control at least eight major ports and cities
+	* Defeat Couronne and Reikland
+	* Build the Restored Port of Nagronath
+	* Own at least 15 of the following units:
+	    * Black Dragon, Stegadon, Bloodwrack Medusa, Carnosaur, Kharibdyss, War Hydra, Mammooth
+	* Capture 12000 Battle Captives
+	* Defeat Archaon

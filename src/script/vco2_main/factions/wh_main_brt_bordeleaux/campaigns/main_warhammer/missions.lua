@@ -21,6 +21,8 @@ local missions = {
 					faction wh2_dlc11_cst_the_drowned;
 					faction wh2_dlc11_cst_pirates_of_sartosa;
 
+					faction wh2_twa03_def_rakarth;
+
                     faction wh2_dlc11_cst_harpoon_the_sunken_land_corsairs;
                     faction wh2_dlc11_cst_rogue_bleak_coast_buccaneers;
                     faction wh2_dlc11_cst_rogue_boyz_of_the_forbidden_coast;
@@ -65,6 +67,7 @@ local missions = {
 					faction wh2_dlc11_cst_pirates_of_sartosa;
 
 					faction wh2_dlc11_def_the_blessed_dread;
+					faction wh2_twa03_def_rakarth;
 
                     faction wh2_dlc11_cst_harpoon_the_sunken_land_corsairs;
                     faction wh2_dlc11_cst_rogue_bleak_coast_buccaneers;

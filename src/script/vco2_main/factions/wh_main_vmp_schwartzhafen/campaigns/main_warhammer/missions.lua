@@ -38,8 +38,7 @@ local missions = {
 				{
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh_main_vmp_schwartzhafen;
-					total 2;
-					building_level wh2_main_special_altdorf_imperial_palace_vmp;
+					total 1;
 					building_level wh2_main_special_drakenhof_court;
 				}
 

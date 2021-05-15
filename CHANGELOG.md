@@ -50,7 +50,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Getting 3 Sorceress to lvl 20 is now required to achieve a Long Victory
     - Controlling Black Arks objectives have been removed
 - Redone of The Bloody Handz
-    - Razing or looting Sartosa is not required to achieve a victory
+    - Razing or looting Sartosa is now required to achieve a victory
     - Razing or looting Copher, Fyrus and Al Haikk is no longer required to achieve a Short Victory
     - Having at least 80% Untainted in Southern Badlands and Western Badlands is now required to achieve a Short Victory
     - Having at least 80% Untainted in Easter Badlands, Southern Badlands and Western Badlands is now required to achieve a Long Victory
@@ -146,3 +146,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Wounding Archaon has been removed from all factions, as it can never be achieved if Chaos Invasion is no
 - Known bugs:
     - In some cases, the new conditions do not appear till triggered with the "Victory Objectives" button
+
+## [2.5.0] Population & Corruption Update - 15.05.2021
+
+- Updated Knights of Caledor victory conditions
+    - Required buildings to achieve a Short Victory have been reduced to Purified Graves of the Dragons and a Dragon Keep
+    - Required buildings to achieve a Long Victory have been reduced to Purified Graves of the Dragons, a Dragon Keep, and the Hall of Dragons
+    - All required units have been changed to dragons
+- Most of the skaven factions corruption requirements have been modified
+    - Affects al factions except Clan Pestilens
+    - Required corruption has been reduced from 52% to 39%
+- Some changes introduced to Exiles of Nehek
+    - Building the Black Pyramid is no longer required to achieve a Short Victory
+    - Building a Grave Port is now required to achieve a Short Victory
+    - Building three Grave Ports is now required to achieve a Long Victory
+- Some changes introduced to Clan Rictus
+    - Corrupting Ishtmus of Lustria is no longer required by Clan Rictus to achieve a Short Victory
+    - Corrupting Eataine is no longer required to achieve a Long Victory
+- Added docs for The Thousand Maws
+- Defeating chaos is no longer required by The Thousand Maws to achieve a Short Victory
+- Defeating The Thousand Maws is now required by Couronne to achieve a victory
+- Defeating The Thousand Maws is now required by Bordeleaux to achieve a victory
+- Defeating The Thousand Maws is now required by Reikland to achieve a Long Victory
+- Both Temple Cities and Temple Nexus are now valid by Hexoatl to achieve a Short Victory
+- Both Geomantic Spires and Geomantic Locus are now valid by Last Defenders to achieve a Short Victory
+- Both Blood Shrines of Sotek and Crimson Pyramid of Sotek are now valid by Cult of Sotek to achieve a Short Victory
+- Building the Altdorf Landmark is no longer required by Von Carstein to achieve a Short Victory
+- Fixed a bug that caused Clan Skyre Short Campaign to be unachievable
+- Fixed a bug where Followers of Nagash had to create non-existent buildings 
+- Special thanks to **BoyNamedHsu** for his help with this release
+

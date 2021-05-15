@@ -11,9 +11,8 @@ local missions = {
 				{
 					type AT_LEAST_X_RELIGION_IN_PROVINCES;
 					province wh2_main_iron_mountains;
-					province wh2_main_isthmus_of_lustria;
 					province wh2_main_the_clawed_coast;
-					total 52;
+					total 39;
 					religion wh2_main_religion_skaven;
 				}
 				objective
@@ -57,7 +56,7 @@ local missions = {
 					province wh2_main_isthmus_of_lustria;
 					province wh2_main_the_clawed_coast;
 					province wh2_main_the_wolf_lands;
-					total 52;
+					total 39;
 					religion wh2_main_religion_skaven;
 				}
 				objective
@@ -65,7 +64,6 @@ local missions = {
 					type DESTROY_FACTION;
 					faction wh2_main_lzd_hexoatl;
 
-					faction wh2_main_hef_eataine;
 					faction wh2_main_hef_nagarythe;
 					confederation_valid;
 				}

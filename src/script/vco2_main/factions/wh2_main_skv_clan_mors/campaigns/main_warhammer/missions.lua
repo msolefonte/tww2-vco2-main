@@ -21,7 +21,7 @@ local missions = {
 					province wh_main_eastern_badlands;
 					province wh2_main_kingdom_of_beasts;
 					province wh_main_the_silver_road;
-					total 52;
+					total 39;
 					religion wh2_main_religion_skaven;
 				}
 				objective
@@ -75,7 +75,7 @@ local missions = {
 					province wh_main_the_silver_road;
 					province wh_main_the_vaults;
 					province wh_main_western_badlands;
-					total 52;
+					total 39;
 					religion wh2_main_religion_skaven;
 				}
 				objective

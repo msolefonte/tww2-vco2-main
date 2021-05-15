@@ -49,7 +49,7 @@
 	* Obtain access to the following resources:
 	    * Obsidian, Animals, Furs, Iron, Marbre, Lead, Timber
 	* Perform 10 Crafting rituals
-	* Capture the Black Pyramid of Nagash
+	* Build at least one Grave Port
 * **Long Victory Conditions**:
 	* Destroy factions:
 	    * Bleak Holds, Clar Karond, Cult of Pleasure, Ssildra Tor
@@ -57,6 +57,7 @@
 	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Textiles, Lead, Spices, Timber, Wine
 	* Perform 20 Crafting rituals
 	* Capture the Black Pyramid of Nagash
+	* Build at least three Grave Ports
 
 ### Followers of Nagash
 

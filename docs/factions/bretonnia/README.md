@@ -5,28 +5,29 @@
 * **Short Victory Conditions**:
 	* Attain 800 Chivalry
 	* Conquer provinces:
-	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon 
+	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon, The Thousand Maws
 	* Destroy factions: 
 	    * Mousillon, The Barrow Legion, World Walkers, Wintertooth, Vanaheimlings
 * **Ultimate Victory Conditions**:
 	* Attain 1600 Chivalry
 	* Conquer provinces:
-	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon 
+	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon, The Thousand Maws
 	* Destroy factions: 
 	    * Mousillon, Sylvannia, The Barrow Legion, Von Carstein, World Walkers, Wintertooth, Vanaheimlings
 	* Complete the final Errantry War battle
     * Defeat the Chaos Invasion
 
-### Bordelaux
+### Bordeleaux
 
 * **Short Victory Conditions**:
 	* Attain 800 Chivalry
 	* Destroy factions:
-	    * Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, All Pirate Rogue Armies
+	    * Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, The Thousand Maws, All Pirate Rogue Armies, 
 * **Ultimate Victory Conditions**:
 	* Attain 1600 Chivalry
 	* Destroy factions:
-	    * Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, The Blessed Dread, All Pirate Rogue Armies
+	    * Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, The Thousand Maws, The Blessed Dread, 
+	    All Pirate Rogue Armies
 	* Complete the final Errantry War battle
     * Defeat the Chaos Invasion
 

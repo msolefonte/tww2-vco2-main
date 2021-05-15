@@ -26,9 +26,10 @@ local missions = {
 				}
 				objective
 				{
-					type CONSTRUCT_N_OF_A_BUILDING;
+					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_dlc12_lzd_cult_of_sotek;
 					total 3;
+					building_level wh2_main_lzd_worship_sotek_2;
 					building_level wh2_main_lzd_worship_sotek_3;
 				}
 				objective
