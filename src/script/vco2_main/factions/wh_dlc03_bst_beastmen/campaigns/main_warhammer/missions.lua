@@ -83,7 +83,7 @@ local missions = {
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource bst_ruination;
-					total 320;
+					total 500;
 				}
 				objective
 				{

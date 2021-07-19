@@ -15,12 +15,10 @@ local missions = {
 				}
 				objective
 				{
-					type HAVE_N_AGENTS_OF_TYPE;
+					type ACHIEVE_CHARACTER_RANK;
 					total 2;
-					agent_subtype dlc03_bst_bray_shaman_beasts;
-					agent_subtype dlc03_bst_bray_shaman_death;
-					agent_subtype dlc03_bst_bray_shaman_shadows;
-					agent_subtype dlc03_bst_bray_shaman_wild;
+					total2 10;
+					agent wizard;
 				}
 
                 payload
@@ -57,12 +55,10 @@ local missions = {
 				}
 				objective
 				{
-					type HAVE_N_AGENTS_OF_TYPE;
-					total 4;
-					agent_subtype dlc03_bst_bray_shaman_beasts;
-					agent_subtype dlc03_bst_bray_shaman_death;
-					agent_subtype dlc03_bst_bray_shaman_shadows;
-					agent_subtype dlc03_bst_bray_shaman_wild;
+					type ACHIEVE_CHARACTER_RANK;
+					total 3;
+					total2 15;
+					agent wizard;
 				}
 
                 payload
@@ -104,13 +100,16 @@ local missions = {
 				}
 				objective
 				{
-					type HAVE_N_AGENTS_OF_TYPE;
-					total 6;
-					agent_subtype dlc03_bst_bray_shaman_beasts;
-					agent_subtype dlc03_bst_bray_shaman_death;
-					agent_subtype dlc03_bst_bray_shaman_shadows;
-					agent_subtype dlc03_bst_bray_shaman_wild;
+					type ACHIEVE_CHARACTER_RANK;
+					total 4;
+					total2 25;
+					agent wizard;
 				}
+
+                payload
+                {
+                    game_victory;
+                }
             }
         }
     ]]

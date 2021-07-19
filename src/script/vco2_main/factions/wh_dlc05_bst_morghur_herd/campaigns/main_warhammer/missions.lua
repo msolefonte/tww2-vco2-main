@@ -12,7 +12,7 @@ local missions = {
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 20;
 
-					province wh2_main_laurelorn_forest;
+					region wh2_main_laurelorn_forest_laurelorn_forest;
 				}
 
                 payload
@@ -35,13 +35,13 @@ local missions = {
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 40;
 
-					province wh2_main_laurelorn_forest;
+					region wh2_main_laurelorn_forest_laurelorn_forest;
 
-					province wh_main_argwylon;
-					province wh_main_talsyn;
-					province wh_main_torgovann;
-					province wh_main_wydrioth;
-					province wh_main_yn_edri_eternos;
+					region wh_main_athel_loren_crag_halls;
+					region wh_main_athel_loren_vauls_anvil;
+					region wh_main_athel_loren_waterfall_palace;
+					region wh_main_athel_loren_yn_edryl_korian;
+					region wh_main_yn_edri_eternos_the_oak_of_ages;
 				}
 
                 payload
@@ -63,15 +63,15 @@ local missions = {
 				{
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 80;
-					province wh2_main_laurelorn_forest;
+					region wh2_main_laurelorn_forest_laurelorn_forest;
 
-					province wh_main_argwylon;
-					province wh_main_talsyn;
-					province wh_main_torgovann;
-					province wh_main_wydrioth;
-					province wh_main_yn_edri_eternos;
+					region wh_main_athel_loren_crag_halls;
+					region wh_main_athel_loren_vauls_anvil;
+					region wh_main_athel_loren_waterfall_palace;
+					region wh_main_athel_loren_yn_edryl_korian;
+					region wh_main_yn_edri_eternos_the_oak_of_ages;
 
-					province wh2_main_avelorn;
+					region wh2_main_avelorn_gaean_vale;
 				}
 
                 payload
