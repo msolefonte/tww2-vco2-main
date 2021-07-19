@@ -176,3 +176,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed a bug where Followers of Nagash had to create non-existent buildings 
 - Special thanks to **BoyNamedHsu** for his help with this release
 
+## [2.6.0] The Wolf and The Goats update - TBA
+
+- Introduction to a new approach to victory conditions, only affecting some factions by now:
+    - Short Victories are now meant to be SHORT. Under 50 turns short
+    - Long Victories are the new short ones, should not take more than 100 turns
+    - Ultimate Victories are the big ones, usually target to occupy at least 250 turns 
+- Complete rework of Beastmen
+    - Warherd of the One-Eye (Khazrak the One-Eye):
+        - Short-term focus destroying the Empire of Man, long-term focus on destroying Bretonnia
+    - Harbinger of Disaster (Malagor the Dark Omen):
+        - Short-term focus destroying the Greenskins (Badlands area), long-term focus on destroying Tomb Kings
+    - Warherd of the Shadowgave (Morghur the Corruptor):
+        - Short-term focus destroying the Wood Elves, long-term focus on destroying High Elves
+    - Slaughterhorn Tribe (Taurox the Brass Bull):
+        - Mean to be played targeting Dark Elves and Lizardmen, but open to any kind of destruction. Just kill. A lot
+- New victory conditions for Ghosts of Pahuax (Oxyotl)
+    - Less focused on individual factions / Spending all time in Norsca
+    - More focused on travelling around the world and completing Visions of the Old Ones
