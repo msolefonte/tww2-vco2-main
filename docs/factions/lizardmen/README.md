@@ -117,3 +117,23 @@
 	* Construct one Exalted Star Chamber
 	* Own 15 Kroxigors
 	* Defeat the Chaos Invasion
+
+### Ghosts of Pahuax (Oxyotl)
+
+* Short Victory Conditions:
+    * Complete 15 of the following:
+        * Visions of the Old Ones (Easy) / Visions of the Old Ones (Normal) / Visions of the Old Ones (Hard)
+* Long Victory Conditions:
+    * Complete 25 of the following:
+        * Visions of the Old Ones (Normal) / Visions of the Old Ones (Hard)
+    * Complete 3 of the following: Chapter Objectives
+    * Destroy the following faction:
+        * Slaughterhorn Tribe
+* Ultimate Victory Conditions:
+    * Complete 50 of the following:
+        * Visions of the Old Ones (Normal) / Visions of the Old Ones (Hard)
+    * Complete 5 of the following: Chapter Objectives
+    * Hold the region of Pahuax
+    * Destroy the following faction(s):
+        * Slaughterhorn Tribe
+	* Defeat the Chaos Invasion
