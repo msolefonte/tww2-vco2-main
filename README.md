@@ -4,8 +4,9 @@
 # Victory Conditions Overhaul 2
 
 [![GitHub release](https://img.shields.io/github/release/msolefonte/tww2-vco2-main.svg?style=flat)](https://GitHub.com/msolefonte/tww2-vco2-main/releases/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dwolfylpdc%26type%3Dpatrons&style=flat)](https://www.patreon.com/wolfylpdc)
 [![GitHub license](https://img.shields.io/github/license/msolefonte/tww2-vco2-main?style=flat)](https://github.com/msolefonte/tww2-vco2-main/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 [Steam Workshop Mod Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815189)
 
