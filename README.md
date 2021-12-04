@@ -1,12 +1,15 @@
-![Steam Workshop Subscribers](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fshieldsio-steam-workshop.jross.me%2F2165815189%2Fsubscriptions-text)
-![Steam Workshop Favorites](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fshieldsio-steam-workshop.jross.me%2F2165815189%2Ffavourites-text)
-[![GitHub license](https://img.shields.io/github/license/msolefonte/tww2-vco2-main?style=for-the-badge)](https://github.com/msolefonte/tww2-vco2-main/blob/master/LICENSE)
+[![Steam Workshop Subscribers](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fshieldsio-steam-workshop.jross.me%2F2165815189%2Fsubscriptions-text)](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815189)
+[![Steam Workshop Favorites](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fshieldsio-steam-workshop.jross.me%2F2165815189%2Ffavourites-text)](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815189)
 
 # Victory Conditions Overhaul 2
 
+[![GitHub release](https://img.shields.io/github/release/msolefonte/tww2-vco2-main.svg?style=flat)](https://GitHub.com/msolefonte/tww2-vco2-main/releases/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![GitHub license](https://img.shields.io/github/license/msolefonte/tww2-vco2-main?style=flat)](https://github.com/msolefonte/tww2-vco2-main/blob/master/LICENSE)
+
 [Steam Workshop Mod Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815189)
 
-Victory Conditions Overhaul 2 mod for Total War: Warhammer 2.
+Victory Conditions Overhaul 2 mod for Total War: Warhammer II.
 
 ## Introduction
 
