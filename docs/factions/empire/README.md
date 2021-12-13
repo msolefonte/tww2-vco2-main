@@ -5,11 +5,10 @@
 * **Route I:**
     * Conquer, ally with or assimilate all provinces of the Empire
 * **Route II:**
-    * Destroy close dangers:
+    * Destroy close threats:
         * Black Venom, Broken Nose, Crooken Moon, Leaf-Cutterz Tribe, Skullmasherz
         * Mousillon, Sylvannia, The Barrow Legion, Von Carstein
-        * Clan Kreepus, Clan Moulder, Clan Skryre
-        * Pirates of Sartosa
+        * Clan Kreepus, Clan Moulder
         * The Thousand Maws 
         * Goromadny Tribe, Helspire Tribe, Naglfarlings Tribe, Skaeling, Vanaheimlings, Varg, Wintertooth, World Walkers
 

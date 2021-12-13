@@ -58,9 +58,6 @@ local missions = {
 
                     faction wh2_dlc15_skv_clan_kreepus;
                     faction wh2_main_skv_clan_moulder;
-                    faction wh2_main_skv_clan_skyre;
-
-                    faction wh2_dlc11_cst_pirates_of_sartosa;
 
                     faction wh2_twa03_def_rakarth;
 

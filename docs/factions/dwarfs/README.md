@@ -17,7 +17,7 @@
 	    * Kraka Drak: Kraka Drak, Khazid Bordkarag, Sjoktraken
 	    * Zhufbar: Karag Dromar, Oakenhammer, Zhufbar
 * **Route III:**
-	* Destroy all close dangers:
+	* Destroy all close threats:
 		* Bloody Spearz, Bonerattlaz, Creeping Death, Crooked Moon Mutinous Gits, Greenskins, 
 		  Red Eye, Red Fangs, Scabby Eye, Skull Crag, Teef Snatchaz, The Bloody Handz, Top Knotz 
 		* Clan Ferrik, Clan Gritus, Clan Rictus, Clan Volkn

@@ -199,7 +199,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Introduced new feature _Routes_. Now, instead of having evolving campaigns with _Short_, _Long_ and _Ultimate_ 
 checkpoints, you can choose completely different ways to approach your campaign. For example, as Dwarfs, you can now win 
-by destroying the close dangers, unifying all the old world dwarfholds or clearing the book of grudges. You can complete 
+by destroying the close threats, unifying all the old world dwarfholds or clearing the book of grudges. You can complete 
 all of them, two or just one. Up to you to decide what is funnier.
 - New introduced _Routes_ have been developed with the intent of offering different ways to enjoy the game: In a lot of
 occasions, now it will be viable to play tall/defensively, without any requisite related to paint the map. 

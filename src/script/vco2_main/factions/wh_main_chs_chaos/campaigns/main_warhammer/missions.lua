@@ -10,7 +10,7 @@ local missions = {
 				objective
 				{
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
-					total 50;
+					total 40;
 				}
 
 				payload
@@ -32,6 +32,7 @@ local missions = {
 				{
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 4;
+
 					region wh2_main_isthmus_of_lustria_fallen_gates;
 					region wh_main_middenland_middenheim;
 					region wh2_main_eataine_shrine_of_asuryan;
