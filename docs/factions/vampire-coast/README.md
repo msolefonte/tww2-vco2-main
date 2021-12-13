@@ -2,6 +2,10 @@
 
 ### The Awakened
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
 	* Earn 15000 infamy
 	* Capture 8 of the following regions
@@ -28,6 +32,10 @@
 
 ### The Dreadfleet
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
 	* Earn 15000 infamy
 	* Control provinces
@@ -47,6 +55,10 @@
 	* Own at least 6 Necrofex Colossus
 
 ### Pirates of Sartosa
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Earn 15000 infamy
@@ -68,6 +80,10 @@
 	* Earn 10000 from raiding
 
 ### The Drowned
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Earn 15000 infamy

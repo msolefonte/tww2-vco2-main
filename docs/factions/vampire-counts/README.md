@@ -11,7 +11,7 @@
 ### Von Carstein
 
 * **Route I:**
-    * Conquer, ally with or assimilate all provinces of the Empire and Sylvannia
+    * Conquer, ally with or assimilate all provinces of the Empire and Sylvania
 * **Route II:**
 	* Build the Altdorf Imperial Palace and the Von Carstein Court Hall
 

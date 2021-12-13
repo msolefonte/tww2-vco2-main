@@ -2,6 +2,10 @@
 
 ### Clan Mors
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
 	* Control Eastern Badlands
 	* Have at least 39% skaven corruption in the following provinces
@@ -19,6 +23,10 @@
 
 ### Clan Pestilens
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
 	* Have at least 52% skaven corruption in the following provinces
 	    * Isthmus of Lustria, Northern Great Jungle, Southern Great Jungle
@@ -33,6 +41,10 @@
 	    * Order of Loremasters, The Blessed Dread, Vampire Coast, The Drowned, Cult of Sotek, Itza, Hexoatl
 
 ### Clan Rictus
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Have at least 39% skaven corruption in the following provinces
@@ -49,6 +61,10 @@
 	* Own 39 Stormvermin
 
 ### Clan Skryre
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Have at least 39% skaven corruption in the following provinces
@@ -67,6 +83,10 @@
 	* Own 26 Doomwheels/Doom-Flayers/Ratling Guns/Warpfire ThrowerS/Warplock Jezzails/Warp-Grinders
 
 ### Clan Eshin
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Complete 3 Chapter Objectives

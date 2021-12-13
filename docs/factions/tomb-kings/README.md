@@ -2,6 +2,10 @@
 
 ### Khemri
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
     * Control 10 provinces
 	* Destroy Followers of Nagash
@@ -19,6 +23,10 @@
 	* Own 10 Khemrian Warsphinxs/Heirotitan/Necrosphinx
 
 ### Court of Lybaras
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Destroy factions:
@@ -43,6 +51,10 @@
 
 ### Exiles of Nehek
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
 	* Destroy factions:
 	    * Bleak Holds, Clar Karond, Cult of Pleasure, Ssildra Tor
@@ -60,6 +72,10 @@
 	* Build at least three Grave Ports
 
 ### Followers of Nagash
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Destroy Khemri

@@ -2,6 +2,10 @@
 
 ### Hexoatl
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
 	* Conquer provinces:
 	    * Isthmus of Lustria, Northern Jungles of Pahualaxa
@@ -27,6 +31,10 @@
 
 ### Last Defenders
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
 	* Conquer, ally with or assimilate provinces:
 	    * Crater of The Walking Dead, Dragon Isles, Heart of the Jungle, Kingdom of Beasts, Southlands Jungle
@@ -43,6 +51,10 @@
     * Defeat the Chaos Invasion
 
 ### Tlaqua
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Conquer, ally with or assimilate provinces:
@@ -63,6 +75,10 @@
 	* Defeat the Chaos Invasion
 
 ### Cult of Sotek
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Have at least 80% Untainted in all the provinces of Lustria
@@ -85,6 +101,10 @@
 
 ### Itza
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
 	* Conquer, ally with or assimilate all provinces of Lustria
 	* Destroy factions
@@ -100,6 +120,10 @@
 	* Defeat the Chaos Invasion
 
 ### Spirit of the Jungle
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
 	* Have your vassal hold 40 settlements
@@ -119,6 +143,10 @@
 	* Defeat the Chaos Invasion
 
 ### Ghosts of Pahuax (Oxyotl)
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * Short Victory Conditions:
     * Complete 15 of the following:

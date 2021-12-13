@@ -203,43 +203,65 @@ by destroying the close threats, unifying all the old world dwarfholds or cleari
 all of them, two or just one. Up to you to decide what is funnier.
 - New introduced _Routes_ have been developed with the intent of offering different ways to enjoy the game: In a lot of
 occasions, now it will be viable to play tall/defensively, without any requisite related to paint the map. 
-- Complete rework for almost all factions:
+- Complete rework for all old-word factions:
     - Empire:
-        - Reikland: Two new routes introduced
-        - The Golden Order: Three new routes introduced
-        - The Huntsmarshal's Expedition: Three new routes introduced
+        - Reikland: Two new routes (Unification (Empire)/Threat Elimination)
+        - The Golden Order: Three new routes (Edificiation/Threat Elimination (Vampires)/Threat Elimination (South))
+        - The Huntsmarshal's Expedition: Three new routes (Acclaim/Conquest (Lustria)/Threat Elimination)
     - Dwarfs:
-        - Karak-a-Karak: Three new routes introduced
-        - Karak Kadrin: Two new routes introduced
-        - Clan Angrund: Two new routes introduced
-        - Ironbrow's Expedition: Two new routes introduced
+        - Karak-a-Karak: Three new routes (Grudges/Unification (Dwarfholds)/Threat Elimination)
+        - Karak Kadrin: Two new routes (Threat Elimination (Vampires)/Threat Elimination (Norsca))
+        - Clan Angrund: Two new routes (Conquest (Karak Eight Peaks)/Unification (Fallen Dwarfholds))
+        - Ironbrow's Expedition: Two new routes (Artefacts forging/Unification (Dwarfholds))
     - Greenskins:
-        - Grimgor's Argboyz: Two new routes introduced
-        - Bonerattlaz: Two new routes introduced
-        - The Bloody Handz: Three new routes introduced
-        - Crooked Moon: Two new routes introduced
-        - Broken Axe: Three new routes introduced
+        - Grimgor's Argboyz: Two new routes (Unification (Greenskins)/Destruction)
+        - Bonerattlaz: Two new routes (Threat Elimination/Destruction)
+        - The Bloody Handz: Three new routes (Unification (Badlands)/Looting (Lore-based)/Magical Areas Control)
+        - Crooked Moon: Two new routes (Conquest (Karak Eight Peaks)/Threat Destruction)
+        - Broken Axe: Three new routes (Chapter Objectives/Looting (Lore-based)/Raiding)
     - Vampire Counts:
-        - Sylvania: Two new routes introduced
-        - The Barrow Legion: Two new routes introduced
-        - Von Carstein: Three new routes introduced
+        - Sylvania: Two new routes (Expansion/Edification)
+        - Von Carstein: Two new routes (Conquest (Empire + Sylvania)/Edification)
+        - The Barrow Legion: Three new routes (Corruption (Bretonnia)/Corruption (Athel Loren)/Magical Areas Control)
     - Bretonnia:
-        - Couronne: Three new routes introduced
-        - Bordeleaux: Three new routes introduced
-        - Carcassone: Three new routes introduced
-        - Chevaliers de Lyonesse: Three new routes introduced
+        - Couronne: Three new routes (Unification (Bretonnia)/Threat Elimination/Final Battle)
+        - Bordeleaux: Three new routes (Threat Elimination (Pirates)/Commerce/Final Battle)
+        - Carcassone: Three new routes (Threat Elimination (Generic)/Threat Elimination (Wood Elves)/Final Battle)
+        - Chevaliers de Lyonesse: Three new routes (Destruction (Tomb Kings)/Conquest (Araby)/Final Battle)
     - Warriors of Chaos:
-        - Warriors of Chaos: Two new routes introduced
+        - Warriors of Chaos: Two new routes (Destruction/Destruction (Lore-based))
     - Beastmen:
-        - Warherd of the One-Eye: Three new routes introduced
-        - Harbinger of Disaster: Two new routes introduced
-        - Warherd of the Shadowgave: Two new routes introduced
-        - Slaughterhorn Tribe: Three new routes introduced
+        - Warherd of the One-Eye: Three new routes (Resource Accumulation/Destruction (Empire)/Final Battle)
+        - Harbinger of Disaster: Two new routes (Destruction (Tomb Kings)/Destruction (Greenskins))
+        - Warherd of the Shadowgave: Two new routes (Destruction/Destruction (Wood Elves))
+        - Slaughterhorn Tribe: Three new routes (Resource Accumulation/Destruction/Final Battle)
     - Wood Elves:
-        - Talsyn: Three new routes introduced
-        - Argwylon: Three new routes introduced
-        - Heralds of Ariel: Three new routes introduced
-        - Wargrove of Woe: Three new routes introduced
+        - Talsyn: Three new routes (Unification (Athel Loren)/Rebirth/Final Battle)
+        - Argwylon: Three new routes (Threat Elimination/Unification (Athel Loren)/Final Battle)
+        - Heralds of Ariel: Three new routes (Forest Health Accumulation/Rebirth/Final Battle)
+        - Wargrove of Woe: Three new routes (Unification (Athel Loren)/Destruction (Wood Elves)/Final Battle)
     - Norsca:
-        - Wintertooth: Two new routes introduced
-        - World Walkers: Two new routes introduced
+        - Wintertooth: Two new routes (Gods Favour/Conquest (World Capitals))
+        - World Walkers: Two new routes (Threat Elimination/Gods Favour)
+    - High Elves:
+        - Lothern: Three new routes (Unification (Ulthuan)/Threat Elimination/Commerce)
+        - Order of Loremasters: Three new routes (Expansion/Threat Elimination/Edification)
+        - Nagarythe: Three new routes (Expansion/Threat Elimination/Edification)
+        - Averlon: Three new routes (Unification (Ulthuan)/Threat Elimination (Norsca Targeted)/Edification)
+        - Knights of Caledor: Three new routes (Control Legendary Dragons/Expansion/Edification)
+        - Yvresse: Three new routes (Defence Level/Expansion/Threat Elimination)
+    - Dark Elves:
+        - Naggarond: Three new routes (Unification (Naggaroth)/Conquest (Ulthuan)/Naval Supremacy)
+        - Cult of Pleasure: Three new routes (Threat Elimination/Conquest (Ulthuan)/Edification)
+        - The Blessed Dread: Three new routes (Threat Elimination/Edification/Naval Supremacy)
+        - Har Ganeth: Three new routes (Conquest (Gaean Vale)/Threat Elimination/Edification)
+        - Hag Graef: Two new routes (Threat Destruction/Chapter Objectives)
+        - The Thousand Maws: Two new routes (Expansion (Naval)/Destruction)
+    - Lizardmen:
+        -
+    - Slaven:
+        -
+    - Tomb Kings:
+        -
+    - Vampire Coast:
+        -
