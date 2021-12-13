@@ -207,3 +207,4 @@ occasions, now it will be viable to play tall/defensively, without any requisite
     - Karak-a-Karak: Three new routes introduced
     - Karak Kadrin: Two new routes introduced
     - Clan Angrund: Two new routes introduced
+    - Ironbrow's Expedition: Two new routes introduced
