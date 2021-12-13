@@ -243,8 +243,6 @@ occasions, now it will be viable to play tall/defensively, without any requisite
     - Norsca:
         - Wintertooth: Two new routes (Gods Favour/Conquest (World Capitals))
         - World Walkers: Two new routes (Threat Elimination/Gods Favour)
-        
-- TO BE DONE
     - High Elves:
         - Lothern: Three new routes (Unification (Ulthuan)/Threat Elimination/Commerce)
         - Order of Loremasters: Three new routes (Expansion/Threat Elimination/Edification)
@@ -252,6 +250,8 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Averlon: Three new routes (Unification (Ulthuan)/Threat Elimination (Norsca Targeted)/Edification)
         - Knights of Caledor: Three new routes (Control Legendary Dragons/Expansion/Edification)
         - Yvresse: Three new routes (Defence Level/Expansion/Threat Elimination)
+        
+- TO BE DONE
     - Dark Elves:
         - Naggarond: Three new routes (Unification (Naggaroth)/Conquest (Ulthuan)/Naval Supremacy)
         - Cult of Pleasure: Three new routes (Threat Elimination/Conquest (Ulthuan)/Edification)

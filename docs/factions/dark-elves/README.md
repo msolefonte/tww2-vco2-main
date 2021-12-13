@@ -13,7 +13,7 @@
 	    Griffon Gate, Unicorn Gate, Phoenix Gate
 * **Route III:**
 	* Own 5 Black Arks
-	* Capture 25000 battle captives
+	* Capture 15000 battle captives
 
 ### Cult of Pleasure
 
@@ -43,7 +43,7 @@
 	    * Fiery Pits of Sacrifice, Slave Traders' Palaces, The Black Tower of Malekith, Vandalised Court of the 
 	    Everqueen, The Maelstrom (Raging), Sanctum of Quintex, Shrine of Widowmaker
 * **Route III:**
-    * Own 4 Gargantuan Black Arks
+    * Own 3 Gargantuan Black Arks
     * Own 40 Black Ark Corsairs
 
 ### Har Ganeth
@@ -55,7 +55,7 @@
 	    * Nagarythe, Avelorn
 	    * Ghrond, Cult of Pleasure
 * **Route III:**
-	* Construct 3 of the following special buildings:
+	* Construct the following special buildings:
 	    * Palace of Hellebron, Fiery Pits of Sacrifice, Shrine of Widowmaker, Vandalised Court of the Everqueen
 
 ### Hag Graef
