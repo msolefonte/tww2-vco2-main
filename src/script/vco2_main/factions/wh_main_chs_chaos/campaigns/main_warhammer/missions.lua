@@ -2,8 +2,8 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_short;
-			key wh_main_short_victory;
+			victory_type vco_victory_type_alternative_1;
+			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
@@ -11,7 +11,6 @@ local missions = {
 				{
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 50;
-					region wh_main_middenland_middenheim;
 				}
 
 				payload
@@ -24,7 +23,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_long;
+			victory_type vco_victory_type_alternative_2;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -32,7 +31,7 @@ local missions = {
 				objective
 				{
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
-					total 80;
+					total 4;
 					region wh2_main_isthmus_of_lustria_fallen_gates;
 					region wh_main_middenland_middenheim;
 					region wh2_main_eataine_shrine_of_asuryan;

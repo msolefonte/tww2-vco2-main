@@ -224,3 +224,5 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Bordeleaux: Three new routes introduced
         - Carcassone: Three new routes introduced
         - Chevaliers de Lyonesse: Three new routes introduced
+    - Warriors of Chaos:
+        - Warriors of Chaos: Two new routes introduced
