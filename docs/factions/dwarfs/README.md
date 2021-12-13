@@ -19,8 +19,8 @@
 * **Route III:**
 	* Destroy all close dangers:
 		* Bloody Spearz, Bonerattlaz, Creeping Death, Crooked Moon Mutinous Gits, Greenskins, 
-		  Red Eye, Red Fangs, Scabby Eye, Skull Crag, Teef Snatchaz, The Bloody Handz, Top Knotz, 
-		* Clan Ferrik, Clan Rictus, Clan Volkn, Clan Gritus
+		  Red Eye, Red Fangs, Scabby Eye, Skull Crag, Teef Snatchaz, The Bloody Handz, Top Knotz 
+		* Clan Ferrik, Clan Gritus, Clan Rictus, Clan Volkn
 
 ### Karak Kadrin
 
