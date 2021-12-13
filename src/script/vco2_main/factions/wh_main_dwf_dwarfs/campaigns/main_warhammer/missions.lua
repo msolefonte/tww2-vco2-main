@@ -32,7 +32,7 @@ local missions = {
                 objective
                 {
                     type CONTROL_N_REGIONS_INCLUDING;
-                    total 19;
+                    total 15;
                     override_text mission_text_text_wh_main_objective_override_dwarfs_unite;
 
                     region wh_main_the_silver_road_karaz_a_karak;
@@ -41,8 +41,10 @@ local missions = {
                     region wh_main_blood_river_valley_varenka_hills;
 
                     region wh_main_eastern_badlands_dringorackaz;
+
                     region wh_main_blightwater_kradtommen;
                     region wh_main_blightwater_misty_mountain;
+
                     region wh_main_desolation_of_nagash_karak_azul;
                     region wh_main_desolation_of_nagash_spitepeak;
 
@@ -80,6 +82,7 @@ local missions = {
 					faction wh_main_grn_bloody_spearz;
 					faction wh2_dlc15_grn_bonerattlaz;
                     faction wh2_dlc16_grn_creeping_death;
+                    faction wh_main_grn_necksnappers;
                     faction wh_main_grn_greenskins;
                     faction wh_main_grn_red_eye;
                     faction wh_main_grn_red_fangs;

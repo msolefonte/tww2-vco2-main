@@ -32,7 +32,7 @@
 * **Route II:**
     * Destroy factions
         * Wintertooth, World Walkers
-        * Goromadnawy Tribe, Naglfarlings, Skaeling, Varg
+        * Goromadny Tribe, Naglfarlings, Skaeling, Varg
 
 ### Clan Angrund
 

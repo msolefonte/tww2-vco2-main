@@ -205,3 +205,4 @@ all of them, two or just one. Up to you to decide what is funnier.
 occasions, now it will be viable to play tall/defensively, without any requisite related to paint the map. 
 - Complete rework for almost all factions: 
     - Karak-a-Karak: Three new routes introduced
+    - Karak Kadrin: Two new routes introduced
