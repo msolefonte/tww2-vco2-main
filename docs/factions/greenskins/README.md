@@ -33,7 +33,7 @@
 ### Crooked Moon
 
 * **Route I:**
-	* Take back control of Karak Eight Peaks
+	* Take control of Karak Eight Peaks
 * **Route II:**
     * Destroy factions:
 	    * Clan Angrund, Clan Mors, Crooked Moon Mutinous Gits

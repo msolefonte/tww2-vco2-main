@@ -33,6 +33,31 @@ local missions = {
             {
                 objective
                 {
+                    type DESTROY_FACTION;
+                    faction wh2_main_skv_clan_mors;
+
+                    faction wh_main_grn_necksnappers;
+					faction wh_main_grn_crooked_moon;
+                    confederation_valid;
+                }
+
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
+    ]]
+    [[
+ 		mission
+		{
+			victory_type vco_victory_type_alternative_3;
+			key wh_main_long_victory;
+			issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
+                {
                     type CONTROL_N_REGIONS_INCLUDING;
                     total 7;
                     override_text mission_text_text_wh_main_objective_override_dwarfs_reclaim;

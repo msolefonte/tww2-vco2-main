@@ -39,6 +39,10 @@
 * **Route I:**
 	* Take back control of Clan Angrund's ancestral home: Karak Eight Peaks
 * **Route II:**
+    * Destroy factions:
+	    * Clan Mors
+	    * Crooked Moon, Crooked Moon Mutinous Gits
+* **Route III:**
     * Recapture all of the fallen Dwarf holds
 	    * Karak Ungor, Mount Gunbad, Karak Drazh, Ekrund, Karak Azgal, Galbarazwaw
 

@@ -211,7 +211,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
     - Dwarfs:
         - Karak-a-Karak: Three new routes (Grudges/Unification (Dwarfholds)/Threat Elimination)
         - Karak Kadrin: Two new routes (Threat Elimination (Vampires)/Threat Elimination (Norsca))
-        - Clan Angrund: Two new routes (Conquest (Karak Eight Peaks)/Unification (Fallen Dwarfholds))
+        - Clan Angrund: Three new routes (Conquest (Karak Eight Peaks)/Threat Elimination/Conquest (Fallen Dwarfholds))
         - Ironbrow's Expedition: Two new routes (Artefacts forging/Unification (Dwarfholds))
     - Greenskins:
         - Grimgor's Argboyz: Two new routes (Unification (Greenskins)/Destruction)
@@ -243,6 +243,8 @@ occasions, now it will be viable to play tall/defensively, without any requisite
     - Norsca:
         - Wintertooth: Two new routes (Gods Favour/Conquest (World Capitals))
         - World Walkers: Two new routes (Threat Elimination/Gods Favour)
+        
+- TO BE DONE
     - High Elves:
         - Lothern: Three new routes (Unification (Ulthuan)/Threat Elimination/Commerce)
         - Order of Loremasters: Three new routes (Expansion/Threat Elimination/Edification)
@@ -258,10 +260,27 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Hag Graef: Two new routes (Threat Destruction/Chapter Objectives)
         - The Thousand Maws: Two new routes (Expansion (Naval)/Destruction)
     - Lizardmen:
-        -
+        - Hexoatl: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
+        - Last Defenders: Three new routes (Expansion/Threat Elimination/Edification)
+        - Tlagua: Two new routes (Expansion/Threat Elimination)
+        - Cult of Sotek: Three new routes (Untained (Lustria)/Threat Elimination/Battle Captives)
+        - Itza: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
+        - Spirit of the Jungle: Three new routes (Expansion/Destruction/Old Ones Favour)
+        - Ghosts of Pahuax: Three new routes (Visions of the Old Ones/Chapter Objectives/Destruction (Slaughterhorn))
     - Slaven:
-        -
+        - Clan Mors: Three new routes (Control (Karak Eight Peaks)/Threat Elimination/Edification)
+        - Clan Pestilens: Two new routes (Corruption (Lustria)/Threat Elimination) 
+        - Clan Rictus: Three new routes (Corruption/Threat Destruction/Edification)
+        - Clan Skryre: Three new routes (Forbidden Workshop/Destruction/Corruption)
+        - Clan Eshin: Three new routes (Reputation/Rituals/Destruction)
     - Tomb Kings:
-        -
+        - Khemri: Three new routes (Edification/Destruction (Nagash)/Expansion)
+        - Court of Lybaras: Three new routes (Threat Elimination/Expansion/Conquest (Black Pyramid of Nagash))
+        - Exiles of Nehek: Three new routes (Threat Elimination/Commerce/Crafting Rituals)
+        - Followers of Nagash: Three new routes (Destruction (Khemri)/Edification/Conquest (Black Pyramid of Nagash))
     - Vampire Coast:
-        -
+        - The Awakened: Three new routes (Repair Harkon's mind/Expansion (Ports)/Infamy)
+        - The Dreadfleet: Three new routes (Destruction (Vampire Coast)/Edification/Infamy)
+        - Pirates of Sartosa: Three new routes (Infamy/Battle Captives/Edification)
+        - The Drowned: Three new routes (Conquest (Ulthuan Ports)/Edification/Infamy)
+- A lot of bugfixes
