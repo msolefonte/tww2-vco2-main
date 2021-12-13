@@ -206,3 +206,4 @@ occasions, now it will be viable to play tall/defensively, without any requisite
 - Complete rework for almost all factions: 
     - Karak-a-Karak: Three new routes introduced
     - Karak Kadrin: Two new routes introduced
+    - Clan Angrund: Two new routes introduced
