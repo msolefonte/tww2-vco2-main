@@ -219,6 +219,10 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - The Bloody Handz: Three new routes introduced
         - Crooked Moon: Two new routes introduced
         - Broken Axe: Three new routes introduced
+    - Vampire Counts:
+        - Sylvania: Two new routes introduced
+        - The Barrow Legion: Two new routes introduced
+        - Von Carstein: Three new routes introduced
     - Bretonnia:
         - Couronne: Three new routes introduced
         - Bordeleaux: Three new routes introduced
