@@ -2,57 +2,50 @@
 
 ### Couronne
 
-* **Short Victory Conditions**:
-	* Attain 800 Chivalry
+* **Route 1:**
 	* Conquer provinces:
-	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon, The Thousand Maws
+	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon
+* **Route 2:**
 	* Destroy factions: 
-	    * Mousillon, The Barrow Legion, World Walkers, Wintertooth, Vanaheimlings
-* **Ultimate Victory Conditions**:
-	* Attain 1600 Chivalry
-	* Conquer provinces:
-	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon, The Thousand Maws
-	* Destroy factions: 
-	    * Mousillon, Sylvannia, The Barrow Legion, Von Carstein, World Walkers, Wintertooth, Vanaheimlings
+	    * Mousillon, The Barrow Legion
+	    * Vanaheimlings, Wintertooth, World Walkers
+	    * The Thousand Maws
+* **Route 3:**
 	* Complete the final Errantry War battle
-    * Defeat the Chaos Invasion
 
 ### Bordeleaux
 
-* **Short Victory Conditions**:
-	* Attain 800 Chivalry
-	* Destroy factions:
-	    * Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, The Thousand Maws, All Pirate Rogue Armies, 
-* **Ultimate Victory Conditions**:
-	* Attain 1600 Chivalry
-	* Destroy factions:
-	    * Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, The Thousand Maws, The Blessed Dread, 
-	    All Pirate Rogue Armies
+* **Route 1:**
+    * Destroy factions:
+        * Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned
+        * The Blessed Dread, The Thousand Maws
+* **Route 2:**
+	* Obtain access to the following resources:
+	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Textiles, Lead, Spices, Timber, Wine
+* **Route 3:**
 	* Complete the final Errantry War battle
-    * Defeat the Chaos Invasion
 
 ### Carcossone
 
-* **Short Victory Conditions**:
-	* Attain 800 Chivalry
-    * Get a level 20 damsel
-	* Destroy factions:
-	    - Clan Skryre, Clan Spittel, Skullmasherz, Crooked Moon, Mousillon, The Barrow Legion
-* **Ultimate Victory Conditions**:
-	* Attain 1600 Chivalry
-	* Get 3 level 20 damsels
-	* Destroy factions:
-	    - Clan Skryre, Clan Spittel, Crooked Moon, The Blooding Hand, Greenskins, Skullmasherz, Mousillon, The Barrow 
-	    Legion
+* **Route 1:**
+    * Destroy factions:
+        * Clan Skryre, Clan Spittel
+        * Crooked Moon, Skullmasherz
+        * Mousillon, The Barrow Legion
+* **Route 2:**
+    * Destroy factions:
+        * Argwylon, Talsyn, Torgovann, Wydrioth
+* **Route 3:**
 	* Complete the final Errantry War battle
-    * Defeat the Chaos Invasion
 
 ### Chevaliers de Lyonesse
 
-* **Ultimate Victory Conditions**:
-	* Attain 1600 Chivalry
+* **Route 1:**
 	* Destroy factions:
-	    * Dune Kingdoms, Followers of Nagash, Khemri, Numas, Rakaph Dynasty, The Sentinels, Necrarch Brotherhood
+	    * Dune Kingdoms, Followers of Nagash, Khemri, Numas, Rakaph Dynasty, The Sentinels
+	    * Necrarch Brotherhood
+* **Route 2:**
 	* Conquer provinces:
 	    * Coast of Araby, Great Desert of Araby, Southern Desert of Araby
+* **Route 3:**
 	* Complete the final Errantry War battle

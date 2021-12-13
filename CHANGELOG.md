@@ -211,3 +211,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
     - Reikland: Two new routes introduced
     - The Golden Order: Three new routes introduced
     - The Huntsmarshal's Expedition: Three new routes introduced
+    - Couronne: Three new routes introduced
+    - Bordeleaux: Three new routes introduced
+    - Carcassone: Three new routes introduced
+    - Chevaliers de Lyonesse: Three new routes introduced 
