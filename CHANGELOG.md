@@ -208,3 +208,6 @@ occasions, now it will be viable to play tall/defensively, without any requisite
     - Karak Kadrin: Two new routes introduced
     - Clan Angrund: Two new routes introduced
     - Ironbrow's Expedition: Two new routes introduced
+    - Reikland: Two new routes introduced
+    - The Golden Order: Three new routes introduced
+    - The Huntsmarshal's Expedition: Three new routes introduced
