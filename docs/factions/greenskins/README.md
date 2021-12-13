@@ -12,9 +12,9 @@
 ### Bonerattlaz
 
 * **Route I:**
-	* Destroy Ostermark, Kislev and Karak Kadrin
+	* Destroy Oastland, Ostermark, Kislev and Karak Kadrin
 * **Route II:**
-	* Occupy/loot/raze/sack 35 settlements
+	* Occupy/loot/raze/sack 25 settlements
 
 ### The Bloody Handz
 

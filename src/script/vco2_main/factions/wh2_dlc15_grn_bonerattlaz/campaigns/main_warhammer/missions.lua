@@ -11,6 +11,7 @@ local missions = {
 				{
 					type DESTROY_FACTION;
 
+                    faction wh_main_emp_ostland;
 					faction wh_main_emp_ostermark;
 
 					faction wh_main_ksl_kislev;
@@ -38,7 +39,7 @@ local missions = {
 				objective
 				{
 					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
-					total 35;
+					total 25;
 				}
 
 				payload
