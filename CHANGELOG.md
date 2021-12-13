@@ -195,7 +195,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Less focused on individual factions / Spending all time in Norsca
     - More focused on travelling around the world and completing Visions of the Old Ones
 
-## [2.7.0] The Routes Rework update - TBA
+## [3.0.0] The Routes Rework update - TBA
 
 - Introduced new feature _Routes_. Now, instead of having evolving campaigns with _Short_, _Long_ and _Ultimate_ 
 checkpoints, you can choose completely different ways to approach your campaign. For example, as Dwarfs, you can now win 
@@ -203,15 +203,24 @@ by destroying the close dangers, unifying all the old world dwarfholds or cleari
 all of them, two or just one. Up to you to decide what is funnier.
 - New introduced _Routes_ have been developed with the intent of offering different ways to enjoy the game: In a lot of
 occasions, now it will be viable to play tall/defensively, without any requisite related to paint the map. 
-- Complete rework for almost all factions: 
-    - Karak-a-Karak: Three new routes introduced
-    - Karak Kadrin: Two new routes introduced
-    - Clan Angrund: Two new routes introduced
-    - Ironbrow's Expedition: Two new routes introduced
-    - Reikland: Two new routes introduced
-    - The Golden Order: Three new routes introduced
-    - The Huntsmarshal's Expedition: Three new routes introduced
-    - Couronne: Three new routes introduced
-    - Bordeleaux: Three new routes introduced
-    - Carcassone: Three new routes introduced
-    - Chevaliers de Lyonesse: Three new routes introduced 
+- Complete rework for almost all factions:
+    - Empire:
+        - Reikland: Two new routes introduced
+        - The Golden Order: Three new routes introduced
+        - The Huntsmarshal's Expedition: Three new routes introduced
+    - Dwarfs:
+        - Karak-a-Karak: Three new routes introduced
+        - Karak Kadrin: Two new routes introduced
+        - Clan Angrund: Two new routes introduced
+        - Ironbrow's Expedition: Two new routes introduced
+    - Greenskins:
+        - Grimgor's Argboyz: Two new routes introduced
+        - Bonerattlaz: Two new routes introduced
+        - The Bloody Handz: Three new routes introduced
+        - Crooked Moon: Two new routes introduced
+        - Broken Axe: Three new routes introduced
+    - Bretonnia:
+        - Couronne: Three new routes introduced
+        - Bordeleaux: Three new routes introduced
+        - Carcassone: Three new routes introduced
+        - Chevaliers de Lyonesse: Three new routes introduced
