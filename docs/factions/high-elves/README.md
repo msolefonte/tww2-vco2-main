@@ -19,7 +19,6 @@
 	* Destroy factions:
 	    * Followers of Nagash, The Awakened, The Blessed Dread, The Blessed Dread, Clan Pestilens
 * **Route III:**
-	* Control the Saphery province
 	* Build the White Tower of Hoeth
 	* Build 3 Tower of Mages
 
@@ -43,7 +42,7 @@
 	    * Har Ganeth, Scourge of Khaine
 	    * Winterthoot, World Walkers
 * **Route III:**
-	* Build the Avelorn Landmark
+	* Build the Everqueen Court
 
 ### Knights of Caledor
 
@@ -54,7 +53,7 @@
 	* Control provinces:
 	    * Caledor, Dragon Isles, Gnoblar Country, Plain of Bones, The Wolf Lands 
 * **Route III:**
-	* Build the Purified Graves of the Dragons, a Dragon Keep, and the Hall of Dragons
+	* Build the Purified Graves of the Dragons, a Dragon Keep and the Hall of Dragons
 
 ### Yvresse
 
@@ -65,4 +64,4 @@
 	    * Yvresse, Cothique, Chrace, Southern Badlands, Western Badlands
 * **Route III:**
 	* Destroy factions
-	    * Broken Axe, Naggarond, Greenskins,The Bloody Handz
+	    * Broken Axe, Greenskins, The Bloody Handz
