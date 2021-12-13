@@ -75,24 +75,40 @@ local missions = {
 					event_category Chaos_Map_Hard;
 					total 50;
 				}
+<<<<<<< HEAD
+=======
+
+>>>>>>> c403788c7d3c02d6ff8fcdb177888b6448e76dd8
 				objective
 				{
 					type COMPLETE_N_MISSIONS_OF_CATEGORY;
 					total 5;
 					event_category Objective;
 				}
+<<<<<<< HEAD
+=======
+
+>>>>>>> c403788c7d3c02d6ff8fcdb177888b6448e76dd8
 				objective
 				{
 					type DESTROY_FACTION;
 					faction wh2_dlc17_bst_taurox;
 					confederation_valid;
 				}
+<<<<<<< HEAD
+=======
+
+>>>>>>> c403788c7d3c02d6ff8fcdb177888b6448e76dd8
 				objective
 				{
 					type OWN_N_REGIONS_INCLUDING;
 					total 1;
 					region wh2_main_southern_jungle_of_pahualaxa_pahuax;
 				}
+<<<<<<< HEAD
+=======
+
+>>>>>>> c403788c7d3c02d6ff8fcdb177888b6448e76dd8
 				objective
 				{
 					type LIMIT_FACTION_TO_REGIONS;
@@ -106,6 +122,10 @@ local missions = {
                     type SCRIPTED;
                     script_key archaon_spawned;
                 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> c403788c7d3c02d6ff8fcdb177888b6448e76dd8
 				objective
 				{
 					type HAVE_CHARACTER_WOUNDED;

@@ -176,7 +176,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed a bug where Followers of Nagash had to create non-existent buildings 
 - Special thanks to **BoyNamedHsu** for his help with this release
 
-## [2.6.0] The Wolf and The Goats update - TBA
+## [2.6.0] The Wolf and The Goats update - 19.07.2021
 
 - Introduction to a new approach to victory conditions, only affecting some factions by now:
     - Short Victories are now meant to be SHORT. Under 50 turns short
@@ -194,3 +194,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New victory conditions for Ghosts of Pahuax (Oxyotl)
     - Less focused on individual factions / Spending all time in Norsca
     - More focused on travelling around the world and completing Visions of the Old Ones
+
+## [2.7.0] The Routes Rework update - TBA
