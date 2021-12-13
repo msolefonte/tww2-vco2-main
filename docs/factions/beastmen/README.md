@@ -2,6 +2,10 @@
 
 ### Warherd of the One-Eye (Khazrak the One-Eye)
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
     * At the start of your turn, have at least 100 Marks of Ruination
 	* Raze or Conquer the following settlements:
@@ -25,6 +29,10 @@
 
 ### Harbinger of Disaster (Malagor the Dark Omen)
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
     * Raze or Conquer the following settlements:
 	    * Ekrund
@@ -42,10 +50,12 @@
         * Scabby Eye / Teef Snatchaz / The Bloody Handz / Top Knotz / Strygos Empire / Khemri / Numas / Rakaph Dynasty / 
         The Sentinels
 	* Recruit at least 6 Bray-Shamans
-    
-* **Ultimate Victory Conditions**:
 
 ### Warherd of the Shadowgave (Morghur the Corruptor)
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
     * Raze or Sack 20 settlements including:
@@ -59,6 +69,10 @@
         Gaean Vale
 
 ### Slaughterhorn Tribe (Taurox the Brass Bull)
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
     * At the start of your turn, have at least 100 Marks of Ruination

@@ -2,6 +2,10 @@
 
 ### Talsyn
 
+* **Route I:**
+* **Route II:**
+* **Route III:**
+
 * **Short Victory Conditions**:
     * Control Athel Loren
     * Athel Loren has to be at least 80% untainted
@@ -21,6 +25,10 @@
     * Own at least 10 sisters of the thorn and/or wild riders (shielded/unshielded)
 
 ### Argwylon
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
     * Control Athel Loren
@@ -45,7 +53,17 @@
     * Own at least 80 units
     * Own at least 16 tree units
     
+### Heralds of Ariel
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
+    
 ### Wargrove of Woe
+
+* **Route I:**
+* **Route II:**
+* **Route III:**
 
 * **Short Victory Conditions**:
     * Control Athel Loren

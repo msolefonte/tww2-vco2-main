@@ -230,3 +230,6 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Chevaliers de Lyonesse: Three new routes introduced
     - Warriors of Chaos:
         - Warriors of Chaos: Two new routes introduced
+    - Norsca:
+        - Wintertooth: Two new routes introduced
+        - World Walkers: Two new routes introduced
