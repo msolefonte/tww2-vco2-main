@@ -230,6 +230,11 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Chevaliers de Lyonesse: Three new routes introduced
     - Warriors of Chaos:
         - Warriors of Chaos: Two new routes introduced
+    - Beastmen:
+        - Warherd of the One-Eye: Three new routes introduced
+        - Harbinger of Disaster: Two new routes introduced
+        - Warherd of the Shadowgave: Two new routes introduced
+        - Slaughterhorn Tribe: Three new routes introduced
     - Norsca:
         - Wintertooth: Two new routes introduced
         - World Walkers: Two new routes introduced
