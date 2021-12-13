@@ -235,6 +235,11 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Harbinger of Disaster: Two new routes introduced
         - Warherd of the Shadowgave: Two new routes introduced
         - Slaughterhorn Tribe: Three new routes introduced
+    - Wood Elves:
+        - Talsyn: Three new routes introduced
+        - Argwylon: Three new routes introduced
+        - Heralds of Ariel: Three new routes introduced
+        - Wargrove of Woe: Three new routes introduced
     - Norsca:
         - Wintertooth: Two new routes introduced
         - World Walkers: Two new routes introduced

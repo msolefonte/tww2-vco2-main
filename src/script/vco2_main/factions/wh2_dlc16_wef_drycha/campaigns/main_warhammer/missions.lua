@@ -2,8 +2,8 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_short;
-			key wh_main_short_victory;
+			victory_type vco_victory_type_alternative_1;
+			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
@@ -11,33 +11,20 @@ local missions = {
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
 					total 5;
+
 					province wh_main_argwylon;
 					province wh_main_talsyn;
 					province wh_main_torgovann;
 					province wh_main_wydrioth;
 					province wh_main_yn_edri_eternos;
 				}
-				objective
-				{
-                    type DESTROY_FACTION;
-                    faction wh_dlc05_wef_wood_elves;
-                    faction wh_dlc05_wef_argwylon;
-                    faction wh_dlc05_wef_torgovann;
-                    faction wh_dlc05_wef_wydrioth;
 
-					confederation_valid;
-				}
 				objective
-				{
-					type FIGHT_SET_PIECE_BATTLE;
-					set_piece_battle wh_dlc05_qb_wef_grand_defense_of_the_oak;
-				}
-				objective
-				{
-					type PERFORM_RITUAL;
-					ritual_category WORLDROOTS_HEALING;
-					total 3;
-				}
+                {
+					override_text mission_text_text_mis_activity_athel_healed;
+                    type SCRIPTED;
+                    script_key athel_healed;
+                }
 
 				payload
 				{
@@ -49,24 +36,15 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_long;
+			victory_type vco_victory_type_alternative_2;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
                 objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 5;
-					province wh_main_argwylon;
-					province wh_main_talsyn;
-					province wh_main_torgovann;
-					province wh_main_wydrioth;
-					province wh_main_yn_edri_eternos;
-				}
-				objective
-				{
                     type DESTROY_FACTION;
+
                     faction wh_dlc05_wef_wood_elves;
                     faction wh_dlc05_wef_argwylon;
                     faction wh_dlc05_wef_torgovann;
@@ -79,22 +57,26 @@ local missions = {
 
 					confederation_valid;
 				}
+
+				payload
+				{
+					game_victory;
+				}
+			}
+        }
+    ]],
+    [[
+ 		mission
+		{
+			victory_type vco_victory_type_alternative_3;
+			key wh_main_long_victory;
+			issuer CLAN_ELDERS;
+			primary_objectives_and_payload
+			{
 				objective
 				{
 					type FIGHT_SET_PIECE_BATTLE;
 					set_piece_battle wh_dlc05_qb_wef_grand_defense_of_the_oak;
-				}
-				objective
-                {
-					override_text mission_text_text_mis_activity_athel_healed;
-                    type SCRIPTED;
-                    script_key athel_healed;
-                }
-				objective
-				{
-					type PERFORM_RITUAL;
-					ritual_category WORLDROOTS_HEALING;
-					total 5;
 				}
 
 				payload
@@ -102,7 +84,7 @@ local missions = {
 					game_victory;
 				}
 			}
-		}
+        }
     ]]
 };
 

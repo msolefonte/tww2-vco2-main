@@ -9,28 +9,10 @@ local missions = {
 			{
                 objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 5;
-
-					province wh_main_argwylon;
-					province wh_main_talsyn;
-					province wh_main_torgovann;
-					province wh_main_wydrioth;
-					province wh_main_yn_edri_eternos;
-				}
-
-				objective
-				{
-					type AT_LEAST_X_RELIGION_IN_PROVINCES;
-
-					province wh_main_argwylon;
-					province wh_main_talsyn;
-					province wh_main_torgovann;
-					province wh_main_wydrioth;
-					province wh_main_yn_edri_eternos;
-
-					total 80;
-					religion wh_main_religion_untainted;
+					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
+					pooled_resource wef_worldroots_athel_loren;
+					total 500;
+					additive;
 				}
 
 				payload
@@ -50,6 +32,7 @@ local missions = {
 			{
                 objective
 				{
+					override_text mission_text_text_mis_activity_ritual_rebirth_me;
 					type PERFORM_RITUAL;
 					ritual_category WORLDROOTS_HEALING;
 					total 5;
