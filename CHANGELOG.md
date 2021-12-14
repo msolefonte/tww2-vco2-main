@@ -250,8 +250,6 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Averlon: Three new routes (Unification (Ulthuan)/Threat Elimination (Norsca Targeted)/Edification)
         - Knights of Caledor: Three new routes (Control Legendary Dragons/Expansion/Edification)
         - Yvresse: Three new routes (Defence Level/Expansion/Threat Elimination)
-        
-- TO BE DONE
     - Dark Elves:
         - Naggarond: Three new routes (Unification (Naggaroth)/Conquest (Ulthuan)/Naval Supremacy)
         - Cult of Pleasure: Three new routes (Threat Elimination/Conquest (Ulthuan)/Edification)
@@ -267,6 +265,8 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Itza: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
         - Spirit of the Jungle: Three new routes (Expansion/Destruction/Old Ones Favour)
         - Ghosts of Pahuax: Three new routes (Visions of the Old Ones/Chapter Objectives/Destruction (Slaughterhorn))
+        
+- TO BE DONE
     - Slaven:
         - Clan Mors: Three new routes (Control (Karak Eight Peaks)/Threat Elimination/Edification)
         - Clan Pestilens: Two new routes (Corruption (Lustria)/Threat Elimination) 

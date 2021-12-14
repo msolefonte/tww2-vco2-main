@@ -1,6 +1,6 @@
 
     [[
-         mission
+        mission
         {
             victory_type vco_victory_type_alternative_1;
             key wh_main_long_victory;
@@ -19,7 +19,7 @@
         }
     ]],
     [[
-         mission
+        mission
         {
             victory_type vco_victory_type_alternative_2;
             key wh_main_long_victory;
@@ -38,7 +38,7 @@
         }
     ]],
     [[
-         mission
+        mission
         {
             victory_type vco_victory_type_alternative_3;
             key wh_main_long_victory;
