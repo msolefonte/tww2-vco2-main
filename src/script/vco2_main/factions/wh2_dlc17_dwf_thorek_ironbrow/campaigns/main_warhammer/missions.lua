@@ -7,6 +7,7 @@ local missions = {
 			issuer CLAN_ELDERS;
             primary_objectives_and_payload
             {
+                objective
 				{
 					type SCRIPTED;
 					script_key artefacts_crafted_victory_objective_me_1;
@@ -28,7 +29,6 @@ local missions = {
 			issuer CLAN_ELDERS;
             primary_objectives_and_payload
             {
-
                 objective
                 {
                     type CONTROL_N_REGIONS_INCLUDING;

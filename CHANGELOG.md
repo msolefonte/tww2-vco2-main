@@ -282,3 +282,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Pirates of Sartosa: Three new routes (Infamy/Battle Captives/Edification)
         - The Drowned: Three new routes (Conquest (Ulthuan Ports)/Edification/Infamy)
 - A lot of bugfixes
+
+## [3.0.1] Minor Update - TBA
+
+- Fixed a bug that prevented Ironbow's Expedition Route I from loading
