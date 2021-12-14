@@ -195,7 +195,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Less focused on individual factions / Spending all time in Norsca
     - More focused on travelling around the world and completing Visions of the Old Ones
 
-## [3.0.0] The Routes Rework update - TBA
+## [3.0.0] The Routes Rework update - 14.12.2021
 
 - Introduced new feature _Routes_. Now, instead of having evolving campaigns with _Short_, _Long_ and _Ultimate_ 
 checkpoints, you can choose completely different ways to approach your campaign. For example, as Dwarfs, you can now win 
@@ -265,8 +265,6 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Itza: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
         - Spirit of the Jungle: Three new routes (Expansion/Destruction/Old Ones Favour)
         - Ghosts of Pahuax: Three new routes (Visions of the Old Ones/Chapter Objectives/Destruction (Slaughterhorn))
-        
-- TO BE DONE
     - Slaven:
         - Clan Mors: Three new routes (Control (Karak Eight Peaks)/Threat Elimination/Edification)
         - Clan Pestilens: Two new routes (Corruption (Lustria)/Threat Elimination) 
