@@ -1,73 +1,40 @@
 local missions = {
     [[
- 		mission
-		{
-			victory_type vco_victory_type_short;
-			key wh_main_short_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-
-				objective
+        mission
+        {
+            victory_type vco_victory_type_alternative_1;
+            key wh_main_long_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
 				{
 					type DESTROY_FACTION;
+
 					faction wh2_main_def_bleak_holds;
 					faction wh2_main_def_clar_karond;
 					faction wh2_main_def_cult_of_pleasure;
 					faction wh2_main_def_ssildra_tor;
+
 					confederation_valid;
 				}
-				objective
-				{
-					type HAVE_RESOURCES;
-					resource res_obsidian;
-					resource res_animals;
-					resource res_rom_furs;
-					resource res_rom_iron;
-					resource res_rom_marble;
-					resource res_rom_lead;
-					resource res_rom_timber;
-				}
-				objective
-				{
-					type PERFORM_RITUAL;
-					ritual_category CRAFTING_RITUAL;
-					total 10;
-				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_dlc09_tmb_exiles_of_nehek;
-					total 1;
-					building_level wh2_dlc09_tmb_port_2;
-					building_level wh2_dlc09_tmb_port_3;
-				}
 
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
     ]],
     [[
- 		mission
-		{
-			victory_type vco_victory_type_long;
-			key wh_main_long_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_def_bleak_holds;
-					faction wh2_main_def_clar_karond;
-					faction wh2_main_def_cult_of_pleasure;
-					faction wh2_main_def_ssildra_tor;
-					confederation_valid;
-				}
-				objective
+        mission
+        {
+            victory_type vco_victory_type_alternative_2;
+            key wh_main_long_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
 				{
 					type HAVE_RESOURCES;
 					resource res_obsidian;
@@ -85,33 +52,35 @@ local missions = {
 					resource res_rom_timber;
 					resource res_rom_wine;
 				}
-				objective
+
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
+    ]],
+    [[
+        mission
+        {
+            victory_type vco_victory_type_alternative_3;
+            key wh_main_long_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
 				{
 					type PERFORM_RITUAL;
 					ritual_category CRAFTING_RITUAL;
 					total 20;
 				}
-				objective
-				{
-					type OWN_N_REGIONS_INCLUDING;
-					total 1;
-					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
-				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_FROM;
-					faction wh2_dlc09_tmb_exiles_of_nehek;
-					total 3;
-					building_level wh2_dlc09_tmb_port_2;
-					building_level wh2_dlc09_tmb_port_3;
-				}
 
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
     ]]
 };
 
