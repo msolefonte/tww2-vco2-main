@@ -1,65 +1,41 @@
 local missions = {
     [[
- 		mission
-		{
-			victory_type vco_victory_type_short;
-			key wh_main_short_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
+        mission
+        {
+            victory_type vco_victory_type_alternative_1;
+            key wh_main_long_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
 				{
 					type DESTROY_FACTION;
+
 					faction wh2_main_hef_nagarythe;
 
 					faction wh2_dlc09_tmb_exiles_of_nehek;
 
 					faction wh2_dlc09_skv_clan_rictus;
+
 					confederation_valid;
 				}
-				objective
-				{
-					type CONSTRUCT_N_BUILDINGS_INCLUDING;
-					faction wh2_main_def_cult_of_pleasure;
-					total 1;
-					building_level wh2_main_special_quintex_2;
-				}
-				objective
-				{
-					type CONSTRUCT_N_OF_A_BUILDING;
-					faction wh2_main_def_cult_of_pleasure;
-					total 4;
-					building_level wh2_main_def_pleasure_cult_5;
-				}
-				objective
-				{
-					type ACHIEVE_CHARACTER_RANK;
-					total 1;
-					total2 20;
-					agent wizard;
-				}
-				objective
-				{
-					type CAPTURE_X_BATTLE_CAPTIVES;
-					total 10000;
-				}
 
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
     ]],
     [[
- 		mission
-		{
-			victory_type vco_victory_type_long;
-			key wh_main_long_victory;
-			issuer CLAN_ELDERS;
-			primary_objectives_and_payload
-			{
-				objective
+        mission
+        {
+            victory_type vco_victory_type_alternative_2;
+            key wh_main_long_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
 					total 14;
@@ -79,57 +55,47 @@ local missions = {
 					province wh2_main_unicorn_gate;
 					province wh2_main_phoenix_gate;
 				}
-				objective
+
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
+    ]],
+    [[
+        mission
+        {
+            victory_type vco_victory_type_alternative_3;
+            key wh_main_long_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
 				{
 					type CONSTRUCT_N_BUILDINGS_INCLUDING;
 					faction wh2_main_def_cult_of_pleasure;
 					total 2;
+
 					building_level wh2_main_special_quintex_2;
 					building_level wh2_main_special_ghrond_convent_of_sorcery_2;
 				}
+
 				objective
 				{
 					type CONSTRUCT_N_OF_A_BUILDING;
 					faction wh2_main_def_cult_of_pleasure;
 					total 7;
+
 					building_level wh2_main_def_pleasure_cult_5;
 				}
-				objective
-				{
-					type DESTROY_FACTION;
-					faction wh2_main_hef_nagarythe;
-					faction wh2_main_hef_avelorn;
-					faction wh2_main_hef_eataine;
-					faction wh2_main_def_har_ganeth;
 
-					faction wh2_dlc09_tmb_exiles_of_nehek;
-
-					faction wh2_dlc09_skv_clan_rictus;
-
-					faction wh2_main_lzd_hexoatl;
-
-					faction wh2_dlc11_cst_the_drowned;
-					confederation_valid;
-				}
-				objective
-				{
-					type ACHIEVE_CHARACTER_RANK;
-					total 3;
-					total2 20;
-					agent wizard;
-				}
-				objective
-				{
-					type CAPTURE_X_BATTLE_CAPTIVES;
-					total 25000;
-				}
-
-				payload
-				{
-					game_victory;
-				}
-			}
-		}
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
     ]]
 };
 

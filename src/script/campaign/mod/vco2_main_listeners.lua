@@ -17,20 +17,6 @@ function vco_add_beastmen_final_battle_listener()
 	end;
 end;
 
-function vco_check_bretonnia_chivalry(faction)
-    local chivalry_amount = faction:total_food();
-
-    if chivalry_amount >= 800 then
-        cm:complete_scripted_mission_objective("wh_main_short_victory", "attain_chivalry_800", true);
-        cm:complete_scripted_mission_objective("wh_main_long_victory", "attain_chivalry_800", true);
-    end
-
-    if chivalry_amount >= 1600 then
-        cm:complete_scripted_mission_objective("wh_main_short_victory", "attain_chivalry_1600", true);
-        cm:complete_scripted_mission_objective("wh_main_long_victory", "attain_chivalry_1600", true);
-    end
-end
-
 function vco_check_skaven_clan_eshin_clans_reputation(faction)
     local contract_clans = {"mors", "moulder", "pestilens", "skyre"}
     local vco_clan_reputation_requirement = 78;
@@ -50,10 +36,10 @@ function vco_check_skaven_clan_eshin_clans_reputation(faction)
     end
 
     if clans_matching_requisites >= 1 then
-        cm:complete_scripted_mission_objective("wh_main_short_victory", "attain_clan_reputation_1", true);
-        cm:complete_scripted_mission_objective("wh_main_long_victory", "attain_clan_reputation_1", true);
-        cm:set_scripted_mission_text("wh_main_short_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_1");
-        cm:set_scripted_mission_text("wh_main_long_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_1");
+        -- cm:complete_scripted_mission_objective("wh_main_short_victory", "attain_clan_reputation_1", true);
+        -- cm:complete_scripted_mission_objective("wh_main_long_victory", "attain_clan_reputation_1", true);
+        -- cm:set_scripted_mission_text("wh_main_short_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_1");
+        -- cm:set_scripted_mission_text("wh_main_long_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_1");
         cm:set_scripted_mission_text("wh_main_short_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_2_1");
         cm:set_scripted_mission_text("wh_main_long_victory", "attain_clan_reputation_1", "mission_text_text_vco2_attain_clan_reputation_2_1");
     end
@@ -68,17 +54,17 @@ end
 
 function vco_check_skaven_clan_skyre_workshop()
     if current_workshop_lvl >= 2 then
-        cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
-        cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
+        -- cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
+        -- cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3_2");
         cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_2");
         cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_2");
     end
 
     if current_workshop_lvl >= 3 then
-        cm:complete_scripted_mission_objective("wh_main_short_victory", "get_forbidden_workshop_level_3", true);
-        cm:complete_scripted_mission_objective("wh_main_long_victory", "get_forbidden_workshop_level_3", true);
-        cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3");
-        cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3");
+        -- cm:complete_scripted_mission_objective("wh_main_short_victory", "get_forbidden_workshop_level_3", true);
+        -- cm:complete_scripted_mission_objective("wh_main_long_victory", "get_forbidden_workshop_level_3", true);
+        -- cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3");
+        -- cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_3", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_3");
         cm:set_scripted_mission_text("wh_main_short_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_3");
         cm:set_scripted_mission_text("wh_main_long_victory", "get_forbidden_workshop_level_4", "mission_text_text_vco2_main_clan_skyre_workshop_lvl_4_3");
     end
@@ -114,28 +100,6 @@ function add_listeners()
                 end
             end,
             false
-        );
-
-        out("#### Adding Bretonnia Victory Conditions Overhaul Listeners ####");
-        core:add_listener(
-            "vco_bretonnia_faction_turn_start",
-            "FactionTurnStart",
-            function(context)
-                return context:faction():culture() == "wh_main_brt_bretonnia" and context:faction():name() == local_faction end,
-            function(context)
-                vco_check_bretonnia_chivalry(context:faction());
-            end,
-            true
-        );
-        core:add_listener(
-            "vco_bretonnia_faction_turn_end",
-            "FactionTurnEnd",
-            function(context)
-                return context:faction():culture() == "wh_main_brt_bretonnia" and context:faction():name() == local_faction end,
-            function(context)
-                vco_check_bretonnia_chivalry(context:faction());
-            end,
-            true
         );
 
         out("#### Adding Skaven Victory Conditions Overhaul Listeners ####");

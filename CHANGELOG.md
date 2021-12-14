@@ -194,3 +194,91 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New victory conditions for Ghosts of Pahuax (Oxyotl)
     - Less focused on individual factions / Spending all time in Norsca
     - More focused on travelling around the world and completing Visions of the Old Ones
+
+## [3.0.0] The Routes Rework update - 14.12.2021
+
+- Introduced new feature _Routes_. Now, instead of having evolving campaigns with _Short_, _Long_ and _Ultimate_ 
+checkpoints, you can choose completely different ways to approach your campaign. For example, as Dwarfs, you can now win 
+by destroying the close threats, unifying all the old world dwarfholds or clearing the book of grudges. You can complete 
+all of them, two or just one. Up to you to decide what is funnier.
+- New introduced _Routes_ have been developed with the intent of offering different ways to enjoy the game: In a lot of
+occasions, now it will be viable to play tall/defensively, without any requisite related to paint the map. 
+- Complete rework for all old-word factions:
+    - Empire:
+        - Reikland: Two new routes (Unification (Empire)/Threat Elimination)
+        - The Golden Order: Three new routes (Edificiation/Threat Elimination (Vampires)/Threat Elimination (South))
+        - The Huntsmarshal's Expedition: Three new routes (Acclaim/Conquest (Lustria)/Threat Elimination)
+    - Dwarfs:
+        - Karak-a-Karak: Three new routes (Grudges/Unification (Dwarfholds)/Threat Elimination)
+        - Karak Kadrin: Two new routes (Threat Elimination (Vampires)/Threat Elimination (Norsca))
+        - Clan Angrund: Three new routes (Conquest (Karak Eight Peaks)/Threat Elimination/Conquest (Fallen Dwarfholds))
+        - Ironbrow's Expedition: Two new routes (Artefacts forging/Unification (Dwarfholds))
+    - Greenskins:
+        - Grimgor's Argboyz: Two new routes (Unification (Greenskins)/Destruction)
+        - Bonerattlaz: Two new routes (Threat Elimination/Destruction)
+        - The Bloody Handz: Three new routes (Unification (Badlands)/Looting (Lore-based)/Magical Areas Control)
+        - Crooked Moon: Two new routes (Conquest (Karak Eight Peaks)/Threat Destruction)
+        - Broken Axe: Three new routes (Chapter Objectives/Looting (Lore-based)/Raiding)
+    - Vampire Counts:
+        - Sylvania: Two new routes (Expansion/Edification)
+        - Von Carstein: Two new routes (Conquest (Empire + Sylvania)/Edification)
+        - The Barrow Legion: Three new routes (Corruption (Bretonnia)/Corruption (Athel Loren)/Magical Areas Control)
+    - Bretonnia:
+        - Couronne: Three new routes (Unification (Bretonnia)/Threat Elimination/Final Battle)
+        - Bordeleaux: Three new routes (Threat Elimination (Pirates)/Commerce/Final Battle)
+        - Carcassone: Three new routes (Threat Elimination (Generic)/Threat Elimination (Wood Elves)/Final Battle)
+        - Chevaliers de Lyonesse: Three new routes (Destruction (Tomb Kings)/Conquest (Araby)/Final Battle)
+    - Warriors of Chaos:
+        - Warriors of Chaos: Two new routes (Destruction/Destruction (Lore-based))
+    - Beastmen:
+        - Warherd of the One-Eye: Three new routes (Resource Accumulation/Destruction (Empire)/Final Battle)
+        - Harbinger of Disaster: Two new routes (Destruction (Tomb Kings)/Destruction (Greenskins))
+        - Warherd of the Shadowgave: Two new routes (Destruction/Destruction (Wood Elves))
+        - Slaughterhorn Tribe: Three new routes (Resource Accumulation/Destruction/Final Battle)
+    - Wood Elves:
+        - Talsyn: Three new routes (Unification (Athel Loren)/Rebirth/Final Battle)
+        - Argwylon: Three new routes (Threat Elimination/Unification (Athel Loren)/Final Battle)
+        - Heralds of Ariel: Three new routes (Forest Health Accumulation/Rebirth/Final Battle)
+        - Wargrove of Woe: Three new routes (Unification (Athel Loren)/Destruction (Wood Elves)/Final Battle)
+    - Norsca:
+        - Wintertooth: Two new routes (Gods Favour/Conquest (World Capitals))
+        - World Walkers: Two new routes (Threat Elimination/Gods Favour)
+    - High Elves:
+        - Lothern: Three new routes (Unification (Ulthuan)/Threat Elimination/Commerce)
+        - Order of Loremasters: Three new routes (Expansion/Threat Elimination/Edification)
+        - Nagarythe: Three new routes (Expansion/Threat Elimination/Edification)
+        - Averlon: Three new routes (Unification (Ulthuan)/Threat Elimination (Norsca Targeted)/Edification)
+        - Knights of Caledor: Three new routes (Control Legendary Dragons/Expansion/Edification)
+        - Yvresse: Three new routes (Defence Level/Expansion/Threat Elimination)
+    - Dark Elves:
+        - Naggarond: Three new routes (Unification (Naggaroth)/Conquest (Ulthuan)/Naval Supremacy)
+        - Cult of Pleasure: Three new routes (Threat Elimination/Conquest (Ulthuan)/Edification)
+        - The Blessed Dread: Three new routes (Threat Elimination/Edification/Naval Supremacy)
+        - Har Ganeth: Three new routes (Conquest (Gaean Vale)/Threat Elimination/Edification)
+        - Hag Graef: Two new routes (Threat Destruction/Chapter Objectives)
+        - The Thousand Maws: Two new routes (Expansion (Naval)/Destruction)
+    - Lizardmen:
+        - Hexoatl: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
+        - Last Defenders: Three new routes (Expansion/Threat Elimination/Edification)
+        - Tlagua: Two new routes (Expansion/Threat Elimination)
+        - Cult of Sotek: Three new routes (Untained (Lustria)/Threat Elimination/Battle Captives)
+        - Itza: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
+        - Spirit of the Jungle: Three new routes (Expansion/Destruction/Old Ones Favour)
+        - Ghosts of Pahuax: Three new routes (Visions of the Old Ones/Chapter Objectives/Destruction (Slaughterhorn))
+    - Slaven:
+        - Clan Mors: Three new routes (Control (Karak Eight Peaks)/Threat Elimination/Edification)
+        - Clan Pestilens: Two new routes (Corruption (Lustria)/Threat Elimination) 
+        - Clan Rictus: Three new routes (Corruption/Threat Destruction/Edification)
+        - Clan Skryre: Three new routes (Forbidden Workshop/Destruction/Corruption)
+        - Clan Eshin: Three new routes (Reputation/Rituals/Destruction)
+    - Tomb Kings:
+        - Khemri: Three new routes (Edification/Destruction (Nagash)/Expansion)
+        - Court of Lybaras: Three new routes (Threat Elimination/Expansion/Conquest (Black Pyramid of Nagash))
+        - Exiles of Nehek: Three new routes (Threat Elimination/Commerce/Crafting Rituals)
+        - Followers of Nagash: Three new routes (Destruction (Khemri)/Edification/Conquest (Black Pyramid of Nagash))
+    - Vampire Coast:
+        - The Awakened: Three new routes (Repair Harkon's mind/Expansion (Ports)/Infamy)
+        - The Dreadfleet: Three new routes (Destruction (Vampire Coast)/Edification/Infamy)
+        - Pirates of Sartosa: Three new routes (Infamy/Battle Captives/Edification)
+        - The Drowned: Three new routes (Conquest (Ulthuan Ports)/Edification/Infamy)
+- A lot of bugfixes

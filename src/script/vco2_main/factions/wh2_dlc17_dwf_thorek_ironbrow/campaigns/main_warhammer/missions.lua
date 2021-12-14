@@ -7,11 +7,11 @@ local missions = {
 			issuer CLAN_ELDERS;
             primary_objectives_and_payload
             {
-                objective
-                {
-                    type HAVE_NO_ACTIVE_MISSIONS_OF_CATEGORY;
-                    event_category Grudges;
-                }
+				{
+					type SCRIPTED;
+					script_key artefacts_crafted_victory_objective_me_1;
+					override_text mission_text_text_mis_activity_craft_artefacts_all;
+				}
 
                 payload
                 {
@@ -58,45 +58,6 @@ local missions = {
                     region wh_main_zhufbar_karag_dromar;
                     region wh_main_zhufbar_oakenhammer;
                     region wh_main_zhufbar_zhufbar;
-                }
-
-                payload
-                {
-                    game_victory;
-                }
-            }
-        }
-    ]],
-    [[
- 		mission
-		{
-			victory_type vco_victory_type_alternative_3;
-			key wh_main_long_victory;
-			issuer CLAN_ELDERS;
-            primary_objectives_and_payload
-            {
-                objective
-                {
-                    type DESTROY_FACTION;
-
-					faction wh_main_grn_bloody_spearz;
-					faction wh2_dlc15_grn_bonerattlaz;
-                    faction wh2_dlc16_grn_creeping_death;
-                    faction wh_main_grn_necksnappers;
-                    faction wh_main_grn_greenskins;
-                    faction wh_main_grn_red_eye;
-                    faction wh_main_grn_red_fangs;
-					faction wh_main_grn_scabby_eye;
-					faction wh_main_grn_teef_snatchaz;
-					faction wh_main_grn_orcs_of_the_bloody_hand;
-					faction wh_main_grn_top_knotz;
-
-                    faction wh2_dlc15_skv_clan_ferrik;
-                    faction wh2_dlc16_skv_clan_gritus;
-                    faction wh2_dlc09_skv_clan_rictus;
-                    faction wh2_dlc15_skv_clan_volkn;
-
-                    confederation_valid;
                 }
 
                 payload
