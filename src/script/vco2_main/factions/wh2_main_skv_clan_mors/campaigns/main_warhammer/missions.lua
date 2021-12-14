@@ -1,5 +1,62 @@
 local missions = {
     [[
+        mission
+        {
+            victory_type vco_victory_type_alternative_1;
+            key wh_main_long_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
+                {
+                }
+
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
+    ]],
+    [[
+        mission
+        {
+            victory_type vco_victory_type_alternative_2;
+            key wh_main_long_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
+                {
+                }
+
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
+    ]],
+    [[
+        mission
+        {
+            victory_type vco_victory_type_alternative_3;
+            key wh_main_long_victory;
+            issuer CLAN_ELDERS;
+            primary_objectives_and_payload
+            {
+                objective
+                {
+                }
+
+                payload
+                {
+                    game_victory;
+                }
+            }
+        }
+    ]]
+    [[
  		mission
 		{
 			victory_type vco_victory_type_short;

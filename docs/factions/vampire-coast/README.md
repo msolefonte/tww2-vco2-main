@@ -16,8 +16,9 @@
 
 * **Route I:**
 	* Destroy factions
-	    * The Blessed Dread, Pirates of Sartosa, Vampire Coast, The Drowned, Bordelaux,
-	    Bretonnia, The Barrow Legion, Followers of Nagash, Mousillon
+	    * The Blessed Dread
+	    * Bordelaux
+	    * Pirates of Sartosa, The Awakened, The Drowned
 * **Route II:**
 	* Construct the Wreck of the Heldenhammer and the Special Deck
 * **Route III:**
