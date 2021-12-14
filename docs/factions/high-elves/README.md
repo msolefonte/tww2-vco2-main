@@ -2,106 +2,66 @@
 
 ### Lothern
 
-* **Short Victory Conditions**:
+* **Route I:**
 	* Conquer, ally with or assimilate all provinces of Ulthuan
-	* Raze or sack Naggarond
-	* Build the Sacred Flame of Asuryan and the Gates of Lothern
-* **Long Victory Conditions**:
-	* Conquer, ally with or assimilate all provinces of Ulthuan
+* **Route II:**
 	* Destroy factions:
 	    * Cult of Pleasure, Her Haneth, Naggarond, The Blessed Dread
-	* Build the Sacred Flame of Asuryan and the Gates of Lothern
+* **Route III:**
+	* Obtain access to the following resources:
+	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Textiles, Lead, Spices, Timber, Wine
 
 ### Order of Loremasters
 
-* **Short Victory Conditions**:
+* **Route I:**
 	* Hold 12 settlements
-	* Control the Saphery province
-	* Build a Tower of Mages
+* **Route II:**
 	* Destroy factions:
-	    * The Blessed Dread, Vampire Coast, Clan Pestilens
-* **Long Victory Conditions**:
-	* Hold 20 settlements
-	* Control the Saphery province
+	    * Followers of Nagash, The Awakened, The Blessed Dread, The Blessed Dread, Clan Pestilens
+* **Route III:**
 	* Build the White Tower of Hoeth
 	* Build 3 Tower of Mages
-	* Destroy factions:
-	    * Followers of Nagash, Noctilus, Vampire Coast, The Blessed Dread, Clan Pestilens
 
 ### Nagarythe 
 
-* **Short Victory Conditions**:
-	* Conquer two of the following provinces
+* **Route I:**
+	* Control the following provinces
 	    * Nagarythe, Iron Mountains, Titan Peaks, The Road of Skulls, Doom Glades
-	* Destroy factions
-	    * Bleak Holds, Naggarond, Clar Karond
-	* Own 2 Moon Dragons
-* **Long Victory Conditions**:
-	* Conquer four of the following provinces
-	    * Nagarythe, Iron Mountains, Titan Peaks, The Road of Skulls, Doom Glades
+* **Route II:**
 	* Destroy factions
 	    * Bleak Holds, Cult of Pleasure, Clar Karond, Naggarond, Har Ganeth
+* **Route III:**
 	* Build the Black Citadel of Anlec
-	* Own 3 Moon Dragons
 
 ### Avelorn
 
-* **Short Victory Conditions**:
+* **Route I:**
 	* Conquer, ally with or assimilate all provinces of Ulthuan
+* **Route II:**
 	* Destroy factions:
 	    * Har Ganeth, Scourge of Khaine
-	* Build the Avelorn Landmark
-* **Long Victory Conditions**:
-	* Conquer, ally with or assimilate all provinces of Ulthuan
-	* Destroy factions:
-	    * Har Ganeth, Scourge of Khaine, Norsca, Winterthoot
-	* Build the Avelorn Landmark
+	    * Winterthoot, World Walkers
+* **Route III:**
+	* Build the Everqueen Court
 
 ### Knights of Caledor
 
-Purified Graves, Black Crag
-
-* **Short Victory Conditions**:
-	* Complete 3 Missions
+* **Route I:**
+    * Control all legendary dragons:
+        * Gordinar, Champion of the Flame, Ymwrath the Eternal, Lamoureux the Frozen Breath, Bruwor Protector of Life, Shackolot the Calamity
+* **Route II:**
 	* Control provinces:
 	    * Caledor, Dragon Isles, Gnoblar Country, Plain of Bones, The Wolf Lands 
-	* Destroy factions
-	    * Clan Eshin, Hag Graef
-	* Raze or sack Black Crag
-	* Build the Purified Graves of the Dragons and a Dragon Keep
-    * Own at least 4 of the following units:
-        * Sun Dragon, Moon Dragon, Star Dragon, Dragon Princes, Fireborn (RoR), Gordinar, Champion of the Flame, Ymwrath the Eternal, Lamoureux the Frozen Breath, Bruwor Protector of Life, Shackolot the Calamity
-* **Long Victory Conditions**:
-	* Complete 5 Missions
-	* Conquer, ally with or assimilate all provinces of Ulthuan
-	* Control provinces:
-	    * Caledor, Dragon Isles, Gnoblar Country, Plain of Bones, The Wolf Lands 
-	* Destroy factions
-	    * Clan Eshin, Greenskins, Hag Graef, Clan Mors
-	* Build the Purified Graves of the Dragons, a Dragon Keep, and the Hall of Dragons
-    * Own at least 8 of the following units:
-        * Sun Dragon, Moon Dragon, Star Dragon, Dragon Princes, Fireborn (RoR), Gordinar, Champion of the Flame, Ymwrath the Eternal, Lamoureux the Frozen Breath, Bruwor Protector of Life, Shackolot the Calamity
+* **Route III:**
+	* Build the Purified Graves of the Dragons, a Dragon Keep and the Hall of Dragons
 
 ### Yvresse
 
-* **Short Victory Conditions**:
-	* Complete 3 Missions
+* **Route I:**
+	* Have at least 100 Yvresse's defence level
+* **Route II:**
 	* Control provinces
 	    * Yvresse, Cothique, Chrace, Southern Badlands, Western Badlands
-	* Destroy faction
-	    * Broken Axe
-	* Have at least 100 Yvresse's defence level
-	* Build the Warden's Tower
-	* Own 3 of the following units
-	    * Faithbearers, Griffon Knights, Sentinels, Skyhawks, Spireguard
-* **Long Victory Conditions**:
-	* Complete 5 Missions
-	* Conquer, ally with or assimilate all provinces of Ulthuan
-	* Control provinces
-	    * Southern Badlands, Western Badlands
+* **Route III:**
 	* Destroy factions
-	    * Broken Axe, Naggarond, Greenskins,The Bloody Handz
-	* Have at least 100 Yvresse's defence level
-	* Build the Warden's Tower
-	* Own 5 of the following units
-	    * Faithbearers, Griffon Knights, Sentinels, Skyhawks, Spireguard
+	    * Broken Axe, Greenskins, The Bloody Handz

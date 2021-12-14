@@ -7,11 +7,12 @@ local missions = {
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective
+                objective
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
-					pooled_resource emp_progress;
-					total 100;
+					pooled_resource wef_worldroots_athel_loren;
+					total 500;
+					additive;
 				}
 
 				payload
@@ -19,7 +20,7 @@ local missions = {
 					game_victory;
 				}
 			}
-		}
+        }
     ]],
     [[
  		mission
@@ -29,12 +30,12 @@ local missions = {
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective
+                objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 6;
-
-					province wh2_main_southern_great_jungle;
+					override_text mission_text_text_mis_activity_ritual_rebirth_me;
+					type PERFORM_RITUAL;
+					ritual_category WORLDROOTS_HEALING;
+					total 5;
 				}
 
 				payload
@@ -42,7 +43,7 @@ local missions = {
 					game_victory;
 				}
 			}
-		}
+        }
     ]],
     [[
  		mission
@@ -52,22 +53,10 @@ local missions = {
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-
-				objective
+                objective
 				{
-					type DESTROY_FACTION;
-
-					faction wh2_main_lzd_itza;
-					faction wh2_dlc13_lzd_spirits_of_the_jungle;
-
-					faction wh2_main_skv_clan_pestilens;
-
-					faction wh2_dlc11_cst_vampire_coast;
-					faction wh2_dlc11_cst_noctilus;
-
-					faction wh2_dlc11_def_the_blessed_dread;
-
-					confederation_valid;
+					type FIGHT_SET_PIECE_BATTLE;
+					set_piece_battle wh_dlc05_qb_wef_grand_defense_of_the_oak;
 				}
 
 				payload
@@ -75,7 +64,7 @@ local missions = {
 					game_victory;
 				}
 			}
-		}
+        }
     ]]
 };
 
