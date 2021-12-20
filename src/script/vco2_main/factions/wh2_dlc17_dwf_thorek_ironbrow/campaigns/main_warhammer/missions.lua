@@ -8,11 +8,11 @@ local missions = {
             primary_objectives_and_payload
             {
                 objective
-				{
-					type SCRIPTED;
-					script_key artefacts_crafted_victory_objective_me_1;
-					override_text mission_text_text_mis_activity_craft_artefacts_all;
-				}
+        				{
+        					type SCRIPTED;
+        					script_key artefacts_crafted_victory_objective_me_1;
+        					override_text mission_text_text_mis_activity_craft_artefacts_all;
+        				}
 
                 payload
                 {
