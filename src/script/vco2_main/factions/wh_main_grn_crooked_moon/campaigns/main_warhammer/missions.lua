@@ -16,6 +16,12 @@ local missions = {
 					region wh_main_eastern_badlands_karak_eight_peaks;
 				}
 
+				objective
+				{
+				    type MEET_ALL_OTHER_OBJECTIVES_WITHIN_X_TURNS;
+				    total 75;
+				}
+
 				payload
 				{
 					game_victory;

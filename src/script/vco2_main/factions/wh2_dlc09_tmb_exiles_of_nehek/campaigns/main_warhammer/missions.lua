@@ -37,6 +37,7 @@ local missions = {
                 objective
 				{
 					type HAVE_RESOURCES;
+
 					resource res_obsidian;
 					resource res_dyes;
 					resource res_animals;
@@ -51,6 +52,18 @@ local missions = {
 					resource res_spices;
 					resource res_rom_timber;
 					resource res_rom_wine;
+				}
+
+				objective
+				{
+				    type MAINTAIN_TRADE_WITH_N_FACTIONS;
+				    total 6;
+				}
+
+				objective
+				{
+				    type TRADE_INCOME_AT_LEAST_X;
+				    total 5000;
 				}
 
                 payload

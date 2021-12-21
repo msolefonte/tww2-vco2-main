@@ -287,13 +287,15 @@ occasions, now it will be viable to play tall/defensively, without any requisite
 ## [3.1.0] TBA - TBA
 
 - Added in-game tags for all routes (i.e. Unification/Conquest/Naval Supremacy)
+- Commercial Victories (Lothern/Exiles of Nehek/Bordeleaux) now also required a minimum trading income of 5000 and at 
+  least 6 trading partners
+- Now the Karak-Eight-Peaks conquest (Clan Angrund/Crooked Moon/Clan Mors) has to be done in less than 75 turns
 - Added a Magic Supremacy route for Bonerattlaz
 - Fixed a bug that prevented Ironbow's Expedition Route I from loading
 - Solved a bug that caused The Thousand Maws Victory Conditions to be Vanilla
 
 Things to test:
 
-- COMMERCE: MAINTAIN_TRADE_WITH_N_FACTIONS / INCOME_AT_LEAST_X
 - NAVAL EXPANSION: CONTROL_N_PORTS_INCLUDING / OWN_A_PORT_ADJOINING_SEA_REGIONS_INCLUDING
 - DEFENSIVE: DONT_LOSE_REGION / HAVE_DIPLOMATIC_RELATIONSHIP
 - BUILDINGS: CONSTRUCT_BUILDING / EARN_X_AMOUNT_FROM_BUILDING_WEALTH

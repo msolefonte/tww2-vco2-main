@@ -12,6 +12,7 @@ local missions = {
 					type CONTROL_N_PROVINCES_INCLUDING;
 					total 14;
 					override_text mission_text_text_wh2_main_objective_override_tyrion_control;
+
 					province wh2_main_eataine;
 					province wh2_main_yvresse;
 					province wh2_main_saphery;
@@ -71,6 +72,7 @@ local missions = {
                 objective
 				{
 					type HAVE_RESOURCES;
+
 					resource res_obsidian;
 					resource res_dyes;
 					resource res_animals;
@@ -85,6 +87,18 @@ local missions = {
 					resource res_spices;
 					resource res_rom_timber;
 					resource res_rom_wine;
+				}
+
+				objective
+				{
+				    type MAINTAIN_TRADE_WITH_N_FACTIONS;
+				    total 6;
+				}
+
+				objective
+				{
+				    type TRADE_INCOME_AT_LEAST_X;
+				    total 5000;
 				}
 
                 payload
