@@ -17,3 +17,9 @@
 * [Vampire Counts](factions/vampire-counts/README.md)
 * [Warriors of Chaos](factions/warriors-of-chaos/README.md)
 * [Wood Elves](factions/wood-elves/README.md)
+
+## Mod Races
+
+ * [Cataph's Southern Realms (TEB)](factions/teb/README.md)
+ * [Cataph's Kraka Drak](factions/kraka-drak/README.md)
+ * [OVN Lost Factions](factions/ovn/README.md)
