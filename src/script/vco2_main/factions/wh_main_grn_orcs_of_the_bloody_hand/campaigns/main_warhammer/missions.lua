@@ -2,7 +2,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_1;
+			victory_type vco_victory_type_alternative_1_unification;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -11,6 +11,7 @@ local missions = {
                 {
                     type CONTROL_N_PROVINCES_INCLUDING;
                     total 3;
+
                     province wh_main_eastern_badlands;
                     province wh_main_southern_badlands;
                     province wh_main_western_badlands;
@@ -19,9 +20,11 @@ local missions = {
 				objective
 				{
 					type AT_LEAST_X_RELIGION_IN_PROVINCES;
+
                     province wh_main_eastern_badlands;
                     province wh_main_southern_badlands;
                     province wh_main_western_badlands;
+
 					total 80;
 					religion wh_main_religion_untainted;
 				}
@@ -36,7 +39,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_2;
+			victory_type vco_victory_type_alternative_2_destruction;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -45,6 +48,7 @@ local missions = {
 				{
 					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
 					total 10;
+
 					region wh_main_eastern_border_princes_akendorf;
 					region wh2_main_coast_of_araby_al_haikk;
 					region wh2_main_coast_of_araby_copher;
@@ -68,7 +72,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_3;
+			victory_type vco_victory_type_alternative_3_magic_supremacy;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -77,6 +81,7 @@ local missions = {
 				{
 					type CONTROL_N_REGIONS_FROM;
 					total 3;
+
 					region wh2_main_great_mortis_delta_black_pyramid_of_nagash;
 					region wh2_main_great_desert_of_araby_black_tower_of_arkhan;
 					region wh2_main_skavenblight_skavenblight;

@@ -242,8 +242,8 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Heralds of Ariel: Three new routes (Forest Health Accumulation/Rebirth/Final Battle)
         - Wargrove of Woe: Three new routes (Unification (Athel Loren)/Destruction (Wood Elves)/Final Battle)
     - Norsca:
-        - Wintertooth: Two new routes (Gods Favour/Conquest (World Capitals))
-        - World Walkers: Two new routes (Threat Elimination/Gods Favour)
+        - World Walkers: Two new routes (Gods Favour/Conquest (World Capitals))
+        - Wintertooth: Two new routes (Threat Elimination/Gods Favour)
     - High Elves:
         - Lothern: Three new routes (Unification (Ulthuan)/Threat Elimination/Commerce)
         - Order of Loremasters: Three new routes (Expansion/Threat Elimination/Edification)
@@ -266,7 +266,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Itza: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
         - Spirit of the Jungle: Three new routes (Expansion/Destruction/Old Ones Favour)
         - Ghosts of Pahuax: Three new routes (Visions of the Old Ones/Chapter Objectives/Destruction (Slaughterhorn))
-    - Slaven:
+    - Skaven:
         - Clan Mors: Three new routes (Control (Karak Eight Peaks)/Threat Elimination/Edification)
         - Clan Pestilens: Two new routes (Corruption (Lustria)/Threat Elimination)
         - Clan Rictus: Three new routes (Corruption/Threat Elimination/Edification)
@@ -287,6 +287,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
 ## [3.1.0] TBA - TBA
 
 - Added in-game tags for all routes (i.e. Unification/Conquest/Naval Supremacy)
+- Added a Magic Supremacy route for Bonerattlaz
 - Fixed a bug that prevented Ironbow's Expedition Route I from loading
 
 Things to test:
@@ -297,5 +298,4 @@ Things to test:
 - BUILDINGS: CONSTRUCT_BUILDING / EARN_X_AMOUNT_FROM_BUILDING_WEALTH
 - HASH MAP OF ROUTE KEY + NEW NAME
 
-TODO ADD MAGIC SUPREMACY FOR BONERATLAZ
 TODO WH2 TWA03 DEF RAKARTH?
