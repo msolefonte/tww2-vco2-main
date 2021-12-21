@@ -289,6 +289,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
 - Added in-game tags for all routes (i.e. Unification/Conquest/Naval Supremacy)
 - Added a Magic Supremacy route for Bonerattlaz
 - Fixed a bug that prevented Ironbow's Expedition Route I from loading
+- Solved a bug that caused The Thousand Maws Victory Conditions to be Vanilla
 
 Things to test:
 
@@ -296,6 +297,3 @@ Things to test:
 - NAVAL EXPANSION: CONTROL_N_PORTS_INCLUDING / OWN_A_PORT_ADJOINING_SEA_REGIONS_INCLUDING
 - DEFENSIVE: DONT_LOSE_REGION / HAVE_DIPLOMATIC_RELATIONSHIP
 - BUILDINGS: CONSTRUCT_BUILDING / EARN_X_AMOUNT_FROM_BUILDING_WEALTH
-- HASH MAP OF ROUTE KEY + NEW NAME
-
-TODO WH2 TWA03 DEF RAKARTH?
