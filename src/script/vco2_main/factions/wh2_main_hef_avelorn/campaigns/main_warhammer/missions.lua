@@ -2,7 +2,7 @@ local missions = {
     [[
          mission
         {
-            victory_type vco_victory_type_alternative_1;
+            victory_type vco_victory_type_alternative_1_unification;
             key wh_main_long_victory;
             issuer CLAN_ELDERS;
             primary_objectives_and_payload
@@ -11,6 +11,7 @@ local missions = {
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
 					total 14;
+
 					province wh2_main_eataine;
 					province wh2_main_yvresse;
 					province wh2_main_saphery;
@@ -37,7 +38,7 @@ local missions = {
     [[
          mission
         {
-            victory_type vco_victory_type_alternative_2;
+            victory_type vco_victory_type_alternative_2_threat_elimination;
             key wh_main_long_victory;
             issuer CLAN_ELDERS;
             primary_objectives_and_payload
@@ -45,11 +46,13 @@ local missions = {
                 objective
 				{
 					type DESTROY_FACTION;
+
 					faction wh2_main_def_har_ganeth;
 					faction wh2_main_def_scourge_of_khaine;
 
 					faction wh_dlc08_nor_norsca;
 					faction wh_dlc08_nor_wintertooth;
+
 					confederation_valid;
 				}
 
@@ -63,7 +66,7 @@ local missions = {
     [[
          mission
         {
-            victory_type vco_victory_type_alternative_3;
+            victory_type vco_victory_type_alternative_3_edification;
             key wh_main_long_victory;
             issuer CLAN_ELDERS;
             primary_objectives_and_payload
@@ -73,6 +76,7 @@ local missions = {
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_main_hef_avelorn;
 					total 1;
+
 					building_level wh2_main_special_everqueen_court_hef;
 				}
 

@@ -2,7 +2,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_1;
+			victory_type vco_victory_type_alternative_1_threat_elimination;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -32,7 +32,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_2;
+			victory_type vco_victory_type_alternative_2_commerce;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -40,6 +40,7 @@ local missions = {
 				objective
 				{
 					type HAVE_RESOURCES;
+
 					resource res_obsidian;
 					resource res_dyes;
 					resource res_animals;
@@ -56,6 +57,18 @@ local missions = {
 					resource res_rom_wine;
 				}
 
+				objective
+				{
+				    type MAINTAIN_TRADE_WITH_N_FACTIONS;
+				    total 6;
+				}
+
+				objective
+				{
+				    type TRADE_INCOME_AT_LEAST_X;
+				    total 5000;
+				}
+
 				payload
 				{
 					game_victory;
@@ -66,7 +79,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_3;
+			victory_type vco_victory_type_alternative_3_final_battle;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload

@@ -242,8 +242,8 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Heralds of Ariel: Three new routes (Forest Health Accumulation/Rebirth/Final Battle)
         - Wargrove of Woe: Three new routes (Unification (Athel Loren)/Destruction (Wood Elves)/Final Battle)
     - Norsca:
-        - Wintertooth: Two new routes (Gods Favour/Conquest (World Capitals))
-        - World Walkers: Two new routes (Threat Elimination/Gods Favour)
+        - World Walkers: Two new routes (Gods Favour/Conquest (World Capitals))
+        - Wintertooth: Two new routes (Threat Elimination/Gods Favour)
     - High Elves:
         - Lothern: Three new routes (Unification (Ulthuan)/Threat Elimination/Commerce)
         - Order of Loremasters: Three new routes (Expansion/Threat Elimination/Edification)
@@ -256,7 +256,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Cult of Pleasure: Three new routes (Threat Elimination/Conquest (Ulthuan)/Edification)
         - The Blessed Dread: Three new routes (Threat Elimination/Edification/Naval Supremacy)
         - Har Ganeth: Three new routes (Conquest (Gaean Vale)/Threat Elimination/Edification)
-        - Hag Graef: Two new routes (Threat Destruction/Chapter Objectives)
+        - Hag Graef: Two new routes (Threat Eliminations/Chapter Objectives)
         - The Thousand Maws: Two new routes (Expansion (Naval)/Destruction)
     - Lizardmen:
         - Hexoatl: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
@@ -266,10 +266,10 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Itza: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
         - Spirit of the Jungle: Three new routes (Expansion/Destruction/Old Ones Favour)
         - Ghosts of Pahuax: Three new routes (Visions of the Old Ones/Chapter Objectives/Destruction (Slaughterhorn))
-    - Slaven:
+    - Skaven:
         - Clan Mors: Three new routes (Control (Karak Eight Peaks)/Threat Elimination/Edification)
         - Clan Pestilens: Two new routes (Corruption (Lustria)/Threat Elimination)
-        - Clan Rictus: Three new routes (Corruption/Threat Destruction/Edification)
+        - Clan Rictus: Three new routes (Corruption/Threat Elimination/Edification)
         - Clan Skryre: Three new routes (Forbidden Workshop/Destruction/Corruption)
         - Clan Eshin: Three new routes (Reputation/Rituals/Destruction)
     - Tomb Kings:
@@ -284,6 +284,13 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - The Drowned: Three new routes (Conquest (Ulthuan Ports)/Edification/Infamy)
 - A lot of bugfixes
 
-## [3.1.0] TBA - TBA
+## [3.1.0] Minor Update - 21.12.2021
 
+- Added in-game tags for all routes (i.e. Unification/Conquest/Naval Supremacy)
+- Commercial Victories (Lothern/Exiles of Nehek/Bordeleaux) now also required a minimum trading income of 5000 and at 
+  least 6 trading partners
+- Now the Karak-Eight-Peaks conquest (Clan Angrund/Crooked Moon/Clan Mors) has to be done in less than 75 turns
+- Added a Magic Supremacy route for Bonerattlaz
+- Add placeholders for future factions (Cataph's TEB + Kraka Drak/OvN Amazons + Araby + The Moot)
 - Fixed a bug that prevented Ironbow's Expedition Route I from loading
+- Solved a bug that caused The Thousand Maws Victory Conditions to be Vanilla
