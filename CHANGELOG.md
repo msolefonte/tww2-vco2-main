@@ -284,12 +284,13 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - The Drowned: Three new routes (Conquest (Ulthuan Ports)/Edification/Infamy)
 - A lot of bugfixes
 
-## [3.1.0] Minor Update - TBA
+## [3.1.0] Minor Update - 21.12.2021
 
 - Added in-game tags for all routes (i.e. Unification/Conquest/Naval Supremacy)
 - Commercial Victories (Lothern/Exiles of Nehek/Bordeleaux) now also required a minimum trading income of 5000 and at 
   least 6 trading partners
 - Now the Karak-Eight-Peaks conquest (Clan Angrund/Crooked Moon/Clan Mors) has to be done in less than 75 turns
 - Added a Magic Supremacy route for Bonerattlaz
+- Add placeholders for future factions (Cataph's TEB + Kraka Drak/OvN Amazons + Araby + The Moot)
 - Fixed a bug that prevented Ironbow's Expedition Route I from loading
 - Solved a bug that caused The Thousand Maws Victory Conditions to be Vanilla
