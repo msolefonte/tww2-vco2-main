@@ -269,7 +269,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
     - Slaven:
         - Clan Mors: Three new routes (Control (Karak Eight Peaks)/Threat Elimination/Edification)
         - Clan Pestilens: Two new routes (Corruption (Lustria)/Threat Elimination)
-        - Clan Rictus: Three new routes (Corruption/Threat Destruction/Edification)
+        - Clan Rictus: Three new routes (Corruption/Threat Elimination/Edification)
         - Clan Skryre: Three new routes (Forbidden Workshop/Destruction/Corruption)
         - Clan Eshin: Three new routes (Reputation/Rituals/Destruction)
     - Tomb Kings:
@@ -295,3 +295,5 @@ Things to test:
 - DEFENSIVE: DONT_LOSE_REGION / HAVE_DIPLOMATIC_RELATIONSHIP
 - BUILDINGS: CONSTRUCT_BUILDING / EARN_X_AMOUNT_FROM_BUILDING_WEALTH
 - HASH MAP OF ROUTE KEY + NEW NAME
+
+TODO ADD MAGIC SUPREMACY FOR BONERATLAZ
