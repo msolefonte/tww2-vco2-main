@@ -1,4 +1,5 @@
 # Changelog
+
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
@@ -12,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
         - Now compatible with Steel Faith Overhaul
     - Submods/Extensions are now possible
         - Specific content for mod factions coming
-        - New victory conditions available: 
+        - New victory conditions available:
             - Military, Cultural and Economic victory are going to be available as extensions
     - Extended scripting support
         - More variety of objectives available
@@ -42,7 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Razing or sacking Naggarond is now required by Eataine to achieve a Short Victory
 - Getting Slann mages to level 20 is no longer required by Hexoatl
 - Building the Great Halls of Nagashizzar is no longer required by Bonerattlaz
-- Redone of Cult of Pleasure 
+- Redone of Cult of Pleasure
     - Building the Sanctum of Quintex is now required to achieve a victory
     - Building 4 Court of the Dark Prince is now required to achieve a Short Victory
     - Building 7 Court of the Dark Prince is now required to achieve a Long Victory
@@ -74,7 +75,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Solved a bug where Itza long victory conditions remained vanilla
     - Fixed a bug where Beastmen final battle never happened
     - Solved a bug where some unit requirements numbers where weird and different from the docs
-    
+
 ## [2.1.1] Minor Update - 10.11.2020
 
 - Controlling Northern Grey Mountains is no longer required by Karak Kadrin to achieve a Short Victory
@@ -83,11 +84,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Clan Rictus victory conditions were a mix of vanilla and modded
     - Destroying Borderleaux was missing from The Dreadfleet Short Victory conditions
     - Fall of Man Beastmen quest battle popped randomly and multiple times
-- Sad reports 
-    - It is not possible to turn instances of Sack/Raze specific locations into Occupy/Loot/Raze/Sack for non horde 
-    factions in order to prevent weird situations where you had to attack your own settlements. The key 
+- Sad reports
+    - It is not possible to turn instances of Sack/Raze specific locations into Occupy/Loot/Raze/Sack for non horde
+    factions in order to prevent weird situations where you had to attack your own settlements. The key
     OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS_INCLUDING does not exist
-    
+
 ## [2.2.0] Minor Update - 5.12.2020
 
 - Add support for The Twisted & The Twilight DLC
@@ -95,23 +96,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed building the Great Temple of Ulric from Reiskland Short Victory conditions
 - NOTE:
     - Support for the new factions/Wood Elves rework has not been added. I do not own the DLC
-    
+
 ## [2.3.0] The Hammer and The Viper update - 16.12.2020
 
 - Major redone has been introduced to the Court of Lybaras faction
     - Constructing a Pyramid has been removed from the Short Victory
     - Controlling Broken Teeth, Crater of the Walking Dead, Doom Glades and Devil's Backbone is now a requirement
-    - Maintaining 80% untainted in Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone, 
+    - Maintaining 80% untainted in Broken Teeth, Crater of the Walking Dead, Doom Glades, Devil's Backbone,
     Southlands Jungle, Kingdom of Beasts is now a requirement
     - Destroying Followers of Nagash is now required to achieve a Long Victory
     - Destroying The Awakened, The Dradfleet and The Drowned is no longer required
-    - The aim is to keep it more focused in corruption/skavens an less on pyramids/empires to not overlap with other 
+    - The aim is to keep it more focused in corruption/skavens an less on pyramids/empires to not overlap with other
     Tomb Kings factions. Lustria has been removed completely
 - Redone introduced to the Karaz-a-Karak faction
     - Controlling Northern Great Mountains and Southern Great Mountains is no longer required to achieve a short victory
     - Building the Throne Hall of the High King is now required to achieve both types of victory
     - The aim is to keep the Dwarfs more local and defensive. The removed regions are too far away for a short victory
-    
+
 ## [2.4.0] The Woods and The Dragons update - 03.02.2021
 
 - Redone added to Knights of Caledor
@@ -139,7 +140,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Destroying Laurelorn Forest, Heralds of Ariel, Bowmen of Oreon and Avelorn is required to achieve a Long Victory
 - All Bretonnian factions have had modified the to require 800 Chivalry to obtain a Short Victory and 1600 to achieve a Long/Ultimate victory
     - Repanse de Lyonesse is the only faction with no Short Victory
-- Fixed a bug where Court of Lybaras had to control/maintain untainted the Doom Glades 
+- Fixed a bug where Court of Lybaras had to control/maintain untainted the Doom Glades
     - The province was placed in some requirements in the place of Doom Glade, a region in the Crater of the Walking Dead
 - Fixed some grammatical mistakes in the docs
 - Building Plague Abbeys and Plague Cauldrons requirements have been removed from Clan Pestilens because, due to a motor bug, they were never triggered
@@ -173,7 +174,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Both Blood Shrines of Sotek and Crimson Pyramid of Sotek are now valid by Cult of Sotek to achieve a Short Victory
 - Building the Altdorf Landmark is no longer required by Von Carstein to achieve a Short Victory
 - Fixed a bug that caused Clan Skyre Short Campaign to be unachievable
-- Fixed a bug where Followers of Nagash had to create non-existent buildings 
+- Fixed a bug where Followers of Nagash had to create non-existent buildings
 - Special thanks to **BoyNamedHsu** for his help with this release
 
 ## [2.6.0] The Wolf and The Goats update - 19.07.2021
@@ -181,7 +182,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduction to a new approach to victory conditions, only affecting some factions by now:
     - Short Victories are now meant to be SHORT. Under 50 turns short
     - Long Victories are the new short ones, should not take more than 100 turns
-    - Ultimate Victories are the big ones, usually target to occupy at least 250 turns 
+    - Ultimate Victories are the big ones, usually target to occupy at least 250 turns
 - Complete rework of Beastmen
     - Warherd of the One-Eye (Khazrak the One-Eye):
         - Short-term focus destroying the Empire of Man, long-term focus on destroying Bretonnia
@@ -197,12 +198,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [3.0.0] The Routes Rework update - 14.12.2021
 
-- Introduced new feature _Routes_. Now, instead of having evolving campaigns with _Short_, _Long_ and _Ultimate_ 
-checkpoints, you can choose completely different ways to approach your campaign. For example, as Dwarfs, you can now win 
-by destroying the close threats, unifying all the old world dwarfholds or clearing the book of grudges. You can complete 
+- Introduced new feature _Routes_. Now, instead of having evolving campaigns with _Short_, _Long_ and _Ultimate_
+checkpoints, you can choose completely different ways to approach your campaign. For example, as Dwarfs, you can now win
+by destroying the close threats, unifying all the old world dwarfholds or clearing the book of grudges. You can complete
 all of them, two or just one. Up to you to decide what is funnier.
 - New introduced _Routes_ have been developed with the intent of offering different ways to enjoy the game: In a lot of
-occasions, now it will be viable to play tall/defensively, without any requisite related to paint the map. 
+occasions, now it will be viable to play tall/defensively, without any requisite related to paint the map.
 - Complete rework for all old-word factions:
     - Empire:
         - Reikland: Two new routes (Unification (Empire)/Threat Elimination)
@@ -241,8 +242,8 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Heralds of Ariel: Three new routes (Forest Health Accumulation/Rebirth/Final Battle)
         - Wargrove of Woe: Three new routes (Unification (Athel Loren)/Destruction (Wood Elves)/Final Battle)
     - Norsca:
-        - Wintertooth: Two new routes (Gods Favour/Conquest (World Capitals))
-        - World Walkers: Two new routes (Threat Elimination/Gods Favour)
+        - World Walkers: Two new routes (Gods Favour/Conquest (World Capitals))
+        - Wintertooth: Two new routes (Threat Elimination/Gods Favour)
     - High Elves:
         - Lothern: Three new routes (Unification (Ulthuan)/Threat Elimination/Commerce)
         - Order of Loremasters: Three new routes (Expansion/Threat Elimination/Edification)
@@ -255,7 +256,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Cult of Pleasure: Three new routes (Threat Elimination/Conquest (Ulthuan)/Edification)
         - The Blessed Dread: Three new routes (Threat Elimination/Edification/Naval Supremacy)
         - Har Ganeth: Three new routes (Conquest (Gaean Vale)/Threat Elimination/Edification)
-        - Hag Graef: Two new routes (Threat Destruction/Chapter Objectives)
+        - Hag Graef: Two new routes (Threat Eliminations/Chapter Objectives)
         - The Thousand Maws: Two new routes (Expansion (Naval)/Destruction)
     - Lizardmen:
         - Hexoatl: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
@@ -265,10 +266,10 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Itza: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
         - Spirit of the Jungle: Three new routes (Expansion/Destruction/Old Ones Favour)
         - Ghosts of Pahuax: Three new routes (Visions of the Old Ones/Chapter Objectives/Destruction (Slaughterhorn))
-    - Slaven:
+    - Skaven:
         - Clan Mors: Three new routes (Control (Karak Eight Peaks)/Threat Elimination/Edification)
-        - Clan Pestilens: Two new routes (Corruption (Lustria)/Threat Elimination) 
-        - Clan Rictus: Three new routes (Corruption/Threat Destruction/Edification)
+        - Clan Pestilens: Two new routes (Corruption (Lustria)/Threat Elimination)
+        - Clan Rictus: Three new routes (Corruption/Threat Elimination/Edification)
         - Clan Skryre: Three new routes (Forbidden Workshop/Destruction/Corruption)
         - Clan Eshin: Three new routes (Reputation/Rituals/Destruction)
     - Tomb Kings:
@@ -282,3 +283,14 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Pirates of Sartosa: Three new routes (Infamy/Battle Captives/Edification)
         - The Drowned: Three new routes (Conquest (Ulthuan Ports)/Edification/Infamy)
 - A lot of bugfixes
+
+## [3.1.0] Minor Update - 21.12.2021
+
+- Added in-game tags for all routes (i.e. Unification/Conquest/Naval Supremacy)
+- Commercial Victories (Lothern/Exiles of Nehek/Bordeleaux) now also required a minimum trading income of 5000 and at 
+  least 6 trading partners
+- Now the Karak-Eight-Peaks conquest (Clan Angrund/Crooked Moon/Clan Mors) has to be done in less than 75 turns
+- Added a Magic Supremacy route for Bonerattlaz
+- Add placeholders for future factions (Cataph's TEB + Kraka Drak/OvN Amazons + Araby + The Moot)
+- Fixed a bug that prevented Ironbow's Expedition Route I from loading
+- Solved a bug that caused The Thousand Maws Victory Conditions to be Vanilla

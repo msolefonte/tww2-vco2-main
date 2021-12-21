@@ -2,7 +2,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_1;
+			victory_type vco_victory_type_alternative_1_miscellany;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -31,7 +31,7 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_2;
+			victory_type vco_victory_type_alternative_2_conquest;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
@@ -40,6 +40,7 @@ local missions = {
 				{
 					type CONTROL_N_REGIONS_FROM;
 					total 5;
+
 					region wh_main_couronne_et_languille_couronne;
 					region wh_main_reikland_altdorf;
 					region wh_main_eastern_sylvania_castle_drakenhof;

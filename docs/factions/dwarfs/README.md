@@ -38,6 +38,7 @@
 
 * **Route I:**
 	* Take back control of Clan Angrund's ancestral home: Karak Eight Peaks
+	* Do it in less than 75 turns
 * **Route II:**
     * Destroy factions:
 	    * Clan Mors

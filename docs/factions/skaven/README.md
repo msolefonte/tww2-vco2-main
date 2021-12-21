@@ -4,6 +4,7 @@
 
 * **Route I:**
 	* Take control of Karak Eight Peaks
+	* Do it in less than 75 turns
 * **Route II:**
     * Destroy factions:
 	    * Clan Angrund

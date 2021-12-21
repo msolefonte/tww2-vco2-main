@@ -2,16 +2,17 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_1;
+			victory_type vco_victory_type_alternative_1_miscellany;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
             primary_objectives_and_payload
             {
-				{
-					type SCRIPTED;
-					script_key artefacts_crafted_victory_objective_me_1;
-					override_text mission_text_text_mis_activity_craft_artefacts_all;
-				}
+                objective
+        				{
+        					type SCRIPTED;
+        					script_key artefacts_crafted_victory_objective_me_1;
+        					override_text mission_text_text_mis_activity_craft_artefacts_all;
+        				}
 
                 payload
                 {
@@ -23,12 +24,11 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_alternative_2;
+			victory_type vco_victory_type_alternative_2_unification;
 			key wh_main_long_victory;
 			issuer CLAN_ELDERS;
             primary_objectives_and_payload
             {
-
                 objective
                 {
                     type CONTROL_N_REGIONS_INCLUDING;

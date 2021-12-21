@@ -22,6 +22,8 @@
 * **Route II:**
 	* Obtain access to the following resources:
 	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Textiles, Lead, Spices, Timber, Wine
+	* Have at least 6 trading partners
+	* Have a trading income of at least 5000
 * **Route III:**
 	* Complete the final Errantry War battle
 
