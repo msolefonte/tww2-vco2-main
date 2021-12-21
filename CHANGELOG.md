@@ -256,7 +256,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - Cult of Pleasure: Three new routes (Threat Elimination/Conquest (Ulthuan)/Edification)
         - The Blessed Dread: Three new routes (Threat Elimination/Edification/Naval Supremacy)
         - Har Ganeth: Three new routes (Conquest (Gaean Vale)/Threat Elimination/Edification)
-        - Hag Graef: Two new routes (Threat Destruction/Chapter Objectives)
+        - Hag Graef: Two new routes (Threat Eliminations/Chapter Objectives)
         - The Thousand Maws: Two new routes (Expansion (Naval)/Destruction)
     - Lizardmen:
         - Hexoatl: Three new routes (Unification (Lustria)/Threat Elimination/Edification)
@@ -286,6 +286,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
 
 ## [3.1.0] TBA - TBA
 
+- Added in-game tags for all routes (i.e. Unification/Conquest/Naval Supremacy)
 - Fixed a bug that prevented Ironbow's Expedition Route I from loading
 
 Things to test:
@@ -297,3 +298,4 @@ Things to test:
 - HASH MAP OF ROUTE KEY + NEW NAME
 
 TODO ADD MAGIC SUPREMACY FOR BONERATLAZ
+TODO WH2 TWA03 DEF RAKARTH?

@@ -2,7 +2,7 @@ local missions = {
     [[
         mission
         {
-            victory_type vco_victory_type_alternative_1;
+            victory_type vco_victory_type_alternative_1_unification;
             key wh_main_long_victory;
             issuer CLAN_ELDERS;
             primary_objectives_and_payload
@@ -35,7 +35,7 @@ local missions = {
     [[
         mission
         {
-            victory_type vco_victory_type_alternative_2;
+            victory_type vco_victory_type_alternative_2_threat_elimination;
             key wh_main_long_victory;
             issuer CLAN_ELDERS;
             primary_objectives_and_payload
@@ -67,7 +67,7 @@ local missions = {
     [[
         mission
         {
-            victory_type vco_victory_type_alternative_3;
+            victory_type vco_victory_type_alternative_3_edification;
             key wh_main_long_victory;
             issuer CLAN_ELDERS;
             primary_objectives_and_payload
