@@ -20,7 +20,7 @@
 	* Destroy all close threats:
 		* Bloody Spearz, Bonerattlaz, Creeping Death, Crooked Moon Mutinous Gits, Greenskins, 
 		  Red Eye, Red Fangs, Scabby Eye, Skull Crag, Teef Snatchaz, The Bloody Handz, Top Knotz 
-		* Clan Ferrik, Clan Gritus, Clan Rictus, Clan Volkn
+		* Clan Ferrik, Clan Gritus, Clan Volkn
 
 ### Karak Kadrin
 
