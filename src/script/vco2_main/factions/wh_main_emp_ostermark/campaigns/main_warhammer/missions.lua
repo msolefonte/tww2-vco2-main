@@ -41,7 +41,7 @@ local missions = {
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 12;
+					total 7;
 
 					province wh_main_averland;
                     province wh_main_eastern_sylvania;
