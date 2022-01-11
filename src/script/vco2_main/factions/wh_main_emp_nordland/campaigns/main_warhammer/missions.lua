@@ -21,7 +21,7 @@ local missions = {
 				objective
                 {
                     type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_OF_SUBCULTURE;
-                    total 12;
+                    total 9;
 
                     subculture wh_main_sc_nor_norsca;
                 }
