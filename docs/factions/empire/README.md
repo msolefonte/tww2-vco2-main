@@ -53,14 +53,17 @@
     * Control the provinces Hochland, Middenland, Nordland, Oastland, The Misty Hills and The Wasteland
 * **Route II - Threat Elimination:**
     * Raze or sack 9 Norscan settlements
-* **Route III - ???:**
-    * I WANAAA CRY
+* **Route III - Commercial Victory:**
+	* Obtain access to the following resources:
+	    * Dyes, Furs, Timber, Iron, Marbre, Gold, Wine, Pottery, Salt
+	* Have at least 6 trading partners
+	* Have a trading income of at least 2000
 
 #### Marienburg
 
 * **Route I - Commercial Victory:**
 	* Obtain access to the following resources:
-	    * Dyes, Furs, Timber, Iron, Marbre, Gold, Wine, Pottery, Salt
+	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Pottery, Salt, Spices, Timber, Wine
 	* Have at least 6 trading partners
 	* Have a trading income of at least 3500
 * **Route II - Threat Elimination:**
@@ -97,7 +100,7 @@
 	* Obtain access to the following resources:
 	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Pottery, Salt, Spices, Timber, Wine
 	* Have at least 6 trading partners
-	* Have a trading income of at least 3000
+	* Have a trading income of at least 5000
 
 #### Ostermark
 
@@ -148,9 +151,13 @@
 
 #### Wissenland
 
-* **Route I - ???:**
-    * SOMETHING RELATED TO THE AMETHYST ORDER/AMETHYST WIZARDS?
-* **Route II - ???:**
-    * MAYBE GO CRAZY AND FOCUS ON TOMB KINGS / MAGIC SUPREMACY
-* **Route III - ???:**
-    * NULN GUNNERY SCHOOL IS THERE BUT I THINK IT SUITS BETTER OUR MAN GELT
+* **Route I - Magic Supremacy:**
+    * Own at least 5 Amethyst Wizards
+    * Construct at least 3 of the following special buildings:
+        * Altdorf Colleges of Magic, Cleansed Convent of Sorcery, Great Halls of Nagashizzar, Occupied White Tower of 
+        Hoeth, The Chamber of Visions, The Gran Cauldron, Tower of the Bloodytooth, Vault of Nagash
+* **Route II - Destruction:**
+    * Raze or sack 6 Vampire Counts settlements
+    * Raze or sack 6 Tomb Kings settlements
+* **Route III - Edification:**
+    * Build the Nuln Gunnery School and three Imperial Academies
