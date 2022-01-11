@@ -26,7 +26,6 @@ local missions = {
 					building_level wh2_main_special_tower_of_hoeth_2_emp;
 					building_level wh2_main_special_chamber_of_visions;
 					building_level wh_main_sch_special_moot_cauldron_1;
-					building_level wh2_dlc15_special_fortress_of_vorag_tower_of_the_blood;
 					building_level wh2_main_special_pyramid_of_nagash_other;
 
 					faction wh_main_emp_wissenland;
@@ -81,7 +80,7 @@ local missions = {
 				objective
 				{
 					type CONSTRUCT_N_BUILDINGS_INCLUDING;
-					total 2;
+					total 1;
 
 					building_level wh_main_special_nuln_gunnery_school;
 

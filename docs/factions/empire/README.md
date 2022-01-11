@@ -155,7 +155,7 @@
     * Own at least 5 Amethyst Wizards
     * Construct at least 3 of the following special buildings:
         * Altdorf Colleges of Magic, Cleansed Convent of Sorcery, Great Halls of Nagashizzar, Occupied White Tower of 
-        Hoeth, The Chamber of Visions, The Gran Cauldron, Tower of the Bloodytooth, Vault of Nagash
+        Hoeth, The Chamber of Visions, The Gran Cauldron, Vault of Nagash
 * **Route II - Destruction:**
     * Raze or sack 6 Vampire Counts settlements
     * Raze or sack 6 Tomb Kings settlements

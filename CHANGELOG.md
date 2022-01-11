@@ -293,4 +293,28 @@ occasions, now it will be viable to play tall/defensively, without any requisite
 - Added a Magic Supremacy route for Bonerattlaz
 - Add placeholders for future factions (Cataph's TEB + Kraka Drak/OvN Amazons + Araby + The Moot)
 - Fixed a bug that prevented Ironbow's Expedition Route I from loading
-- Solved a bug that caused The Thousand Maws Victory Conditions to be Vanilla
+- Solved a bug that caused The Thousand Maws Victory Conditions to be vanilla
+
+## [3.2.0] TBA - TBA
+
+- Destroying Clan Rictus is no longer required as Karaz-a-Karak
+- Clan Eshin changes:
+    - Route I now has to achieve 65 reputation with two clans (instead of 78)
+    - Route II now requires you to perform agent assassinations
+    - Route III does not longer require destroying Karaz-a-Karak
+- Added support for Mixu's Legendary Lords
+    - Averland: Threat Elimination (Mixed), Destruction (Wood Elves) and Miscellany (Craziness)
+    - Hochland: Unification (Northern Empire), Threat Elimination (Norsca), Commercial Victory
+    - Marienburg: Commercial Victory, Threat Elimination (Albion), Naval Supremacy
+    - Middenland: Threat Elimination (Mixed), Unification (Northern Empire), Corruption (Ulric, Northern Empire)
+    - Nordland: Threat Elimination (Norsca), Naval Supremacy, Commercial Victory
+    - Ostermark: Threat Elimination (Mixed), Unification (Eastern Empire), Miscellany (Witch Hunting)
+    - Ostland: Threat Elimination (Norsca), Expansion (Kislev), Unification (Northern Empire)
+    - Stirland: Corruption (Sigmar, Eastern Empire), Threat Elimination, Unification (Eastern Empire)
+    - Talabecland: Threat Elimination (Mixed), Corruption (Taal, Eastern Empire), Unification (Eastern Empire)
+    - Wissenland: Magic Supremacy, Destruction (Vampire Counts/Tomb Kings), Edification
+- Fixed bugs
+    - Destroying Clan Rictus as Karaz-a-Karak is no longer required
+    - Clan Eshin reputation is now detected properly
+    - Clan Skryre Workshop level is now detected properly
+    - Technical: is_multiplayer() check has been removed, now add_first_tick_callback() is used
