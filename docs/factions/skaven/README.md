@@ -54,9 +54,8 @@
 * **Route I:**
 	* Attain 65 reputation with two clans
 * **Route II:**
-	* Perform the Level 4 Scheme Shadowy Dealing 1 time
 	* Perform the Nightlord's Say-So 3 times
-	* Perform 13 Shadowy Dealings
+	* Perform 13 assassinations
 * **Route III:**
 	* Destroy factions
-	    * Karak-a-Karak, Hag Graef, Knights of Caledor, Last Defenders
+	    * Hag Graef, Knights of Caledor, Last Defenders
