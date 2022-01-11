@@ -36,7 +36,7 @@ local missions = {
 				objective
 				{
 				    type TRADE_INCOME_AT_LEAST_X;
-				    total 5000;
+				    total 3500;
 				}
 
                 payload
