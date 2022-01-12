@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.0] The VCO 2.0 Update - 14.07.2020
+## [2.0.0] The VCO 2.0 Update - 14/07/2020
 
 - Update to Victory Conditions Overhaul 2.0
     - Compatibility improved
@@ -25,12 +25,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Now Bordeleaux, Bretonnia and Carcassone only need 800 Chivalry to achieve a Short Victory
 - Now Bordeleaux, Bretonnia and Carcassone only need 1600 Chivalry to achieve a Long Victory
 
-## [2.0.1] Minor Fix - 18.07.2020
+## [2.0.1] Minor Fix - 18/07/2020
 
 - Now Followers of Nagash have to control the Black Pyramid of Nagash to achieve a Short Victory
 - Fixed a bug where Clan Mors had to destroy Clan Mors to achieve a victory
 
-## [2.1.0] Major Update - 25.07.2020
+## [2.1.0] Major Update - 25/07/2020
 
 - The number of special buildings required by The Blessed Dread to achieve a Short Victory has been reduced to 1
 - The number of special buildings required by The Blessed Dread to achieve a Long Victory has been reduced to 3
@@ -76,7 +76,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Fixed a bug where Beastmen final battle never happened
     - Solved a bug where some unit requirements numbers where weird and different from the docs
 
-## [2.1.1] Minor Update - 10.11.2020
+## [2.1.1] Minor Update - 10/11/2020
 
 - Controlling Northern Grey Mountains is no longer required by Karak Kadrin to achieve a Short Victory
 - Fixed bugs / Minor changes
@@ -89,7 +89,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     factions in order to prevent weird situations where you had to attack your own settlements. The key
     OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS_INCLUDING does not exist
 
-## [2.2.0] Minor Update - 5.12.2020
+## [2.2.0] Minor Update - 5/12/2020
 
 - Add support for The Twisted & The Twilight DLC
 - Fix a bug with the Bonerattlaz faction
@@ -97,7 +97,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - NOTE:
     - Support for the new factions/Wood Elves rework has not been added. I do not own the DLC
 
-## [2.3.0] The Hammer and The Viper update - 16.12.2020
+## [2.3.0] The Hammer and The Viper update - 16/12/2020
 
 - Major redone has been introduced to the Court of Lybaras faction
     - Constructing a Pyramid has been removed from the Short Victory
@@ -113,7 +113,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Building the Throne Hall of the High King is now required to achieve both types of victory
     - The aim is to keep the Dwarfs more local and defensive. The removed regions are too far away for a short victory
 
-## [2.4.0] The Woods and The Dragons update - 03.02.2021
+## [2.4.0] The Woods and The Dragons update - 03/02/2021
 
 - Redone added to Knights of Caledor
     - Controlling Plains of Bones is now required to achieve a victory
@@ -148,7 +148,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Known bugs:
     - In some cases, the new conditions do not appear till triggered with the "Victory Objectives" button
 
-## [2.5.0] Population & Corruption Update - 15.05.2021
+## [2.5.0] Population & Corruption Update - 15/05/2021
 
 - Updated Knights of Caledor victory conditions
     - Required buildings to achieve a Short Victory have been reduced to Purified Graves of the Dragons and a Dragon Keep
@@ -177,7 +177,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed a bug where Followers of Nagash had to create non-existent buildings
 - Special thanks to **BoyNamedHsu** for his help with this release
 
-## [2.6.0] The Wolf and The Goats update - 19.07.2021
+## [2.6.0] The Wolf and The Goats update - 19/07/2021
 
 - Introduction to a new approach to victory conditions, only affecting some factions by now:
     - Short Victories are now meant to be SHORT. Under 50 turns short
@@ -196,7 +196,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Less focused on individual factions / Spending all time in Norsca
     - More focused on travelling around the world and completing Visions of the Old Ones
 
-## [3.0.0] The Routes Rework update - 14.12.2021
+## [3.0.0] The Routes Rework update - 14/12/2021
 
 - Introduced new feature _Routes_. Now, instead of having evolving campaigns with _Short_, _Long_ and _Ultimate_
 checkpoints, you can choose completely different ways to approach your campaign. For example, as Dwarfs, you can now win
@@ -284,7 +284,7 @@ occasions, now it will be viable to play tall/defensively, without any requisite
         - The Drowned: Three new routes (Conquest (Ulthuan Ports)/Edification/Infamy)
 - A lot of bugfixes
 
-## [3.1.0] Minor Update - 21.12.2021
+## [3.1.0] Minor Update - 21/12/2021
 
 - Added in-game tags for all routes (i.e. Unification/Conquest/Naval Supremacy)
 - Commercial Victories (Lothern/Exiles of Nehek/Bordeleaux) now also required a minimum trading income of 5000 and at 
@@ -295,10 +295,10 @@ occasions, now it will be viable to play tall/defensively, without any requisite
 - Fixed a bug that prevented Ironbow's Expedition Route I from loading
 - Solved a bug that caused The Thousand Maws Victory Conditions to be vanilla
 
-## [3.2.0] TBA - TBA
+## [3.2.0] The Imperial Update - 12/01/2022
 
 - Destroying Clan Rictus is no longer required as Karaz-a-Karak
-- Clan Eshin changes:
+- Clan Eshin revisited:
     - Route I now has to achieve 65 reputation with two clans (instead of 78)
     - Route II now requires you to perform agent assassinations
     - Route III does not longer require destroying Karaz-a-Karak
