@@ -29,13 +29,6 @@ local missions = {
             issuer CLAN_ELDERS;
             primary_objectives_and_payload
             {
-                objective
-				{
-					type PERFORM_RITUAL;
-					ritual_category ESHIN_RITUAL_DELAYED;
-					total 1;
-				}
-
 				objective
 				{
 					type PERFORM_RITUAL;
@@ -44,11 +37,10 @@ local missions = {
 				}
 
 				objective
-				{
-					type PERFORM_RITUAL;
-					ritual_category ESHIN_RITUAL;
-					total 13;
-				}
+                {
+                    type ASSASSINATE_X_CHARACTERS;
+                    total 13;
+                }
 
                 payload
                 {
@@ -68,8 +60,6 @@ local missions = {
                 objective
 				{
 					type DESTROY_FACTION;
-
-					faction wh_main_dwf_dwarfs;
 
 					faction wh2_main_def_hag_graef;
 

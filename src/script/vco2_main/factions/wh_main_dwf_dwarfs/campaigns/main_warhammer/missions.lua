@@ -93,7 +93,6 @@ local missions = {
 
                     faction wh2_dlc15_skv_clan_ferrik;
                     faction wh2_dlc16_skv_clan_gritus;
-                    faction wh2_dlc09_skv_clan_rictus;
                     faction wh2_dlc15_skv_clan_volkn;
 
                     confederation_valid;
