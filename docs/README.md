@@ -18,7 +18,9 @@
 * [Warriors of Chaos](factions/warriors-of-chaos/README.md)
 * [Wood Elves](factions/wood-elves/README.md)
 
-1. Supports Mixu's Legendary Lords
+**Notes**
+
+1. [Supports Mixu's Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=1194588998)
 
 ## Mod Races
 
