@@ -6,7 +6,7 @@
 * [Bretonnia](factions/bretonnia/README.md)
 * [Dark Elves](factions/dark-elves/README.md)
 * [Dwarfs](factions/dwarfs/README.md)
-* [Empire](factions/empire/README.md)
+* [Empire](factions/empire/README.md)<sup>1</sup>
 * [Greenskins](factions/greenskins/README.md)
 * [High Elves](factions/high-elves/README.md)
 * [Lizardmen](factions/lizardmen/README.md)
@@ -18,6 +18,9 @@
 * [Warriors of Chaos](factions/warriors-of-chaos/README.md)
 * [Wood Elves](factions/wood-elves/README.md)
 
+**Notes**
+
+1. Supports [Mixu's Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=1194588998)
 ## Mod Races
 
  * [Cataph's Southern Realms (TEB)](factions/teb/README.md)

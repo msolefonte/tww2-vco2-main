@@ -32,7 +32,7 @@
 	    * Bleak Holds, Clar Karond, Cult of Pleasure, Ssildra Tor
 * **Route II:**
 	* Obtain access to the following resources:
-	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Textiles, Lead, Spices, Timber, Wine
+	    * Obsidian, Dyes, Animals, Furs, Gems, Gold, Iron, Marbre, Medicine, Pottery, Salt, Spices, Timber, Wine
 	* Have at least 6 trading partners
 	* Have a trading income of at least 5000
 * **Route III:**
