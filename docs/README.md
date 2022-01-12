@@ -21,7 +21,6 @@
 **Notes**
 
 1. Supports [Mixu's Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=1194588998)
-
 ## Mod Races
 
  * [Cataph's Southern Realms (TEB)](factions/teb/README.md)
