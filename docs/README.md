@@ -20,7 +20,7 @@
 
 **Notes**
 
-1. [Supports Mixu's Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=1194588998)
+1. Supports [Mixu's Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=1194588998)
 
 ## Mod Races
 
